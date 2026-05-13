@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-13T22:07:55.047Z",
-  "generatedAtEastern": "5/13/2026, 18:07:55",
+  "generatedAt": "2026-05-13T22:09:57.866Z",
+  "generatedAtEastern": "5/13/2026, 18:09:57",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 14.4,
+        "15-16": 7.9,
+        "16-18": 48.5
+      },
+      "tpv": 14.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Andrew Brett",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -222,28 +244,6 @@
         "16-18": 18.7
       },
       "tpv": 17,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tara Schumacker",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 14.4,
-        "15-16": 7.9,
-        "16-18": 42
-      },
-      "tpv": 16.1,
       "qaApproved": true
     },
     {
