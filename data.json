@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-13T20:43:37.833Z",
-  "generatedAtEastern": "5/13/2026, 16:43:37",
+  "generatedAt": "2026-05-13T20:45:40.613Z",
+  "generatedAtEastern": "5/13/2026, 16:45:40",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -27,6 +27,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 7,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.2,
+        "12-13": 0,
+        "13-14": 9,
+        "14-15": 0,
+        "15-16": 14.9,
+        "16-18": 35
+      },
+      "tpv": 11.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christine Stubbs",
       "qualifiedXfers": 6,
       "hourlyXfers": {
@@ -46,28 +68,6 @@
         "16-18": 13.3
       },
       "tpv": 16.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 6,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 21.2,
-        "12-13": 0,
-        "13-14": 9,
-        "14-15": 0,
-        "15-16": 14.9,
-        "16-18": 19.1
-      },
-      "tpv": 10.7,
       "qaApproved": true
     },
     {
