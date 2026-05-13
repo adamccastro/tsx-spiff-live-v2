@@ -166,7 +166,7 @@ function updateHtml(agentData) {
 
 function gitPush(agentCount) {
   const now = new Date().toLocaleString('en-US', { timeZone: TIME_ZONE, hour12: false });
-  execSync('git add index.html data.json', { cwd: __dirname });
+  execSync('git add data.json', { cwd: __dirname });
 
   const staged = execSync('git diff --cached --name-only', { cwd: __dirname, encoding: 'utf8' }).trim();
   if (!staged) {
