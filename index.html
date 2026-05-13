@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TSX Hourly Spiff Dashboard</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%;background:#07080f;color:#fff;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;overflow-x:hidden}
+  body{
+    background:
+      radial-gradient(ellipse at top,    rgba(180,30,30,0.22), transparent 60%),
+      radial-gradient(ellipse at bottom, rgba(30,60,180,0.18), transparent 60%),
+      linear-gradient(180deg,#07070d 0%,#0b0d18 100%);
+    min-height:100vh;padding:18px
+  }
+  .container{max-width:1920px;margin:0 auto;display:flex;flex-direction:column;gap:14px}
+  .panel{
+    background:linear-gradient(180deg,rgba(20,22,32,0.95) 0%,rgba(12,14,22,0.95) 100%);
+    border:1px solid rgba(255,255,255,0.08);
+    box-shadow:0 8px 32px rgba(0,0,0,0.45),inset 0 1px 0 rgba(255,255,255,0.04);
+    border-radius:16px;padding:18px
+  }
+  .gold-edge{border-color:rgba(252,211,77,0.35) !important}
+  .glow{text-shadow:0 0 18px rgba(255,200,0,0.55),0 0 4px rgba(255,255,255,0.6)}
+  .tabular{font-variant-numeric:tabular-nums}
+  .gold{color:#fcd34d}
+  .muted{color:#94a3b8}
+
+  /* HEADER */
+  .header{display:flex;justify-content:space-between;align-items:center;gap:24px}
+  .header-left{display:flex;align-items:center;gap:18px}
+  .live-dot{width:12px;height:12px;border-radius:50%;background:#ef4444;animation:pulseGold 1.6s infinite}
+  @keyframes pulseGold{0%,100%{box-shadow:0 0 0 0 rgba(252,211,77,0.65)}50%{box-shadow:0 0 0 10px rgba(252,211,77,0)}}
+  .eyebrow{font-size:11px;letter-spacing:0.4em;text-transform:uppercase;color:rgba(252,211,77,0.8)}
+  .title{font-size:46px;font-weight:900;letter-spacing:-0.02em;line-height:1.05}
+  .title .alt{color:#fcd34d}
+  .subtitle{font-size:12px;letter-spacing:0.25em;text-transform:uppercase;color:#94a3b8;margin-top:4px}
+  .clock{font-size:54px;font-weight:900;line-height:1}
+  .date{font-size:11px;letter-spacing:0.25em;text-transform:uppercase;color:#94a3b8;margin-top:6px;text-align:right}
+
+  /* TOPBAR */
+  .topbar{display:flex;justify-content:flex-end}
+  .override-btn{background:rgba(255,255,255,0.05);color:#cbd5e1;font-size:11px;letter-spacing:0.2em;text-transform:uppercase;padding:7px 14px;border-radius:10px;border:1px solid rgba(255,255,255,0.10);cursor:pointer}
+  .override-btn:hover{color:#fcd34d;border-color:rgba(252,211,77,0.4)}
+
+  /* SPOTLIGHT */
+  .spotlight{
+    background:linear-gradient(135deg,rgba(252,211,77,0.18) 0%,rgba(245,158,11,0.08) 50%,rgba(180,30,30,0.18) 100%);
+    border:2px solid rgba(252,211,77,0.55);border-radius:16px;padding:24px 28px;
+    display:flex;align-items:center;justify-content:space-between;gap:24px;flex-wrap:wrap
+  }
+  .spot-eyebrow{font-size:12px;letter-spacing:0.4em;text-transform:uppercase;color:#fde68a}
+  .spot-time{font-size:18px;font-weight:800;color:#fff;margin-top:2px}
+  .spot-prize{display:inline-block;background:#fcd34d;color:#000;font-weight:900;padding:4px 12px;border-radius:8px;font-size:14px;margin-top:6px;letter-spacing:0.05em}
+  .spot-leader{font-size:64px;font-weight:900;color:#fcd34d;line-height:1.05;letter-spacing:-0.02em}
+  .spot-count{font-size:18px;font-weight:700;color:#cbd5e1;margin-top:6px}
+  .spot-count .num{font-size:28px;color:#fff;font-weight:900;margin-right:6px}
+  .spot-empty{font-size:32px;font-weight:800;color:#94a3b8;font-style:italic}
+
+  /* HOURLY GRID */
+  .hourly-grid{display:grid;grid-template-columns:repeat(6,1fr);gap:12px}
+  .hour-card{
+    border-radius:14px;padding:14px;
+    border:1px solid rgba(255,255,255,0.10);background:rgba(255,255,255,0.04);
+    background-image:repeating-linear-gradient(45deg,rgba(255,255,255,0.03),rgba(255,255,255,0.03) 6px,transparent 6px,transparent 12px);
+    display:flex;flex-direction:column;gap:6px;min-height:140px
+  }
+  .hour-card.current{border:2px solid #fcd34d;background-color:rgba(252,211,77,0.10);box-shadow:0 0 0 4px rgba(252,211,77,0.10)}
+  .hour-card.past{opacity:0.85}
+  .hour-card.future{opacity:0.6}
+  .hour-time{font-size:13px;letter-spacing:0.18em;text-transform:uppercase;color:#cbd5e1;font-weight:700}
+  .hour-amt{display:inline-block;background:#fcd34d;color:#000;font-size:13px;font-weight:900;padding:3px 10px;border-radius:6px;align-self:flex-start;margin-top:2px}
+  .hour-status{font-size:10px;letter-spacing:0.18em;text-transform:uppercase;color:#94a3b8;margin-top:auto}
+  .hour-status.live{color:#fcd34d;font-weight:900}
+  .hour-winner{font-size:24px;font-weight:900;color:#fcd34d;line-height:1.1;margin-top:8px}
+  .hour-tied{font-size:18px;font-weight:800;color:#fcd34d;line-height:1.2;margin-top:8px}
+  .hour-count{font-size:12px;color:#94a3b8;margin-top:2px}
+  .hour-empty{font-size:14px;font-style:italic;color:#64748b;margin-top:8px}
+
+  /* LEADERBOARD */
+  .leaderboard-wrap{max-height:62vh;overflow-y:auto}
+  .leaderboard-wrap::-webkit-scrollbar{width:0}
+  table.leaderboard{width:100%;border-collapse:collapse}
+  table.leaderboard th{font-size:11px;letter-spacing:0.18em;text-transform:uppercase;color:#94a3b8;text-align:left;padding:8px 6px;position:sticky;top:0;background:#0b0d18}
+  table.leaderboard td{padding:10px 6px;border-top:1px solid rgba(255,255,255,0.05)}
+  tr.rank-1{background:rgba(252,211,77,0.10)}
+  tr.rank-3{background:rgba(252,211,77,0.05)}
+  td.rank{font-weight:900;font-size:18px;font-variant-numeric:tabular-nums;width:36px}
+  td.agent{font-weight:700;font-size:16px}
+  td.score{text-align:right;font-weight:900;font-size:22px;color:#fcd34d;font-variant-numeric:tabular-nums}
+  td.tpv{text-align:right;color:#cbd5e1;font-variant-numeric:tabular-nums}
+  td.qa{text-align:center}
+  .check{color:#34d399;font-weight:900}
+  .cross{color:#fb7185;font-weight:900}
+  .crown{font-size:20px}
+
+  /* PRIZES + RULES */
+  .h2{font-size:22px;font-weight:900;letter-spacing:0.04em;margin-bottom:10px}
+  .panel-head{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:12px}
+  .grid-2{display:grid;grid-template-columns:5fr 3fr;gap:14px;align-items:start}
+  .stack{display:flex;flex-direction:column;gap:14px}
+  .prize-row{display:flex;justify-content:space-between;padding:10px 12px;border-radius:10px;margin-bottom:6px;border:1px solid rgba(255,255,255,0.10);background:rgba(255,255,255,0.04)}
+  .prize-row.top{background:rgba(252,211,77,0.12);border-color:rgba(252,211,77,0.4)}
+  .prize-row .name{font-weight:700}
+  .prize-row .value{font-weight:800;color:#cbd5e1;font-size:13px;text-align:right}
+  .prize-row.top .value{color:#fcd34d}
+  .rules{padding-left:22px;font-size:13px;color:#cbd5e1}
+  .rules li{margin-bottom:6px}
+
+  /* DRAWER */
+  .drawer-back{position:fixed;inset:0;background:rgba(0,0,0,0.7);display:none;z-index:1000;align-items:stretch;justify-content:flex-end}
+  .drawer-back.open{display:flex}
+  .drawer{width:480px;height:100%;padding:24px;overflow-y:auto;background:linear-gradient(180deg,rgba(20,22,32,0.98),rgba(12,14,22,0.98));border-left:1px solid rgba(252,211,77,0.4)}
+  .drawer h3{font-size:18px;font-weight:900}
+  .drawer .close{float:right;cursor:pointer;color:#cbd5e1;font-size:24px;line-height:1;background:none;border:none}
+  .drawer label{display:block;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:#94a3b8;margin:12px 0 4px}
+  .drawer select,.drawer input{width:100%;padding:8px 10px;border-radius:8px;background:rgba(0,0,0,0.4);border:1px solid rgba(255,255,255,0.15);color:#fff;font-size:14px}
+  .drawer .apply-btn{width:100%;margin-top:14px;padding:10px;border-radius:10px;background:#fcd34d;color:#000;font-weight:900;letter-spacing:0.2em;text-transform:uppercase;border:none;cursor:pointer}
+  .drawer .apply-btn:hover{background:#fde68a}
+  .override-list{margin-top:16px;border-top:1px solid rgba(255,255,255,0.10);padding-top:12px}
+  .override-list .override{background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.10);border-radius:8px;padding:10px;margin-bottom:8px}
+  .override-list .clear{float:right;color:#fda4af;font-size:11px;cursor:pointer;background:none;border:none}
+  .override-list pre{font-size:11px;color:#cbd5e1;white-space:pre-wrap}
+
+  .footer{text-align:center;padding-top:6px;font-size:10px;color:#64748b;letter-spacing:0.4em;text-transform:uppercase}
+</style>
+</head>
+<body>
+<div class="container" id="app"><!-- rendered by JS --></div>
+<div id="drawer-mount"></div>
+
+<script>
+/* ============================================================
+   TSX HOURLY SPIFF DASHBOARD
+   ------------------------------------------------------------
+   Hourly individual contest. No bracket, no rounds.
+   Each time block has its own winner (most qualified xfers in
+   that block) and pays out the listed spiff amount.
+   ------------------------------------------------------------
+   OPENCLAW: Replace AGENT_DATA below with the live array
+   pulled from the production sheet. Keys are time-block IDs
+   matching TOURNAMENT_CONFIG.hourlyBlocks.
+   ============================================================ */
+
+/* ------------------------------------------------------------
+   1) DATA SOURCE
+   ------------------------------------------------------------
+   Each agent object should follow this shape:
+   {
+     agentName:      "Jane D.",   // string  (required)
+     qualifiedXfers: 12,          // number  (required) total for the day
+     hourlyXfers: {               // numbers per time block id
+       "10-12": 4,                // 10am-12pm  ($30 spiff)
+       "12-13": 1,                // 12pm-1pm   ($10)
+       "13-14": 2,                // 1pm-2pm    ($10)
+       "14-15": 1,                // 2pm-3pm    ($10)
+       "15-16": 2,                // 3pm-4pm    ($10)
+       "16-18": 2                 // 4pm-6pm    ($30)
+     },
+     tpv: 4.8,                    // number $M  (optional)
+     qaApproved: true             // bool       (optional)
+   }
+   ------------------------------------------------------------ */
+/* AGENT_DATA_START */
+let AGENT_DATA = [
+  {
+    "agentName": "Oreste Bacigalupo",
+    "qualifiedXfers": 3,
+    "hourlyXfers": {
+      "10-12": 3,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 21.2,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 7.1,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Sam Hill",
+    "qualifiedXfers": 2,
+    "hourlyXfers": {
+      "10-12": 2,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 17.2,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 8.6,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Anthony Canales",
+    "qualifiedXfers": 2,
+    "hourlyXfers": {
+      "10-12": 2,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 22.4,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 11.2,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Andrew Brett",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 10.8,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 10.8,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Nick Marino",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 8.8,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 8.8,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Stephanie Artigas",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 19.1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 19.1,
+    "qaApproved": true
+  },
+  {
+    "agentName": "David Parker",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 17.3,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 17.3,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Tiffany Bays",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 5.8,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 5.8,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Alexa Todd",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 23.1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 23.1,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Jamie Tyler",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 16.9,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 16.9,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Jeff Octave",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 13.4,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 13.4,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Kenneth Martin",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 14,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 14,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Gina Blaney",
+    "qualifiedXfers": 1,
+    "hourlyXfers": {
+      "10-12": 0,
+      "12-13": 1,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "hourlyTpvTotal": {
+      "10-12": 0,
+      "12-13": 9,
+      "13-14": 0,
+      "14-15": 0,
+      "15-16": 0,
+      "16-18": 0
+    },
+    "tpv": 9,
+    "qaApproved": true
+  }
+];
+/* AGENT_DATA_END */
+
+/* ------------------------------------------------------------
+   2) TOURNAMENT CONFIG
+   ------------------------------------------------------------ */
+const TOURNAMENT_CONFIG = {
+  contestName: "TSX Hourly Spiff",
+  kpi: "Qualified Xfers Over $4M TPV",
+  // each block is [start hour, end hour) on a 24h clock
+  hourlyBlocks: [
+    { id: "10-12", label: "10 AM - 12 PM", startH: 10, endH: 12, spiff: 30 },
+    { id: "12-13", label: "12 - 1 PM",     startH: 12, endH: 13, spiff: 10 },
+    { id: "13-14", label: "1 - 2 PM",      startH: 13, endH: 14, spiff: 10 },
+    { id: "14-15", label: "2 - 3 PM",      startH: 14, endH: 15, spiff: 10 },
+    { id: "15-16", label: "3 - 4 PM",      startH: 15, endH: 16, spiff: 10 },
+    { id: "16-18", label: "4 - 6 PM",      startH: 16, endH: 18, spiff: 30 }
+  ],
+  prizes: {
+    hourly:  "Per block (see tracker)",
+    daily:   "Top 3 daily leaderboard bonus"
+  }
+};
+
+/* ------------------------------------------------------------
+   3) MANUAL OVERRIDES
+   ------------------------------------------------------------ */
+let OVERRIDES = {};
+let drawerOpen = false;
+let BLOCK_OVERRIDES = JSON.parse(localStorage.getItem('blockOverrides') || '{}');
+const DASHBOARD_TIME_ZONE = 'America/New_York';
+let lastUpdated = null;
+// example: OVERRIDES["Marcus W."] = { qualifiedXfers: 16, hourlyXfers: { "13-14": 5 } };
+
+/* ============================================================
+   CALCULATION HELPERS
+   ============================================================ */
+function applyOverrides(agents, overrides) {
+  return agents.map(function(a) {
+    var o = overrides[a.agentName]; if (!o) return a;
+    var merged = Object.assign({}, a, o);
+    merged.hourlyXfers = Object.assign({}, a.hourlyXfers, o.hourlyXfers || {});
+    return merged;
+  });
+}
+function rankAgents(agents) {
+  var sorted = agents.slice().sort(function(a, b) {
+    if (b.qualifiedXfers !== a.qualifiedXfers) return b.qualifiedXfers - a.qualifiedXfers;
+    return (b.tpv || 0) - (a.tpv || 0);
+  });
+  return sorted.map(function(a, i) { return Object.assign({}, a, { rank: i + 1 }); });
+}
+function rankAgentsForBlock(agents, blockId) {
+  var inBlock = agents.filter(function(a) {
+    return ((a.hourlyXfers && a.hourlyXfers[blockId]) || 0) >= 1;
+  });
+  var sorted = inBlock.slice().sort(function(a, b) {
+    var xa = (a.hourlyXfers && a.hourlyXfers[blockId]) || 0;
+    var xb = (b.hourlyXfers && b.hourlyXfers[blockId]) || 0;
+    if (xb !== xa) return xb - xa;
+    return getHourlyAvgTpv(b, blockId) - getHourlyAvgTpv(a, blockId);
+  });
+  return sorted.map(function(a, i) {
+    var xfers = (a.hourlyXfers && a.hourlyXfers[blockId]) || 0;
+    return Object.assign({}, a, { rank: i + 1, blockQualified: xfers >= 2 });
+  });
+}
+function getHourlyAvgTpv(agent, blockId) {
+  var xfers = (agent.hourlyXfers && agent.hourlyXfers[blockId]) || 0;
+  var tpvTotal = (agent.hourlyTpvTotal && agent.hourlyTpvTotal[blockId]) || 0;
+  return xfers > 0 ? tpvTotal / xfers : 0;
+}
+
+function getHourlyLeaders(agents, blocks) {
+  return blocks.map(function(block) {
+    var best = -1;
+    agents.forEach(function(a) {
+      var v = (a.hourlyXfers && a.hourlyXfers[block.id]) || 0;
+      if (v > best) best = v;
+    });
+    var tied = best >= 2 ? agents.filter(function(a) {
+      return ((a.hourlyXfers && a.hourlyXfers[block.id]) || 0) === best;
+    }) : [];
+    // Tiebreak: highest avg TPV for that hour wins
+    var winners = tied;
+    if (tied.length > 1) {
+      var bestAvg = Math.max.apply(null, tied.map(function(a) { return getHourlyAvgTpv(a, block.id); }));
+      winners = tied.filter(function(a) { return getHourlyAvgTpv(a, block.id) >= bestAvg - 0.001; });
+    }
+    return Object.assign({}, block, { count: best > 0 ? best : 0, winners: winners });
+  });
+}
+
+function computeEffectiveSpiffs(leaders, blocks, now) {
+  var hour = getEasternHourFromDate(now);
+  var carryover = 0;
+  var result = {};
+  for (var i = 0; i < blocks.length; i++) {
+    var b = blocks[i];
+    var eff = b.spiff + carryover;
+    result[b.id] = eff;
+    var isComplete = hour >= b.endH;
+    if (isComplete || BLOCK_OVERRIDES[b.id]) {
+      var leader = leaders.find(function(l) { return l.id === b.id; });
+      var hasWinner = !BLOCK_OVERRIDES[b.id] && isComplete && leader && leader.count >= 2;
+      carryover = hasWinner ? 0 : eff;
+    }
+  }
+  return result;
+}
+
+/* ============================================================
+   RENDER
+   ============================================================ */
+function escapeHtml(s) { return String(s).replace(/[&<>"]/g, function(c) {
+  return { '&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;' }[c];
+}); }
+
+function getEasternHourFromDate(date) {
+  var parts = new Intl.DateTimeFormat('en-US', {
+    timeZone: DASHBOARD_TIME_ZONE,
+    hour: 'numeric',
+    hourCycle: 'h23'
+  }).formatToParts(date);
+  var hourPart = parts.find(function(p) { return p.type === 'hour'; });
+  return hourPart ? Number(hourPart.value) : date.getHours();
+}
+
+function normalizeDataPayload(payload) {
+  if (Array.isArray(payload)) return { agents: payload, generatedAt: null };
+  if (payload && Array.isArray(payload.agents)) {
+    return { agents: payload.agents, generatedAt: payload.generatedAt || null };
+  }
+  throw new Error('Invalid data.json payload');
+}
+
+function renderHeader(now) {
+  var time = now.toLocaleTimeString('en-US', { timeZone:DASHBOARD_TIME_ZONE, hour:'2-digit', minute:'2-digit', second:'2-digit' });
+  var date = now.toLocaleDateString('en-US', { timeZone:DASHBOARD_TIME_ZONE, weekday:'long', month:'long', day:'numeric' });
+  return ''
+    + '<div class="panel gold-edge header">'
+    +   '<div class="header-left">'
+    +     '<div class="live-dot"></div>'
+    +     '<div>'
+    +       '<div class="eyebrow">Live &middot; Hourly Spiff Contest</div>'
+    +       '<div class="title glow"><span class="alt">TSX</span> <span>HOURLY SPIFF</span></div>'
+    +       '<div class="subtitle">KPI &middot; ' + escapeHtml(TOURNAMENT_CONFIG.kpi) + '</div>'
+    +     '</div>'
+    +   '</div>'
+    +   '<div>'
+    +     '<div class="clock tabular">' + time + '</div>'
+    +     '<div class="date">' + date + '</div>'
+    +   '</div>'
+    + '</div>';
+}
+
+function renderSpotlight(currentBlock, leaders, effectiveSpiffs) {
+  if (!currentBlock) {
+    return ''
+      + '<div class="spotlight">'
+      +   '<div>'
+      +     '<div class="spot-eyebrow">Current Block</div>'
+      +     '<div class="spot-time">Outside contest hours</div>'
+      +   '</div>'
+      +   '<div class="spot-empty">No active block</div>'
+      + '</div>';
+  }
+  var b = leaders.find(function(x){ return x.id === currentBlock.id; });
+  var leaderHtml;
+  if (b.winners.length === 0) {
+    leaderHtml = '<div class="spot-empty">No qualified xfers yet</div>';
+  } else {
+    var names = b.winners.map(function(w){ return escapeHtml(w.agentName); });
+    leaderHtml = ''
+      + '<div style="text-align:right">'
+      +   '<div class="spot-leader glow">' + (names.length > 1 ? names.join(' / ') : names[0]) + '</div>'
+      +   '<div class="spot-count"><span class="num tabular">' + b.count + '</span>qualified xfer' + (b.count !== 1 ? 's' : '') + ' this block</div>'
+      + '</div>';
+  }
+  return ''
+    + '<div class="spotlight">'
+    +   '<div>'
+    +     '<div class="spot-eyebrow">Now Winning &middot; Live</div>'
+    +     '<div class="spot-time">' + currentBlock.label + '</div>'
+    +     '<div class="spot-prize">$' + (effectiveSpiffs[currentBlock.id] || currentBlock.spiff) + ' SPIFF</div>'
+    +   '</div>'
+    +   leaderHtml
+    + '</div>';
+}
+
+function renderHourlyGrid(leaders, now, effectiveSpiffs) {
+  var hour = getEasternHourFromDate(now);
+  var cards = leaders.map(function(b) {
+    var inside = hour >= b.startH && hour < b.endH;
+    var past   = hour >= b.endH;
+    var future = hour < b.startH;
+    var cls = 'hour-card ' + (inside ? 'current' : past ? 'past' : 'future');
+    var status = inside ? '<span class="hour-status live">&bull; LIVE NOW</span>'
+                : past   ? '<span class="hour-status">Settled</span>'
+                : '<span class="hour-status">Upcoming</span>';
+    var winnerHtml;
+    if (b.winners.length === 0) {
+      if (future) winnerHtml = '<div class="hour-empty">Not started</div>';
+      else if (past) winnerHtml = '<div class="hour-empty">No winner &mdash; rolled over</div>';
+      else winnerHtml = '<div class="hour-empty">No qualified xfers yet</div>';
+    } else if (b.winners.length === 1) {
+      winnerHtml = '<div class="hour-winner">' + escapeHtml(b.winners[0].agentName) + '</div>'
+                 + '<div class="hour-count">' + b.count + ' xfer' + (b.count !== 1 ? 's' : '') + (past ? ' &middot; paid' : '') + '</div>';
+    } else {
+      winnerHtml = '<div class="hour-tied">' + b.winners.map(function(w){ return escapeHtml(w.agentName); }).join(' / ') + '</div>'
+                 + '<div class="hour-count">Tied at ' + b.count + ' &middot; ' + b.winners.length + '-way</div>';
+    }
+    return ''
+      + '<div class="' + cls + '">'
+      +   '<div class="hour-time">' + b.label + '</div>'
+      +   '<div class="hour-amt">$' + (effectiveSpiffs[b.id] || b.spiff) + '</div>'
+      +   (BLOCK_OVERRIDES[b.id] ? '<div style="font-size:11px;color:#fb7185;font-weight:700;margin-top:2px">🔄 Rollover override</div>' : '')
+      +   winnerHtml
+      +   status
+      + '</div>';
+  }).join('');
+  return ''
+    + '<div class="panel">'
+    +   '<div class="panel-head"><div class="h2">HOURLY SPIFF TRACKER</div><div class="muted eyebrow">Each block has its own winner</div></div>'
+    +   '<div class="hourly-grid">' + cards + '</div>'
+    + '</div>';
+}
+
+function renderLeaderboard(ranked, currentBlock) {
+  if (!currentBlock) {
+    return ''
+      + '<div class="panel">'
+      +   '<div class="panel-head"><div class="h2">BLOCK LEADERBOARD</div><div class="muted eyebrow">No active block</div></div>'
+      +   '<div class="muted" style="padding:24px 0;text-align:center;font-style:italic">Contest is between blocks</div>'
+      + '</div>';
+  }
+  var blockId = currentBlock.id;
+  if (ranked.length === 0) {
+    return ''
+      + '<div class="panel">'
+      +   '<div class="panel-head"><div class="h2">BLOCK LEADERBOARD</div><div class="muted eyebrow">' + escapeHtml(currentBlock.label) + '</div></div>'
+      +   '<div class="muted" style="padding:24px 0;text-align:center;font-style:italic">No xfers yet this block</div>'
+      + '</div>';
+  }
+  var rows = ranked.map(function(a) {
+    var qualified = a.blockQualified;
+    var cls = qualified ? (a.rank === 1 ? 'rank-1' : (a.rank <= 3 ? 'rank-3' : '')) : '';
+    var style = qualified ? '' : ' style="opacity:0.5"';
+    var qa = a.qaApproved === true ? '<span class="check">&#10003;</span>'
+            : a.qaApproved === false ? '<span class="cross">&#10007;</span>' : '<span class="muted">&mdash;</span>';
+    var rankCell = qualified ? (a.rank === 1 ? '<span class="crown">&#128081;</span> ' + a.rank : a.rank) : '<span class="muted" style="font-size:12px">+1 needed</span>';
+    var blockXfers = (a.hourlyXfers && a.hourlyXfers[blockId]) || 0;
+    var blockAvgTpv = getHourlyAvgTpv(a, blockId);
+    return ''
+      + '<tr class="' + cls + '"' + style + '>'
+      +   '<td class="rank">' + rankCell + '</td>'
+      +   '<td class="agent">' + escapeHtml(a.agentName) + '</td>'
+      +   '<td class="score">' + blockXfers + '</td>'
+      +   '<td class="tpv">' + (blockAvgTpv > 0 ? blockAvgTpv.toFixed(1) : '&mdash;') + '</td>'
+      +   '<td class="qa">' + qa + '</td>'
+      + '</tr>';
+  }).join('');
+  return ''
+    + '<div class="panel">'
+    +   '<div class="panel-head"><div class="h2">BLOCK LEADERBOARD</div><div class="muted eyebrow">' + escapeHtml(currentBlock.label) + ' &middot; ' + ranked.length + ' agents</div></div>'
+    +   '<div class="leaderboard-wrap">'
+    +     '<table class="leaderboard">'
+    +       '<thead><tr><th>#</th><th>Agent</th><th style="text-align:right">Xfers This Block</th><th style="text-align:right">Avg TPV (min)</th><th style="text-align:center">QA</th></tr></thead>'
+    +       '<tbody>' + rows + '</tbody>'
+    +     '</table>'
+    +   '</div>'
+    + '</div>';
+}
+
+function renderPrizesAndRules(effectiveSpiffs) {
+  var blocks = TOURNAMENT_CONFIG.hourlyBlocks;
+  var rows = blocks.map(function(b) {
+    var eff = (effectiveSpiffs && effectiveSpiffs[b.id]) || b.spiff;
+    var top = eff >= 30;
+    var rolloverNote = eff > b.spiff ? ' <span style="font-size:11px;opacity:0.7">(+rollover)</span>' : '';
+    return '<div class="prize-row' + (top ? ' top' : '') + '">'
+         + '<div class="name">' + b.label + rolloverNote + '</div>'
+         + '<div class="value">$' + eff + '</div></div>';
+  }).join('');
+  var rules = ''
+    + '<div class="panel">'
+    +   '<div class="h2">RULES</div>'
+    +   '<ol class="rules">'
+    +     '<li><b>KPI:</b> Qualified Xfers with over $4M TPV - only these count.</li>'
+    +     '<li>Each time block has its own winner. <b>No bracket, no advancement.</b></li>'
+    +     '<li>The agent with the most qualified xfers in a block wins that block\'s spiff.</li>'
+    +     '<li>Ties: each tied agent receives the spiff (or split, per management call).</li>'
+    +     '<li>QA approval is required for a transfer to count.</li>'
+    +     '<li>Block leaderboard resets each hour — each block is a clean slate.</li>'
+    +     '<li><b>Rollover:</b> If no one gets 2+ xfers in a block, that block\'s spiff carries to the next hour.</li>'
+    +     '<li>Management may issue manual overrides; the floor decision is final.</li>'
+    +   '</ol>'
+    + '</div>';
+  return ''
+    + '<div class="stack">'
+    +   '<div class="panel"><div class="h2">SPIFF PAYOUT</div>' + rows + '</div>'
+    +   rules
+    + '</div>';
+}
+
+function renderOverrideDrawer() {
+  var nameOptions = AGENT_DATA.map(function(a) {
+    return '<option value="' + escapeHtml(a.agentName) + '">' + escapeHtml(a.agentName) + '</option>';
+  }).join('');
+  var fieldOptions = [
+    ['qaApproved', 'QA Approved (true/false)']
+  ].map(function(f) { return '<option value="' + f[0] + '">' + f[1] + '</option>'; }).join('');
+  var blockOptions = TOURNAMENT_CONFIG.hourlyBlocks.map(function(b) {
+    return '<option value="' + b.id + '">' + b.label + ' — block xfers</option>';
+  }).join('');
+
+  var existing = Object.keys(OVERRIDES).length === 0
+    ? '<div class="muted" style="font-size:13px;font-style:italic">None - auto-calculated from data.</div>'
+    : Object.keys(OVERRIDES).map(function(name) {
+        return ''
+          + '<div class="override">'
+          +   '<button class="clear" onclick="clearOverride(\'' + name.replace(/'/g, "\\\\'") + '\')">Clear</button>'
+          +   '<div style="font-weight:700">' + escapeHtml(name) + '</div>'
+          +   '<pre>' + escapeHtml(JSON.stringify(OVERRIDES[name], null, 2)) + '</pre>'
+          + '</div>';
+      }).join('');
+
+  return ''
+    + '<div class="drawer-back open" id="drawer" onclick="closeDrawer(event)">'
+    +   '<div class="drawer">'
+    +     '<button class="close" onclick="closeDrawer()">&times;</button>'
+    +     '<h3>MANUAL OVERRIDES</h3>'
+    +     '<p class="muted" style="font-size:12px;margin-top:8px">Correct a daily score, fix QA, or adjust per-block xfers.</p>'
+    +     '<label>Agent</label>'
+    +     '<select id="ov-agent">' + nameOptions + '</select>'
+    +     '<label>What to override</label>'
+    +     '<select id="ov-field">' + blockOptions + fieldOptions + '</select>'
+    +     '<label>Value</label>'
+    +     '<input id="ov-value" placeholder="Enter value..." />'
+    +     '<button class="apply-btn" onclick="applyOverrideFromForm()">Apply Override</button>'
+    +     '<div style="margin-top:22px;border-top:1px solid rgba(255,255,255,0.08);padding-top:18px">'
+    +       '<div class="muted eyebrow" style="margin-bottom:10px">Block Rollover</div>'
+    +       '<p class="muted" style="font-size:12px;margin-bottom:12px">Force a block to have no winner — spiff rolls to next hour.</p>'
+    +       TOURNAMENT_CONFIG.hourlyBlocks.map(function(b) {
+              var active = BLOCK_OVERRIDES[b.id];
+              return '<div style="display:flex;align-items:center;justify-content:space-between;padding:8px 10px;border-radius:8px;margin-bottom:6px;background:' + (active ? 'rgba(251,113,133,0.12);border:1px solid rgba(251,113,133,0.35)' : 'rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.08)') + '">'
+                + '<span style="font-size:13px;font-weight:700">' + b.label + '</span>'
+                + (active
+                    ? '<button onclick="clearRollover(\'' + b.id + '\')" style="background:#fb7185;color:#000;border:none;border-radius:6px;padding:4px 10px;font-size:11px;font-weight:900;cursor:pointer;letter-spacing:0.1em">ROLLOVER ACTIVE — CLEAR</button>'
+                    : '<button onclick="setRollover(\'' + b.id + '\')" style="background:rgba(255,255,255,0.08);color:#cbd5e1;border:1px solid rgba(255,255,255,0.15);border-radius:6px;padding:4px 10px;font-size:11px;font-weight:700;cursor:pointer">Force Rollover</button>')
+                + '</div>';
+            }).join('')
+    +     '</div>'
+    +     '<div class="override-list">'
+    +       '<div class="muted eyebrow" style="margin-bottom:8px">Agent Overrides</div>'
+    +       existing
+    +     '</div>'
+    +   '</div>'
+    + '</div>';
+}
+
+/* ============================================================
+   MAIN RENDER LOOP
+   ============================================================ */
+function getCurrentBlock(now) {
+  var hour = getEasternHourFromDate(now);
+  return TOURNAMENT_CONFIG.hourlyBlocks.find(function(b) {
+    return hour >= b.startH && hour < b.endH;
+  });
+}
+
+function render() {
+  try {
+    var now = new Date();
+    var merged  = applyOverrides(AGENT_DATA, OVERRIDES);
+    var ranked  = rankAgents(merged);
+    var leaders = getHourlyLeaders(ranked, TOURNAMENT_CONFIG.hourlyBlocks);
+    var effectiveSpiffs = computeEffectiveSpiffs(leaders, TOURNAMENT_CONFIG.hourlyBlocks, now);
+    var current = getCurrentBlock(now);
+    var blockRanked = current ? rankAgentsForBlock(merged, current.id) : [];
+
+    document.getElementById('app').innerHTML = ''
+      + renderHeader(now)
+      + '<div class="topbar"><button class="override-btn" onclick="openDrawer()">&#9881; Manual Override</button></div>'
+      + renderSpotlight(current, leaders, effectiveSpiffs)
+      + renderHourlyGrid(leaders, now, effectiveSpiffs)
+      + '<div class="grid-2">'
+      +   renderLeaderboard(blockRanked, current)
+      +   renderPrizesAndRules(effectiveSpiffs)
+      + '</div>'
+      + (function() {
+          if (!lastUpdated) {
+            return '<div class="footer" style="color:#fcd34d">Embedded data loaded &middot; waiting for /data.json</div>';
+          }
+          var ageSec = Math.floor((now - lastUpdated) / 1000);
+          var ageStr = ageSec < 60 ? ageSec + 's ago' : Math.floor(ageSec / 60) + 'm ago';
+          var stale = ageSec > 300;
+          return '<div class="footer" style="' + (stale ? 'color:#ef4444' : '') + '">Data generated ' + ageStr + (stale ? ' &mdash; ⚠️ may be stale' : '') + ' &middot; Auto-refresh every 30s</div>';
+        })()
+  } catch (err) {
+    document.getElementById('app').innerHTML =
+      '<div style="padding:40px;background:#7f1d1d;color:#fff;border-radius:12px;font-family:monospace">'
+      + '<h2 style="margin-bottom:12px">Render error</h2>'
+      + '<pre style="white-space:pre-wrap">' + escapeHtml(err.stack || err.message || String(err)) + '</pre></div>';
+  }
+}
+
+/* ============================================================
+   OVERRIDE DRAWER ACTIONS
+   ============================================================ */
+function openDrawer() {
+  drawerOpen = true;
+  var html = renderOverrideDrawer();
+  document.getElementById('drawer-mount').innerHTML = html;
+}
+function closeDrawer(e) {
+  if (e && e.target && e.target.id !== 'drawer') return;
+  drawerOpen = false;
+  document.getElementById('drawer-mount').innerHTML = '';
+}
+function clearOverride(name) { delete OVERRIDES[name]; render(); openDrawer(); }
+function setRollover(blockId) { BLOCK_OVERRIDES[blockId] = true; localStorage.setItem('blockOverrides', JSON.stringify(BLOCK_OVERRIDES)); render(); openDrawer(); var t=document.createElement('div');t.textContent='🔄 Rollover set for '+blockId;t.style.cssText='position:fixed;bottom:32px;left:50%;transform:translateX(-50%);background:#fb7185;color:#000;font-weight:900;padding:10px 22px;border-radius:10px;font-size:14px;z-index:9999;letter-spacing:0.05em;box-shadow:0 4px 20px rgba(0,0,0,0.4)';document.body.appendChild(t);setTimeout(function(){t.remove();},2500); }
+function clearRollover(blockId) { delete BLOCK_OVERRIDES[blockId]; localStorage.setItem('blockOverrides', JSON.stringify(BLOCK_OVERRIDES)); render(); openDrawer(); }
+function applyOverrideFromForm() {
+  var name  = document.getElementById('ov-agent').value;
+  var field = document.getElementById('ov-field').value;
+  var raw   = document.getElementById('ov-value').value;
+  if (!raw) { var inp = document.getElementById('ov-value'); if (inp) { inp.style.borderColor='#fb7185'; inp.placeholder='Required — enter a value'; } return; }
+  var v = raw;
+  if (field === 'qualifiedXfers' || field === 'tpv') v = Number(raw);
+  if (field === 'qaApproved') v = (raw === 'true');
+  OVERRIDES[name] = OVERRIDES[name] || {};
+  if (field.indexOf('-') !== -1) {
+    OVERRIDES[name].hourlyXfers = OVERRIDES[name].hourlyXfers || {};
+    OVERRIDES[name].hourlyXfers[field] = Number(raw);
+  } else {
+    OVERRIDES[name][field] = v;
+  }
+  render();
+  openDrawer();
+  var toast = document.createElement('div');
+  toast.textContent = '✓ Override applied for ' + name;
+  toast.style.cssText = 'position:fixed;bottom:32px;left:50%;transform:translateX(-50%);background:#34d399;color:#000;font-weight:900;padding:10px 22px;border-radius:10px;font-size:14px;z-index:9999;letter-spacing:0.05em;box-shadow:0 4px 20px rgba(0,0,0,0.4)';
+  document.body.appendChild(toast);
+  setTimeout(function() { toast.remove(); }, 2500);
+}
+
+/* ============================================================
+   BOOT
+   ============================================================ */
+render();
+setInterval(render, 1000);
+
+(function pollData() {
+  fetch('/data.json?t=' + Date.now())
+    .then(function(r) { return r.json(); })
+    .then(function(fresh) {
+      var payload = normalizeDataPayload(fresh);
+      AGENT_DATA = payload.agents;
+      lastUpdated = payload.generatedAt ? new Date(payload.generatedAt) : new Date();
+      if (isNaN(lastUpdated)) lastUpdated = new Date();
+    })
+    .catch(function() {})
+    .finally(function() { setTimeout(pollData, 30000); });
+})();
+</script>
+</body>
+</html>

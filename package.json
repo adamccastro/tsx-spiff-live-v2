@@ -1,0 +1,15 @@
+{
+  "name": "tsx-spiff-live",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "update": "node update-spiff.js",
+    "update:push": "node update-spiff.js --push",
+    "serve": "node scripts/serve.mjs",
+    "check": "node --check update-spiff.js && node scripts/check-inline-script.mjs",
+    "test": "node scripts/logic-test.mjs"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0"
+  }
+}
