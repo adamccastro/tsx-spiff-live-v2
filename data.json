@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-13T21:08:10.185Z",
-  "generatedAtEastern": "5/13/2026, 17:08:10",
+  "generatedAt": "2026-05-13T21:14:43.455Z",
+  "generatedAtEastern": "5/13/2026, 17:14:43",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
     {
       "agentName": "TJ Waldron",
-      "qualifiedXfers": 8,
+      "qualifiedXfers": 9,
       "hourlyXfers": {
         "10-12": 0,
         "12-13": 2,
         "13-14": 0,
         "14-15": 1,
         "15-16": 4,
-        "16-18": 1
+        "16-18": 2
       },
       "hourlyTpvTotal": {
         "10-12": 0,
@@ -21,9 +21,9 @@
         "13-14": 0,
         "14-15": 7.1,
         "15-16": 34.3,
-        "16-18": 43.6
+        "16-18": 67.6
       },
-      "tpv": 15.8,
+      "tpv": 16.7,
       "qaApproved": true
     },
     {
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 22.6,
+        "15-16": 4.8,
+        "16-18": 19.1
+      },
+      "tpv": 9.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -90,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 11.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 22.6,
-        "15-16": 4.8,
-        "16-18": 11.4
-      },
-      "tpv": 9.5,
       "qaApproved": true
     },
     {
@@ -269,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 14.4,
+        "15-16": 7.9,
+        "16-18": 9.9
+      },
+      "tpv": 10.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 11.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tara Schumacker",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 14.4,
-        "15-16": 7.9,
-        "16-18": 0
-      },
-      "tpv": 11.2,
       "qaApproved": true
     },
     {
