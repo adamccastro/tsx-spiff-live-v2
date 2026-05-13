@@ -1168,7 +1168,7 @@ render();
 setInterval(render, 1000);
 
 (function pollData() {
-  fetch('https://raw.githubusercontent.com/adamccastro/tsx-spiff-live-v2/main/data.json?t=' + Date.now())
+  fetch('https://raw.githubusercontent.com/adamccastro/tsx-spiff-live-v2/main/data.json?t=' + Date.now(), { cache: 'no-store' })
     .then(function(r) { return r.json(); })
     .then(function(fresh) {
       var payload = normalizeDataPayload(fresh);
