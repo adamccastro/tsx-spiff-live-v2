@@ -166,14 +166,14 @@
 let AGENT_DATA = [
   {
     "agentName": "TJ Waldron",
-    "qualifiedXfers": 7,
+    "qualifiedXfers": 8,
     "hourlyXfers": {
       "10-12": 0,
       "12-13": 2,
       "13-14": 0,
       "14-15": 1,
       "15-16": 4,
-      "16-18": 0
+      "16-18": 1
     },
     "hourlyTpvTotal": {
       "10-12": 0,
@@ -181,9 +181,9 @@ let AGENT_DATA = [
       "13-14": 0,
       "14-15": 7.1,
       "15-16": 34.3,
-      "16-18": 0
+      "16-18": 43.6
     },
-    "tpv": 11.8,
+    "tpv": 15.8,
     "qaApproved": true
   },
   {
@@ -297,6 +297,50 @@ let AGENT_DATA = [
     "qaApproved": true
   },
   {
+    "agentName": "Andrew Brett",
+    "qualifiedXfers": 4,
+    "hourlyXfers": {
+      "10-12": 1,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 2,
+      "15-16": 0,
+      "16-18": 1
+    },
+    "hourlyTpvTotal": {
+      "10-12": 10.8,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 14.8,
+      "15-16": 0,
+      "16-18": 24.5
+    },
+    "tpv": 12.5,
+    "qaApproved": true
+  },
+  {
+    "agentName": "Sam Hill",
+    "qualifiedXfers": 4,
+    "hourlyXfers": {
+      "10-12": 2,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 1,
+      "15-16": 0,
+      "16-18": 1
+    },
+    "hourlyTpvTotal": {
+      "10-12": 17.2,
+      "12-13": 0,
+      "13-14": 0,
+      "14-15": 13.1,
+      "15-16": 0,
+      "16-18": 7.2
+    },
+    "tpv": 9.4,
+    "qaApproved": true
+  },
+  {
     "agentName": "David Parker",
     "qualifiedXfers": 3,
     "hourlyXfers": {
@@ -407,47 +451,25 @@ let AGENT_DATA = [
     "qaApproved": true
   },
   {
-    "agentName": "Sam Hill",
-    "qualifiedXfers": 3,
+    "agentName": "Sara Jameson",
+    "qualifiedXfers": 2,
     "hourlyXfers": {
-      "10-12": 2,
+      "10-12": 0,
       "12-13": 0,
-      "13-14": 0,
-      "14-15": 1,
+      "13-14": 1,
+      "14-15": 0,
       "15-16": 0,
-      "16-18": 0
+      "16-18": 1
     },
     "hourlyTpvTotal": {
-      "10-12": 17.2,
+      "10-12": 0,
       "12-13": 0,
-      "13-14": 0,
-      "14-15": 13.1,
+      "13-14": 26.1,
+      "14-15": 0,
       "15-16": 0,
-      "16-18": 0
+      "16-18": 5
     },
-    "tpv": 10.1,
-    "qaApproved": true
-  },
-  {
-    "agentName": "Andrew Brett",
-    "qualifiedXfers": 3,
-    "hourlyXfers": {
-      "10-12": 1,
-      "12-13": 0,
-      "13-14": 0,
-      "14-15": 2,
-      "15-16": 0,
-      "16-18": 0
-    },
-    "hourlyTpvTotal": {
-      "10-12": 10.8,
-      "12-13": 0,
-      "13-14": 0,
-      "14-15": 14.8,
-      "15-16": 0,
-      "16-18": 0
-    },
-    "tpv": 8.5,
+    "tpv": 15.6,
     "qaApproved": true
   },
   {
@@ -580,28 +602,6 @@ let AGENT_DATA = [
       "16-18": 0
     },
     "tpv": 29.5,
-    "qaApproved": true
-  },
-  {
-    "agentName": "Sara Jameson",
-    "qualifiedXfers": 1,
-    "hourlyXfers": {
-      "10-12": 0,
-      "12-13": 0,
-      "13-14": 1,
-      "14-15": 0,
-      "15-16": 0,
-      "16-18": 0
-    },
-    "hourlyTpvTotal": {
-      "10-12": 0,
-      "12-13": 0,
-      "13-14": 26.1,
-      "14-15": 0,
-      "15-16": 0,
-      "16-18": 0
-    },
-    "tpv": 26.1,
     "qaApproved": true
   },
   {
@@ -1168,7 +1168,7 @@ render();
 setInterval(render, 1000);
 
 (function pollData() {
-  fetch('https://raw.githubusercontent.com/adamccastro/tsx-spiff-live-v2/main/data.json?t=' + Date.now(), { cache: 'no-store' })
+  fetch('https://raw.githubusercontent.com/adamccastro/tsx-spiff-live-v2/main/data.json?t=' + Date.now())
     .then(function(r) { return r.json(); })
     .then(function(fresh) {
       var payload = normalizeDataPayload(fresh);
