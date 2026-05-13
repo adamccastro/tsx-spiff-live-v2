@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-13T18:48:50.803Z",
-  "generatedAtEastern": "5/13/2026, 14:48:50",
+  "generatedAt": "2026-05-13T18:50:53.782Z",
+  "generatedAtEastern": "5/13/2026, 14:50:53",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 14.8,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -178,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 13,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Andrew Brett",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 6.9,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.9,
       "qaApproved": true
     },
     {
