@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-13T20:45:40.613Z",
-  "generatedAtEastern": "5/13/2026, 16:45:40",
+  "generatedAt": "2026-05-13T20:47:43.294Z",
+  "generatedAtEastern": "5/13/2026, 16:47:43",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 2,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 11.8,
+        "15-16": 37.4,
+        "16-18": 18.7
+      },
+      "tpv": 17,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 31.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jennifer Allen",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 2,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 11.8,
-        "15-16": 37.4,
-        "16-18": 0
-      },
-      "tpv": 16.4,
       "qaApproved": true
     },
     {
