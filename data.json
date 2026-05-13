@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-13T17:55:35.527Z",
-  "generatedAtEastern": "5/13/2026, 13:55:35",
+  "generatedAt": "2026-05-13T17:57:38.294Z",
+  "generatedAtEastern": "5/13/2026, 13:57:38",
   "timezone": "America/New_York",
-  "agentCount": 17,
+  "agentCount": 18,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
@@ -266,6 +266,28 @@
         "16-18": 0
       },
       "tpv": 23.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 20.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.8,
       "qaApproved": true
     },
     {
