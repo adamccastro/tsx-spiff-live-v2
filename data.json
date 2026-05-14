@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-14T22:00:31.716Z",
-  "generatedAtEastern": "5/14/2026, 18:00:31",
+  "generatedAt": "2026-05-14T22:02:34.248Z",
+  "generatedAtEastern": "5/14/2026, 18:02:34",
   "timezone": "America/New_York",
   "agentCount": 28,
   "agents": [
@@ -423,6 +423,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 25,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 8.8
+      },
+      "tpv": 16.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Alexa Todd",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -552,28 +574,6 @@
         "16-18": 0
       },
       "tpv": 5.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 25,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 25,
       "qaApproved": true
     },
     {
