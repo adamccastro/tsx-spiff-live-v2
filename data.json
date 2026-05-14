@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-14T16:14:08.292Z",
-  "generatedAtEastern": "5/14/2026, 12:14:08",
+  "generatedAt": "2026-05-14T16:16:10.880Z",
+  "generatedAtEastern": "5/14/2026, 12:16:10",
   "timezone": "America/New_York",
   "agentCount": 13,
   "agents": [
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 38.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.9,
+      "qaApproved": true
+    },
     {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 2,
@@ -27,7 +49,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Stephanie Artigas",
+      "agentName": "Sam Hill",
       "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 2,
@@ -38,14 +60,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 23.2,
+        "10-12": 18.4,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 11.6,
+      "tpv": 9.2,
       "qaApproved": true
     },
     {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 9.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.8,
       "qaApproved": true
     },
     {
