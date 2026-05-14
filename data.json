@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T18:51:56.225Z",
-  "generatedAtEastern": "5/14/2026, 14:51:56",
+  "generatedAt": "2026-05-14T18:53:59.154Z",
+  "generatedAtEastern": "5/14/2026, 14:53:59",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 24,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -332,6 +332,28 @@
         "16-18": 0
       },
       "tpv": 31.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Alexa Todd",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 28.1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 28.1,
       "qaApproved": true
     },
     {
