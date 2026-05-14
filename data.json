@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T17:36:08.337Z",
-  "generatedAtEastern": "5/14/2026, 13:36:08",
+  "generatedAt": "2026-05-14T17:38:11.286Z",
+  "generatedAtEastern": "5/14/2026, 13:38:11",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Tara Schumacker",
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 10.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Dom P",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 49.2,
+        "12-13": 0,
+        "13-14": 11.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 30.2,
       "qaApproved": true
     },
     {
@@ -225,28 +247,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Dom P",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 49.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 49.2,
-      "qaApproved": true
-    },
-    {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -332,6 +332,28 @@
         "16-18": 0
       },
       "tpv": 16.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 16.6,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.6,
       "qaApproved": true
     },
     {
