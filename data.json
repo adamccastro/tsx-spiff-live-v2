@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T17:34:05.582Z",
-  "generatedAtEastern": "5/14/2026, 13:34:05",
+  "generatedAt": "2026-05-14T17:36:08.337Z",
+  "generatedAtEastern": "5/14/2026, 13:36:08",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 20,
   "agents": [
     {
       "agentName": "Tara Schumacker",
@@ -332,6 +332,28 @@
         "16-18": 0
       },
       "tpv": 16.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 14.2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.2,
       "qaApproved": true
     },
     {
