@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T15:26:55.258Z",
-  "generatedAtEastern": "5/14/2026, 11:26:55",
+  "generatedAt": "2026-05-14T15:28:57.946Z",
+  "generatedAtEastern": "5/14/2026, 11:28:57",
   "timezone": "America/New_York",
-  "agentCount": 7,
+  "agentCount": 8,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 8.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.6,
       "qaApproved": true
     },
     {
