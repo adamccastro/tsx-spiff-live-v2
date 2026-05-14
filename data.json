@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-14T16:57:10.679Z",
-  "generatedAtEastern": "5/14/2026, 12:57:10",
+  "generatedAt": "2026-05-14T16:59:13.461Z",
+  "generatedAtEastern": "5/14/2026, 12:59:13",
   "timezone": "America/New_York",
-  "agentCount": 16,
+  "agentCount": 18,
   "agents": [
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.8,
+        "12-13": 42.4,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.1,
+      "qaApproved": true
+    },
     {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 3,
@@ -27,25 +49,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 2,
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
-        "12-13": 1,
+        "12-13": 2,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 8.8,
-        "12-13": 31.7,
+        "10-12": 5.9,
+        "12-13": 23.8,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 20.3,
+      "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 43.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 21.7,
       "qaApproved": true
     },
     {
@@ -68,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 19.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Robert Hinson",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.3,
+        "12-13": 17.2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.8,
       "qaApproved": true
     },
     {
@@ -159,7 +225,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Oreste Bacigalupo",
+      "agentName": "Devon Halbert",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 0,
@@ -171,13 +237,13 @@
       },
       "hourlyTpvTotal": {
         "10-12": 0,
-        "12-13": 19.8,
+        "12-13": 22.3,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 19.8,
+      "tpv": 22.3,
       "qaApproved": true
     },
     {
@@ -291,47 +357,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Christopher Westbrook",
+      "agentName": "Tara Schumacker",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 5.9,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 5.7,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 5.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Robert Hinson",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.3,
+      "tpv": 5.7,
       "qaApproved": true
     },
     {
