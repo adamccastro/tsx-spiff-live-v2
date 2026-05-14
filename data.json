@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-14T16:28:29.117Z",
-  "generatedAtEastern": "5/14/2026, 12:28:29",
+  "generatedAt": "2026-05-14T16:30:32.088Z",
+  "generatedAtEastern": "5/14/2026, 12:30:32",
   "timezone": "America/New_York",
-  "agentCount": 13,
+  "agentCount": 14,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -288,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 4.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 4.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.1,
       "qaApproved": true
     }
   ]
