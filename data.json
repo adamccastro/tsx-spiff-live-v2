@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T15:20:47.929Z",
-  "generatedAtEastern": "5/15/2026, 11:20:47",
+  "generatedAt": "2026-05-15T15:22:50.554Z",
+  "generatedAtEastern": "5/15/2026, 11:22:50",
   "timezone": "America/New_York",
-  "agentCount": 12,
+  "agentCount": 14,
   "agents": [
     {
       "agentName": "Tara Schumacker",
@@ -24,6 +24,50 @@
         "16-18": 0
       },
       "tpv": 12.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Alexa Todd",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 18,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5,
       "qaApproved": true
     },
     {
@@ -181,28 +225,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Alexa Todd",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.1,
-      "qaApproved": true
-    },
-    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -247,7 +269,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Isabel Jael",
+      "agentName": "Elaina Custer",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -258,14 +280,36 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 5.7,
+        "10-12": 6.9,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 5.7,
+      "tpv": 6.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.1,
       "qaApproved": true
     }
   ]
