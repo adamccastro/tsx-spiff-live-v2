@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-15T15:45:22.368Z",
-  "generatedAtEastern": "5/15/2026, 11:45:22",
+  "generatedAt": "2026-05-15T15:47:25.030Z",
+  "generatedAtEastern": "5/15/2026, 11:47:25",
   "timezone": "America/New_York",
   "agentCount": 16,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 12.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 22.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.1,
       "qaApproved": true
     },
     {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 17.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Andrew Brett",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.9,
       "qaApproved": true
     },
     {
