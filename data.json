@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T18:29:18.607Z",
-  "generatedAtEastern": "5/15/2026, 14:29:18",
+  "generatedAt": "2026-05-15T18:31:21.359Z",
+  "generatedAtEastern": "5/15/2026, 14:31:21",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 25,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 30.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 5.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -156,6 +178,28 @@
         "16-18": 0
       },
       "tpv": 15.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 6.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.2,
       "qaApproved": true
     },
     {
@@ -247,47 +291,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Stengel",
+      "agentName": "Gina Blaney",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 30.5,
+        "10-12": 0,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 28.3,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 30.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 20.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 20.2,
+      "tpv": 28.3,
       "qaApproved": true
     },
     {
@@ -376,6 +398,28 @@
         "16-18": 0
       },
       "tpv": 13.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Robert Hinson",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 11.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.5,
       "qaApproved": true
     },
     {
