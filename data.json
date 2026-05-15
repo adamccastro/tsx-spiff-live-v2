@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T14:54:05.147Z",
-  "generatedAtEastern": "5/15/2026, 10:54:05",
+  "generatedAt": "2026-05-15T14:56:07.798Z",
+  "generatedAtEastern": "5/15/2026, 10:56:07",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 8,
   "agents": [
     {
       "agentName": "Christopher Westbrook",
@@ -68,6 +68,72 @@
         "16-18": 0
       },
       "tpv": 14.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 13.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 13.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Alexa Todd",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.1,
       "qaApproved": true
     },
     {
