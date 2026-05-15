@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-15T16:55:00.761Z",
-  "generatedAtEastern": "5/15/2026, 12:55:00",
+  "generatedAt": "2026-05-15T16:57:04.053Z",
+  "generatedAtEastern": "5/15/2026, 12:57:04",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
@@ -420,6 +420,28 @@
         "16-18": 0
       },
       "tpv": 5.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 4.9,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.9,
       "qaApproved": true
     },
     {
