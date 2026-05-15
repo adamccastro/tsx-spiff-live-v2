@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-15T22:08:19.829Z",
-  "generatedAtEastern": "5/15/2026, 18:08:19",
+  "generatedAt": "2026-05-15T22:10:22.680Z",
+  "generatedAtEastern": "5/15/2026, 18:10:22",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 6,
+      "qualifiedXfers": 7,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 3,
         "13-14": 0,
         "14-15": 2,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 14.1,
@@ -21,9 +21,9 @@
         "13-14": 0,
         "14-15": 21.7,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 8.1
       },
-      "tpv": 11.3,
+      "tpv": 10.8,
       "qaApproved": true
     },
     {
@@ -357,6 +357,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 17,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 10.7
+      },
+      "tpv": 13.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -464,28 +486,6 @@
         "16-18": 0
       },
       "tpv": 20.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 17,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17,
       "qaApproved": true
     },
     {
