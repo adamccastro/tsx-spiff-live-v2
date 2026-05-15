@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-15T14:43:50.477Z",
-  "generatedAtEastern": "5/15/2026, 10:43:50",
+  "generatedAt": "2026-05-15T14:45:53.497Z",
+  "generatedAtEastern": "5/15/2026, 10:45:53",
   "timezone": "America/New_York",
-  "agentCount": 1,
+  "agentCount": 3,
   "agents": [
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.9,
+      "qaApproved": true
+    },
     {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 1,
@@ -24,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 14.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.7,
       "qaApproved": true
     }
   ]
