@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-15T20:54:40.593Z",
-  "generatedAtEastern": "5/15/2026, 16:54:40",
+  "generatedAt": "2026-05-15T20:56:43.377Z",
+  "generatedAtEastern": "5/15/2026, 16:56:43",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
@@ -203,6 +203,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 6.2,
+        "15-16": 0,
+        "16-18": 12.7
+      },
+      "tpv": 13,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 22.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 8.2
+      },
+      "tpv": 10.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Stengel",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -244,50 +288,6 @@
         "16-18": 18.7
       },
       "tpv": 15.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 20.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 6.2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Andrew Brett",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 22.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.1,
       "qaApproved": true
     },
     {
