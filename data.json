@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-18T19:47:42.276Z",
-  "generatedAtEastern": "5/18/2026, 15:47:42",
+  "generatedAt": "2026-05-18T19:49:45.075Z",
+  "generatedAtEastern": "5/18/2026, 15:49:45",
   "timezone": "America/New_York",
-  "agentCount": 18,
+  "agentCount": 19,
   "agents": [
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 15.2,
+        "12-13": 54.6,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 8.8,
+        "16-18": 0
+      },
+      "tpv": 15.7,
+      "qaApproved": true
+    },
     {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 4,
@@ -27,25 +49,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Parker",
+      "agentName": "Tameeka Joseph",
       "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 2,
+        "10-12": 0,
+        "12-13": 1,
         "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
+        "14-15": 2,
+        "15-16": 1,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 15.2,
-        "12-13": 54.6,
+        "10-12": 0,
+        "12-13": 5.1,
         "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
+        "14-15": 50.2,
+        "15-16": 13.6,
         "16-18": 0
       },
-      "tpv": 17.5,
+      "tpv": 17.2,
       "qaApproved": true
     },
     {
@@ -90,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 20.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 5.1,
-        "13-14": 0,
-        "14-15": 50.2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.4,
       "qaApproved": true
     },
     {
@@ -376,6 +376,28 @@
         "16-18": 0
       },
       "tpv": 24.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 11.7,
+        "16-18": 0
+      },
+      "tpv": 11.7,
       "qaApproved": true
     },
     {
