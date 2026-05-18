@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-18T15:35:39.851Z",
-  "generatedAtEastern": "5/18/2026, 11:35:39",
+  "generatedAt": "2026-05-18T15:37:42.836Z",
+  "generatedAtEastern": "5/18/2026, 11:37:42",
   "timezone": "America/New_York",
   "agentCount": 7,
   "agents": [
+    {
+      "agentName": "Tiffany Bays",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 29.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.9,
+      "qaApproved": true
+    },
     {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 1,
@@ -90,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 19.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tiffany Bays",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.5,
       "qaApproved": true
     },
     {
