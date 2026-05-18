@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T21:34:14.944Z",
-  "generatedAtEastern": "5/18/2026, 17:34:14",
+  "generatedAt": "2026-05-18T21:36:17.825Z",
+  "generatedAtEastern": "5/18/2026, 17:36:17",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Dom P",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.2,
+        "12-13": 5.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 5.5
+      },
+      "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -310,28 +332,6 @@
         "16-18": 0
       },
       "tpv": 15.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Dom P",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 19.2,
-        "12-13": 5.1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 12.2,
       "qaApproved": true
     },
     {
