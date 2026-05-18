@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-18T18:17:36.671Z",
-  "generatedAtEastern": "5/18/2026, 14:17:36",
+  "generatedAt": "2026-05-18T18:19:39.630Z",
+  "generatedAtEastern": "5/18/2026, 14:19:39",
   "timezone": "America/New_York",
-  "agentCount": 17,
+  "agentCount": 18,
   "agents": [
     {
       "agentName": "David Parker",
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Heather Hamilton",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 13.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Dom P",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -269,25 +291,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Heather Hamilton",
+      "agentName": "Jeff Octave",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 14.6,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 12.5,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 14.6,
+      "tpv": 12.5,
       "qaApproved": true
     },
     {
