@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T21:56:46.361Z",
-  "generatedAtEastern": "5/18/2026, 17:56:46",
+  "generatedAt": "2026-05-18T21:58:49.259Z",
+  "generatedAtEastern": "5/18/2026, 17:58:49",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -335,6 +335,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 11.7,
+        "16-18": 10.5
+      },
+      "tpv": 11.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -379,37 +401,15 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Mitchell",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 11.7,
-        "16-18": 0
-      },
-      "tpv": 11.7,
-      "qaApproved": true
-    },
-    {
       "agentName": "Yadi Melendez",
-      "qualifiedXfers": 1,
+      "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 8.6,
@@ -417,9 +417,9 @@
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 5
       },
-      "tpv": 8.6,
+      "tpv": 6.8,
       "qaApproved": true
     }
   ]
