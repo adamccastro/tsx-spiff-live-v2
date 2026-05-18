@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-18T20:57:21.718Z",
-  "generatedAtEastern": "5/18/2026, 16:57:21",
+  "generatedAt": "2026-05-18T20:59:24.575Z",
+  "generatedAtEastern": "5/18/2026, 16:59:24",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
     {
       "agentName": "David Parker",
-      "qualifiedXfers": 6,
+      "qualifiedXfers": 7,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 2,
         "13-14": 0,
         "14-15": 0,
         "15-16": 1,
-        "16-18": 1
+        "16-18": 2
       },
       "hourlyTpvTotal": {
         "10-12": 15.2,
@@ -21,21 +21,21 @@
         "13-14": 0,
         "14-15": 0,
         "15-16": 8.8,
-        "16-18": 23.7
+        "16-18": 34.6
       },
-      "tpv": 17.1,
+      "tpv": 16.2,
       "qaApproved": true
     },
     {
       "agentName": "Anthony Canales",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 1,
         "13-14": 1,
         "14-15": 0,
         "15-16": 1,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 59.1,
@@ -43,9 +43,9 @@
         "13-14": 53.5,
         "14-15": 0,
         "15-16": 16.2,
-        "16-18": 0
+        "16-18": 27.9
       },
-      "tpv": 28.3,
+      "tpv": 28.2,
       "qaApproved": true
     },
     {
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Heather Hamilton",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 30.1,
+        "15-16": 0,
+        "16-18": 12.2
+      },
+      "tpv": 14.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Stengel",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -112,6 +134,50 @@
         "16-18": 0
       },
       "tpv": 14.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jamie Tyler",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 36,
+        "12-13": 9.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 7
+      },
+      "tpv": 13,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.2,
+        "12-13": 0,
+        "13-14": 23.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 17.6
+      },
+      "tpv": 12.2,
       "qaApproved": true
     },
     {
@@ -137,50 +203,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Jamie Tyler",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 36,
-        "12-13": 9.1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Heather Hamilton",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 30.1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.9,
-      "qaApproved": true
-    },
-    {
       "agentName": "Tiffany Bays",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -203,25 +225,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Oreste Bacigalupo",
+      "agentName": "Kenneth Martin",
       "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 0,
-        "13-14": 2,
-        "14-15": 0,
+        "13-14": 0,
+        "14-15": 1,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
-        "10-12": 7.2,
+        "10-12": 12.4,
         "12-13": 0,
-        "13-14": 23.8,
-        "14-15": 0,
+        "13-14": 0,
+        "14-15": 17,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 4.9
       },
-      "tpv": 10.3,
+      "tpv": 11.4,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 15.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Kenneth Martin",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 12.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 17,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.7,
       "qaApproved": true
     },
     {
