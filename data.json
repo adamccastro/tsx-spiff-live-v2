@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-18T16:33:02.927Z",
-  "generatedAtEastern": "5/18/2026, 12:33:02",
+  "generatedAt": "2026-05-18T16:35:05.818Z",
+  "generatedAtEastern": "5/18/2026, 12:35:05",
   "timezone": "America/New_York",
-  "agentCount": 14,
+  "agentCount": 16,
   "agents": [
     {
       "agentName": "Jamie Tyler",
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 27,
+        "12-13": 4.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tiffany Bays",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -90,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 14.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Dom P",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.2,
+        "12-13": 5.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.2,
       "qaApproved": true
     },
     {
@@ -115,25 +159,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Gina Blaney",
+      "agentName": "Michelle Adika",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 27,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 35.2,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 27,
+      "tpv": 35.2,
       "qaApproved": true
     },
     {
@@ -178,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 24.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Dom P",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 19.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 19.2,
       "qaApproved": true
     },
     {
@@ -288,6 +310,28 @@
         "16-18": 0
       },
       "tpv": 7.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.1,
       "qaApproved": true
     },
     {
