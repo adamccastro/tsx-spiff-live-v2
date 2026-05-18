@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-05-18T14:44:18.789Z",
-  "generatedAtEastern": "5/18/2026, 10:44:18",
+  "generatedAt": "2026-05-18T14:46:25.427Z",
+  "generatedAtEastern": "5/18/2026, 10:46:25",
   "timezone": "America/New_York",
-  "agentCount": 0,
-  "agents": []
+  "agentCount": 1,
+  "agents": [
+    {
+      "agentName": "Jamie Tyler",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 24.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 24.1,
+      "qaApproved": true
+    }
+  ]
 }
