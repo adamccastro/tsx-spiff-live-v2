@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-19T22:13:23.453Z",
-  "generatedAtEastern": "5/19/2026, 18:13:23",
+  "generatedAt": "2026-05-19T22:15:26.181Z",
+  "generatedAtEastern": "5/19/2026, 18:15:26",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.3,
+        "12-13": 0,
+        "13-14": 10.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 30.7
+      },
+      "tpv": 11.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Dom P",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -178,28 +200,6 @@
         "16-18": 26.7
       },
       "tpv": 13.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Isabel Jael",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6.3,
-        "12-13": 0,
-        "13-14": 10.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 12.5
-      },
-      "tpv": 9.6,
       "qaApproved": true
     },
     {
