@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-19T17:37:03.288Z",
-  "generatedAtEastern": "5/19/2026, 13:37:03",
+  "generatedAt": "2026-05-19T17:39:06.065Z",
+  "generatedAtEastern": "5/19/2026, 13:39:06",
   "timezone": "America/New_York",
   "agentCount": 14,
   "agents": [
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 15.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Dom P",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 13.7,
+        "12-13": 0,
+        "13-14": 14,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.9,
       "qaApproved": true
     },
     {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 14,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Dom P",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 13.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.7,
       "qaApproved": true
     },
     {
