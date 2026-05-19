@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-19T14:36:44.346Z",
-  "generatedAtEastern": "5/19/2026, 10:36:44",
+  "generatedAt": "2026-05-19T14:38:47.539Z",
+  "generatedAtEastern": "5/19/2026, 10:38:47",
   "timezone": "America/New_York",
-  "agentCount": 4,
+  "agentCount": 5,
   "agents": [
     {
       "agentName": "Yadi Melendez",
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 14,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.6,
       "qaApproved": true
     },
     {
