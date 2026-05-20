@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-05-20T17:40:24.152Z",
-  "generatedAtEastern": "5/20/2026, 13:40:24",
+  "generatedAt": "2026-05-20T17:42:27.060Z",
+  "generatedAtEastern": "5/20/2026, 13:42:27",
   "timezone": "America/New_York",
-  "agentCount": 16,
+  "agentCount": 17,
   "agents": [
     {
       "agentName": "Isabel Jael",
-      "qualifiedXfers": 3,
+      "qualifiedXfers": 4,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 2,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
@@ -18,12 +18,34 @@
       "hourlyTpvTotal": {
         "10-12": 27.2,
         "12-13": 34.5,
-        "13-14": 0,
+        "13-14": 5.2,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 20.6,
+      "tpv": 16.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 15.4,
+        "12-13": 11.1,
+        "13-14": 6,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.1,
       "qaApproved": true
     },
     {
@@ -49,25 +71,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Parker",
+      "agentName": "Christopher Westbrook",
       "qualifiedXfers": 3,
       "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
+        "10-12": 0,
+        "12-13": 2,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 15.4,
-        "12-13": 11.1,
-        "13-14": 0,
+        "10-12": 0,
+        "12-13": 27.1,
+        "13-14": 5.1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 8.8,
+      "tpv": 10.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.1,
+        "12-13": 5.5,
+        "13-14": 9.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.6,
       "qaApproved": true
     },
     {
@@ -112,50 +156,6 @@
         "16-18": 0
       },
       "tpv": 16.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 27.1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Andrew Brett",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14.1,
-        "12-13": 5.5,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.8,
       "qaApproved": true
     },
     {
@@ -354,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 7.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 4.7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.7,
       "qaApproved": true
     }
   ]
