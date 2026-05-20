@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-20T21:41:50.748Z",
-  "generatedAtEastern": "5/20/2026, 17:41:50",
+  "generatedAt": "2026-05-20T21:43:53.314Z",
+  "generatedAtEastern": "5/20/2026, 17:43:53",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 2,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 4.7,
+        "14-15": 5.7,
+        "15-16": 39.4,
+        "16-18": 31.9
+      },
+      "tpv": 16.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -200,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 15.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Devon Halbert",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 2,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 4.7,
-        "14-15": 5.7,
-        "15-16": 39.4,
-        "16-18": 0
-      },
-      "tpv": 12.5,
       "qaApproved": true
     },
     {
