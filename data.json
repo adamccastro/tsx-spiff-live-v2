@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-20T16:47:09.509Z",
-  "generatedAtEastern": "5/20/2026, 12:47:09",
+  "generatedAt": "2026-05-20T16:49:12.152Z",
+  "generatedAtEastern": "5/20/2026, 12:49:12",
   "timezone": "America/New_York",
-  "agentCount": 15,
+  "agentCount": 16,
   "agents": [
     {
       "agentName": "Isabel Jael",
@@ -244,6 +244,28 @@
         "16-18": 0
       },
       "tpv": 16.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 15,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15,
       "qaApproved": true
     },
     {
