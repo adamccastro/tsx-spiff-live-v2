@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-20T21:58:11.577Z",
-  "generatedAtEastern": "5/20/2026, 17:58:11",
+  "generatedAt": "2026-05-20T22:00:14.451Z",
+  "generatedAtEastern": "5/20/2026, 18:00:14",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 37.1
+      },
+      "tpv": 13.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Elaina Custer",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 29.2
       },
       "tpv": 17.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 17,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 25.5
-      },
-      "tpv": 14.2,
       "qaApproved": true
     },
     {
