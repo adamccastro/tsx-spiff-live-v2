@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-20T19:37:01.068Z",
-  "generatedAtEastern": "5/20/2026, 15:37:01",
+  "generatedAt": "2026-05-20T19:39:04.074Z",
+  "generatedAtEastern": "5/20/2026, 15:39:04",
   "timezone": "America/New_York",
-  "agentCount": 18,
+  "agentCount": 19,
   "agents": [
     {
       "agentName": "Isabel Jael",
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Dom P",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.8,
+        "12-13": 14.7,
+        "13-14": 29.1,
+        "14-15": 4.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 12.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Dom P",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 17.8,
-        "12-13": 14.7,
-        "13-14": 29.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 20.5,
       "qaApproved": true
     },
     {
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Elaina Custer",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 28.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 6.9,
+        "16-18": 0
+      },
+      "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Leonora Bornn",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -225,25 +247,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "Elaina Custer",
+      "agentName": "TJ Waldron",
       "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 0,
-        "12-13": 2,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 14,
+        "15-16": 15.4,
+        "16-18": 0
+      },
+      "tpv": 14.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
         "10-12": 0,
-        "12-13": 28.3,
-        "13-14": 0,
-        "14-15": 0,
+        "12-13": 0,
+        "13-14": 4.7,
+        "14-15": 5.7,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 14.2,
+      "tpv": 5.2,
       "qaApproved": true
     },
     {
@@ -291,6 +335,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 22.9,
+        "16-18": 0
+      },
+      "tpv": 22.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -310,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 17,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 14,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14,
       "qaApproved": true
     },
     {
@@ -376,28 +420,6 @@
         "16-18": 0
       },
       "tpv": 7.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Devon Halbert",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 4.7,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.7,
       "qaApproved": true
     }
   ]
