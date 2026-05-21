@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T21:45:35.181Z",
-  "generatedAtEastern": "5/21/2026, 17:45:35",
+  "generatedAt": "2026-05-21T21:47:38.202Z",
+  "generatedAtEastern": "5/21/2026, 17:47:38",
   "timezone": "America/New_York",
   "agentCount": 21,
   "agents": [
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.1,
+        "12-13": 4.7,
+        "13-14": 7.5,
+        "14-15": 0,
+        "15-16": 18.1,
+        "16-18": 32.2
+      },
+      "tpv": 13.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Stengel",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -244,28 +266,6 @@
         "16-18": 8.6
       },
       "tpv": 12.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Andrew Brett",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5.1,
-        "12-13": 4.7,
-        "13-14": 7.5,
-        "14-15": 0,
-        "15-16": 18.1,
-        "16-18": 0
-      },
-      "tpv": 8.9,
       "qaApproved": true
     },
     {
