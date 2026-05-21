@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T21:25:05.871Z",
-  "generatedAtEastern": "5/21/2026, 17:25:05",
+  "generatedAt": "2026-05-21T21:27:08.877Z",
+  "generatedAtEastern": "5/21/2026, 17:27:08",
   "timezone": "America/New_York",
   "agentCount": 21,
   "agents": [
@@ -159,6 +159,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Parker",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.4,
+        "12-13": 0,
+        "13-14": 8.5,
+        "14-15": 14.7,
+        "15-16": 6.5,
+        "16-18": 4.9
+      },
+      "tpv": 8.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Robert Hinson",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -200,28 +222,6 @@
         "16-18": 8.6
       },
       "tpv": 12.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.4,
-        "12-13": 0,
-        "13-14": 8.5,
-        "14-15": 14.7,
-        "15-16": 6.5,
-        "16-18": 0
-      },
-      "tpv": 9.5,
       "qaApproved": true
     },
     {
@@ -402,14 +402,14 @@
     },
     {
       "agentName": "Dom P",
-      "qualifiedXfers": 1,
+      "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 0,
         "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 0,
@@ -417,9 +417,9 @@
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 4.3
       },
-      "tpv": 12.7,
+      "tpv": 8.5,
       "qaApproved": true
     },
     {
