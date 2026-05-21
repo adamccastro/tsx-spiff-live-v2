@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T19:13:50.028Z",
-  "generatedAtEastern": "5/21/2026, 15:13:50",
+  "generatedAt": "2026-05-21T19:15:52.772Z",
+  "generatedAtEastern": "5/21/2026, 15:15:52",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Parker",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.4,
+        "12-13": 0,
+        "13-14": 8.5,
+        "14-15": 14.7,
+        "15-16": 6.5,
+        "16-18": 0
+      },
+      "tpv": 9.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -200,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 13.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.4,
-        "12-13": 0,
-        "13-14": 8.5,
-        "14-15": 14.7,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.5,
       "qaApproved": true
     },
     {
