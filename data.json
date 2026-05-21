@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-21T15:01:28.320Z",
-  "generatedAtEastern": "5/21/2026, 11:01:28",
+  "generatedAt": "2026-05-21T15:03:31.789Z",
+  "generatedAtEastern": "5/21/2026, 11:03:31",
   "timezone": "America/New_York",
   "agentCount": 5,
   "agents": [
     {
       "agentName": "Jennifer Allen",
-      "qualifiedXfers": 1,
+      "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 2,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
@@ -16,14 +16,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 29.2,
+        "10-12": 36.2,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 29.2,
+      "tpv": 18.1,
       "qaApproved": true
     },
     {
