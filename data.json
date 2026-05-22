@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-22T20:36:21.734Z",
-  "generatedAtEastern": "5/22/2026, 16:36:21",
+  "generatedAt": "2026-05-22T20:38:24.568Z",
+  "generatedAtEastern": "5/22/2026, 16:38:24",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 7,
+      "qualifiedXfers": 8,
       "hourlyXfers": {
         "10-12": 4,
         "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 2,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 37.8,
@@ -21,9 +21,9 @@
         "13-14": 0,
         "14-15": 0,
         "15-16": 42.2,
-        "16-18": 0
+        "16-18": 13.8
       },
-      "tpv": 12.8,
+      "tpv": 12.9,
       "qaApproved": true
     },
     {
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 26.7,
+        "12-13": 13.9,
+        "13-14": 8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 8.9
+      },
+      "tpv": 14.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -200,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 18.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Kenneth Martin",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 26.7,
-        "12-13": 13.9,
-        "13-14": 8,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.2,
       "qaApproved": true
     },
     {
