@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-22T19:10:17.033Z",
-  "generatedAtEastern": "5/22/2026, 15:10:17",
+  "generatedAt": "2026-05-22T19:12:19.934Z",
+  "generatedAtEastern": "5/22/2026, 15:12:19",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 2,
+        "13-14": 2,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 44.6,
+        "13-14": 33.7,
+        "14-15": 21,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.9,
+      "qaApproved": true
+    },
     {
       "agentName": "David Parker",
       "qualifiedXfers": 5,
@@ -68,28 +90,6 @@
         "16-18": 0
       },
       "tpv": 19.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 2,
-        "13-14": 2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 44.6,
-        "13-14": 33.7,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 19.6,
       "qaApproved": true
     },
     {
