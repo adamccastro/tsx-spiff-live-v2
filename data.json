@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-22T15:22:28.344Z",
-  "generatedAtEastern": "5/22/2026, 11:22:28",
+  "generatedAt": "2026-05-22T15:24:31.222Z",
+  "generatedAtEastern": "5/22/2026, 11:24:31",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 8,
   "agents": [
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 32.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.3,
+      "qaApproved": true
+    },
     {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 1,
@@ -27,7 +49,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Andrew Brett",
+      "agentName": "Stephanie Artigas",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -38,14 +60,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 20.2,
+        "10-12": 14.9,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 20.2,
+      "tpv": 14.9,
       "qaApproved": true
     },
     {
@@ -71,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Heather Hamilton",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -90,6 +134,28 @@
         "16-18": 0
       },
       "tpv": 10.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.2,
       "qaApproved": true
     },
     {
