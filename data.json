@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-22T21:54:12.642Z",
-  "generatedAtEastern": "5/22/2026, 17:54:12",
+  "generatedAt": "2026-05-22T21:56:15.238Z",
+  "generatedAtEastern": "5/22/2026, 17:56:15",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 26.6,
+        "12-13": 0,
+        "13-14": 28.2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 17.7
+      },
+      "tpv": 18.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 18.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 26.6,
-        "12-13": 0,
-        "13-14": 28.2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.3,
       "qaApproved": true
     },
     {
