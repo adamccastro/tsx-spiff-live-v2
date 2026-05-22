@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-22T22:10:35.494Z",
-  "generatedAtEastern": "5/22/2026, 18:10:35",
+  "generatedAt": "2026-05-22T22:12:38.278Z",
+  "generatedAtEastern": "5/22/2026, 18:12:38",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -269,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 28.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Dom P",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -332,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 20.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jennifer Allen",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 28.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.1,
       "qaApproved": true
     },
     {
