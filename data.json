@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-22T19:04:08.405Z",
-  "generatedAtEastern": "5/22/2026, 15:04:08",
+  "generatedAt": "2026-05-22T19:06:11.340Z",
+  "generatedAtEastern": "5/22/2026, 15:06:11",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 24.3,
+        "12-13": 17.1,
+        "13-14": 14,
+        "14-15": 30.8,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.2,
+      "qaApproved": true
+    },
     {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 5,
@@ -71,28 +93,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Parker",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 24.3,
-        "12-13": 17.1,
-        "13-14": 14,
-        "14-15": 19.2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.7,
-      "qaApproved": true
-    },
-    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 16.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 32.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 18.7,
       "qaApproved": true
     },
     {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 8.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 23.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 21.9,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 22.8,
       "qaApproved": true
     },
     {
