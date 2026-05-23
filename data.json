@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-23T18:38:44.672Z",
-  "generatedAtEastern": "5/23/2026, 14:38:44",
+  "generatedAt": "2026-05-23T18:40:47.312Z",
+  "generatedAtEastern": "5/23/2026, 14:40:47",
   "timezone": "America/New_York",
   "agentCount": 6,
   "agents": [
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 3,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 42.9,
+        "13-14": 0,
+        "14-15": 6,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.2,
+      "qaApproved": true
+    },
     {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 3,
@@ -24,28 +46,6 @@
         "16-18": 0
       },
       "tpv": 33.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 42.9,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.3,
       "qaApproved": true
     },
     {
