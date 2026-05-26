@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-26T21:07:23.072Z",
-  "generatedAtEastern": "5/26/2026, 17:07:23",
+  "generatedAt": "2026-05-26T21:09:25.870Z",
+  "generatedAtEastern": "5/26/2026, 17:09:25",
   "timezone": "America/New_York",
   "agentCount": 21,
   "agents": [
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.3,
+        "12-13": 35.8,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 5.3,
+        "16-18": 47.5
+      },
+      "tpv": 19.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Nick Marino",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 11.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9.3,
-        "12-13": 35.8,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 5.3,
-        "16-18": 28.9
-      },
-      "tpv": 19.8,
       "qaApproved": true
     },
     {
