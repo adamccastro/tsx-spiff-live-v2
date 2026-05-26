@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-26T22:06:44.607Z",
-  "generatedAtEastern": "5/26/2026, 18:06:44",
+  "generatedAt": "2026-05-26T22:08:47.123Z",
+  "generatedAtEastern": "5/26/2026, 18:08:47",
   "timezone": "America/New_York",
-  "agentCount": 21,
+  "agentCount": 22,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
@@ -291,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 17.2,
+        "15-16": 0,
+        "16-18": 5.9
+      },
+      "tpv": 7.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Heather Hamilton",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -332,28 +354,6 @@
         "16-18": 27.3
       },
       "tpv": 13.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Andrew Brett",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 17.2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.6,
       "qaApproved": true
     },
     {
@@ -420,6 +420,28 @@
         "16-18": 18.8
       },
       "tpv": 18.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jamie Tyler",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 12.6
+      },
+      "tpv": 12.6,
       "qaApproved": true
     },
     {
