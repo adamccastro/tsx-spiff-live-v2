@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-26T20:38:43.799Z",
-  "generatedAtEastern": "5/26/2026, 16:38:43",
+  "generatedAt": "2026-05-26T20:40:46.650Z",
+  "generatedAtEastern": "5/26/2026, 16:40:46",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.3,
+        "12-13": 35.8,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 5.3,
+        "16-18": 28.9
+      },
+      "tpv": 19.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Yadi Melendez",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -225,25 +247,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "TJ Waldron",
+      "agentName": "Michelle Adika",
       "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
+        "12-13": 0,
+        "13-14": 1,
         "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
+        "15-16": 0,
+        "16-18": 1
       },
       "hourlyTpvTotal": {
-        "10-12": 9.3,
-        "12-13": 35.8,
-        "13-14": 0,
+        "10-12": 4.7,
+        "12-13": 0,
+        "13-14": 14.1,
         "14-15": 0,
-        "15-16": 5.3,
-        "16-18": 0
+        "15-16": 0,
+        "16-18": 13.7
       },
-      "tpv": 16.8,
+      "tpv": 10.8,
       "qaApproved": true
     },
     {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 10.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.7,
-        "12-13": 0,
-        "13-14": 14.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.4,
       "qaApproved": true
     },
     {
