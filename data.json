@@ -1,11 +1,33 @@
 {
-  "generatedAt": "2026-05-26T16:02:20.753Z",
-  "generatedAtEastern": "5/26/2026, 12:02:20",
+  "generatedAt": "2026-05-26T16:04:24.297Z",
+  "generatedAtEastern": "5/26/2026, 12:04:24",
   "timezone": "America/New_York",
   "agentCount": 14,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 25.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Marino",
       "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 2,
@@ -16,14 +38,36 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 19.4,
+        "10-12": 37,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 9.7,
+      "tpv": 18.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.7,
       "qaApproved": true
     },
     {
@@ -181,28 +225,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.3,
-      "qaApproved": true
-    },
-    {
       "agentName": "Tameeka Joseph",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 5.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.8,
       "qaApproved": true
     },
     {
