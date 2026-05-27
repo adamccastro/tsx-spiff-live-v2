@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-27T20:41:31.644Z",
-  "generatedAtEastern": "5/27/2026, 16:41:31",
+  "generatedAt": "2026-05-27T20:43:34.322Z",
+  "generatedAtEastern": "5/27/2026, 16:43:34",
   "timezone": "America/New_York",
-  "agentCount": 22,
+  "agentCount": 23,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -354,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 40.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Heather Hamilton",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 20
+      },
+      "tpv": 20,
       "qaApproved": true
     },
     {
