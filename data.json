@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-27T19:15:26.401Z",
-  "generatedAtEastern": "5/27/2026, 15:15:26",
+  "generatedAt": "2026-05-27T19:17:29.558Z",
+  "generatedAtEastern": "5/27/2026, 15:17:29",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.5,
+        "12-13": 0,
+        "13-14": 10.8,
+        "14-15": 9.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.7,
       "qaApproved": true
     },
     {
@@ -225,28 +247,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5.5,
-        "12-13": 0,
-        "13-14": 10.8,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.2,
-      "qaApproved": true
-    },
-    {
       "agentName": "Tara Schumacker",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -313,6 +313,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Parker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 12.1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -332,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Cody Sosa",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 11.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.5,
       "qaApproved": true
     },
     {
