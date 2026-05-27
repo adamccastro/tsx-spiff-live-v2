@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-27T20:31:16.599Z",
-  "generatedAtEastern": "5/27/2026, 16:31:16",
+  "generatedAt": "2026-05-27T20:33:19.688Z",
+  "generatedAtEastern": "5/27/2026, 16:33:19",
   "timezone": "America/New_York",
-  "agentCount": 21,
+  "agentCount": 22,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -442,6 +442,28 @@
         "16-18": 0
       },
       "tpv": 9.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 6
+      },
+      "tpv": 6,
       "qaApproved": true
     },
     {
