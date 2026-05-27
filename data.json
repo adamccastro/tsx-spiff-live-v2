@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-27T16:50:01.993Z",
-  "generatedAtEastern": "5/27/2026, 12:50:01",
+  "generatedAt": "2026-05-27T16:52:05.390Z",
+  "generatedAtEastern": "5/27/2026, 12:52:05",
   "timezone": "America/New_York",
   "agentCount": 12,
   "agents": [
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.5,
+        "12-13": 12.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -71,25 +93,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 2,
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 2,
-        "12-13": 0,
+        "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 21.5,
-        "12-13": 0,
+        "10-12": 18.4,
+        "12-13": 5.8,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 10.8,
+      "tpv": 8.1,
       "qaApproved": true
     },
     {
@@ -112,28 +134,6 @@
         "16-18": 0
       },
       "tpv": 10.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.2,
       "qaApproved": true
     },
     {
