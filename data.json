@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-27T15:09:35.123Z",
-  "generatedAtEastern": "5/27/2026, 11:09:35",
+  "generatedAt": "2026-05-27T15:11:38.192Z",
+  "generatedAtEastern": "5/27/2026, 11:11:38",
   "timezone": "America/New_York",
-  "agentCount": 4,
+  "agentCount": 5,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 14.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.7,
       "qaApproved": true
     },
     {
