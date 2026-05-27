@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-27T22:50:31.508Z",
-  "generatedAtEastern": "5/27/2026, 18:50:31",
+  "generatedAt": "2026-05-27T22:52:34.190Z",
+  "generatedAtEastern": "5/27/2026, 18:52:34",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
     {
       "agentName": "Anthony Canales",
-      "qualifiedXfers": 6,
+      "qualifiedXfers": 7,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 0,
@@ -23,7 +23,29 @@
         "15-16": 0,
         "16-18": 49.3
       },
-      "tpv": 13.2,
+      "tpv": 15.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.5,
+        "12-13": 0,
+        "13-14": 10.8,
+        "14-15": 9.9,
+        "15-16": 0,
+        "16-18": 27.5
+      },
+      "tpv": 14.1,
       "qaApproved": true
     },
     {
@@ -68,28 +90,6 @@
         "16-18": 8.6
       },
       "tpv": 9.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5.5,
-        "12-13": 0,
-        "13-14": 10.8,
-        "14-15": 9.9,
-        "15-16": 0,
-        "16-18": 27.5
-      },
-      "tpv": 10.7,
       "qaApproved": true
     },
     {
