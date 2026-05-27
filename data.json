@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-27T20:51:45.834Z",
-  "generatedAtEastern": "5/27/2026, 16:51:45",
+  "generatedAt": "2026-05-27T20:53:49.742Z",
+  "generatedAtEastern": "5/27/2026, 16:53:49",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Cody Sosa",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 28.5,
+        "14-15": 11.5,
+        "15-16": 51.6,
+        "16-18": 8.8
+      },
+      "tpv": 25.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -134,28 +156,6 @@
         "16-18": 20.4
       },
       "tpv": 9.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Cody Sosa",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 28.5,
-        "14-15": 11.5,
-        "15-16": 51.6,
-        "16-18": 0
-      },
-      "tpv": 30.5,
       "qaApproved": true
     },
     {
