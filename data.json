@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-05-27T20:25:08.390Z",
-  "generatedAtEastern": "5/27/2026, 16:25:08",
+  "generatedAt": "2026-05-27T20:27:11.290Z",
+  "generatedAtEastern": "5/27/2026, 16:27:11",
   "timezone": "America/New_York",
   "agentCount": 21,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 3,
         "12-13": 1,
         "13-14": 0,
         "14-15": 1,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 29.9,
@@ -21,9 +21,9 @@
         "13-14": 0,
         "14-15": 6.3,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 8.6
       },
-      "tpv": 9.7,
+      "tpv": 9.5,
       "qaApproved": true
     },
     {
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tiffany Bays",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 15.3,
+        "15-16": 0,
+        "16-18": 20.4
+      },
+      "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Cody Sosa",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -178,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 8.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tiffany Bays",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 15.3,
-        "15-16": 0,
-        "16-18": 4.3
-      },
-      "tpv": 7.9,
       "qaApproved": true
     },
     {
