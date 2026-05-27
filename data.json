@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-27T19:09:17.231Z",
-  "generatedAtEastern": "5/27/2026, 15:09:17",
+  "generatedAt": "2026-05-27T19:11:20.357Z",
+  "generatedAtEastern": "5/27/2026, 15:11:20",
   "timezone": "America/New_York",
-  "agentCount": 18,
+  "agentCount": 19,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -266,6 +266,28 @@
         "16-18": 0
       },
       "tpv": 7.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 40.3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 40.3,
       "qaApproved": true
     },
     {
