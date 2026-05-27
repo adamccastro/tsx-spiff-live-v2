@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-27T20:23:05.503Z",
-  "generatedAtEastern": "5/27/2026, 16:23:05",
+  "generatedAt": "2026-05-27T20:25:08.390Z",
+  "generatedAtEastern": "5/27/2026, 16:25:08",
   "timezone": "America/New_York",
   "agentCount": 21,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20.3,
+        "12-13": 0,
+        "13-14": 9.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 13
+      },
+      "tpv": 10.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Cody Sosa",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -112,28 +134,6 @@
         "16-18": 0
       },
       "tpv": 30.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 20.3,
-        "12-13": 0,
-        "13-14": 9.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.9,
       "qaApproved": true
     },
     {
