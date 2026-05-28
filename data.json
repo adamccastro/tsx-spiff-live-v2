@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-28T18:05:10.616Z",
-  "generatedAtEastern": "5/28/2026, 14:05:10",
+  "generatedAt": "2026-05-28T18:07:13.485Z",
+  "generatedAtEastern": "5/28/2026, 14:07:13",
   "timezone": "America/New_York",
-  "agentCount": 15,
+  "agentCount": 16,
   "agents": [
     {
       "agentName": "Leonora Bornn",
@@ -156,6 +156,28 @@
         "16-18": 0
       },
       "tpv": 8.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 29.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 29.1,
       "qaApproved": true
     },
     {
