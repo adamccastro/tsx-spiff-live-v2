@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-28T19:16:53.943Z",
-  "generatedAtEastern": "5/28/2026, 15:16:53",
+  "generatedAt": "2026-05-28T19:18:56.883Z",
+  "generatedAtEastern": "5/28/2026, 15:18:56",
   "timezone": "America/New_York",
   "agentCount": 18,
   "agents": [
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 14.8,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 12.3,
+        "16-18": 0
+      },
+      "tpv": 9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 10.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 14.8,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 4.5,
-        "16-18": 0
-      },
-      "tpv": 9.7,
       "qaApproved": true
     },
     {
