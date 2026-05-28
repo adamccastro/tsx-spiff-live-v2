@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-28T15:10:53.166Z",
-  "generatedAtEastern": "5/28/2026, 11:10:53",
+  "generatedAt": "2026-05-28T15:12:56.067Z",
+  "generatedAtEastern": "5/28/2026, 11:12:56",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 8,
   "agents": [
+    {
+      "agentName": "Tiffany Bays",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 15.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15.1,
+      "qaApproved": true
+    },
     {
       "agentName": "Leonora Bornn",
       "qualifiedXfers": 1,
@@ -24,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 13.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.2,
       "qaApproved": true
     },
     {
@@ -112,6 +156,28 @@
         "16-18": 0
       },
       "tpv": 5.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.6,
       "qaApproved": true
     }
   ]
