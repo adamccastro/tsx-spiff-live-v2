@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-29T19:21:30.026Z",
-  "generatedAtEastern": "5/29/2026, 15:21:30",
+  "generatedAt": "2026-05-29T19:23:33.197Z",
+  "generatedAtEastern": "5/29/2026, 15:23:33",
   "timezone": "America/New_York",
-  "agentCount": 21,
+  "agentCount": 22,
   "agents": [
     {
       "agentName": "Tara Schumacker",
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 10.4,
+        "14-15": 0,
+        "15-16": 21.5,
+        "16-18": 0
+      },
+      "tpv": 16,
+      "qaApproved": true
+    },
+    {
       "agentName": "Dom P",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -313,6 +335,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 29.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 29.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -376,28 +420,6 @@
         "16-18": 0
       },
       "tpv": 10.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 10.4,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.4,
       "qaApproved": true
     },
     {
