@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-29T18:40:32.521Z",
-  "generatedAtEastern": "5/29/2026, 14:40:32",
+  "generatedAt": "2026-05-29T18:42:35.575Z",
+  "generatedAtEastern": "5/29/2026, 14:42:35",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 2,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.5,
+        "12-13": 6.8,
+        "13-14": 18.7,
+        "14-15": 8.6,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.6,
+      "qaApproved": true
+    },
     {
       "agentName": "Tara Schumacker",
       "qualifiedXfers": 5,
@@ -27,25 +49,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Yadi Melendez",
+      "agentName": "Stephanie Artigas",
       "qualifiedXfers": 5,
       "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 2,
-        "14-15": 0,
+        "10-12": 1,
+        "12-13": 2,
+        "13-14": 0,
+        "14-15": 2,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 23.5,
-        "12-13": 6.8,
-        "13-14": 18.7,
-        "14-15": 0,
+        "10-12": 4.1,
+        "12-13": 12.9,
+        "13-14": 0,
+        "14-15": 32.9,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 9.8,
+      "tpv": 10,
       "qaApproved": true
     },
     {
@@ -90,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 26.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.1,
-        "12-13": 12.9,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.7,
       "qaApproved": true
     },
     {
@@ -200,6 +200,28 @@
         "16-18": 0
       },
       "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5.8,
+        "13-14": 0,
+        "14-15": 14.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.4,
       "qaApproved": true
     },
     {
@@ -420,28 +442,6 @@
         "16-18": 0
       },
       "tpv": 7.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 5.8,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.8,
       "qaApproved": true
     }
   ]
