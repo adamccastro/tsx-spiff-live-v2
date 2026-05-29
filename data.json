@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-29T22:46:13.009Z",
-  "generatedAtEastern": "5/29/2026, 18:46:13",
+  "generatedAt": "2026-05-29T22:48:15.601Z",
+  "generatedAtEastern": "5/29/2026, 18:48:15",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 28.9,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 26.9,
+        "16-18": 19.6
+      },
+      "tpv": 18.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Nick Mitchell",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -200,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 26.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jennifer Allen",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 28.9,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 26.9,
-        "16-18": 5.1
-      },
-      "tpv": 20.3,
       "qaApproved": true
     },
     {
