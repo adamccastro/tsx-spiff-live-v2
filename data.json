@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-30T19:12:13.644Z",
-  "generatedAtEastern": "5/30/2026, 15:12:13",
+  "generatedAt": "2026-05-30T19:14:16.569Z",
+  "generatedAtEastern": "5/30/2026, 15:14:16",
   "timezone": "America/New_York",
   "agentCount": 8,
   "agents": [
@@ -28,12 +28,12 @@
     },
     {
       "agentName": "Cody Sosa",
-      "qualifiedXfers": 3,
+      "qualifiedXfers": 4,
       "hourlyXfers": {
         "10-12": 0,
         "12-13": 1,
         "13-14": 1,
-        "14-15": 1,
+        "14-15": 2,
         "15-16": 0,
         "16-18": 0
       },
@@ -41,11 +41,11 @@
         "10-12": 0,
         "12-13": 10.2,
         "13-14": 30.6,
-        "14-15": 25.6,
+        "14-15": 46.9,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 22.1,
+      "tpv": 21.9,
       "qaApproved": true
     },
     {
