@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-30T17:23:32.847Z",
-  "generatedAtEastern": "5/30/2026, 13:23:32",
+  "generatedAt": "2026-05-30T17:25:35.991Z",
+  "generatedAtEastern": "5/30/2026, 13:25:35",
   "timezone": "America/New_York",
   "agentCount": 6,
   "agents": [
+    {
+      "agentName": "Cody Sosa",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 10.2,
+        "13-14": 30.6,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.4,
+      "qaApproved": true
+    },
     {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 2,
@@ -68,28 +90,6 @@
         "16-18": 0
       },
       "tpv": 11.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Cody Sosa",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 10.2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.2,
       "qaApproved": true
     },
     {
