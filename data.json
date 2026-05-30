@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-30T18:51:41.992Z",
-  "generatedAtEastern": "5/30/2026, 14:51:41",
+  "generatedAt": "2026-05-30T18:53:45.042Z",
+  "generatedAtEastern": "5/30/2026, 14:53:45",
   "timezone": "America/New_York",
-  "agentCount": 7,
+  "agentCount": 8,
   "agents": [
     {
       "agentName": "Kenneth Martin",
@@ -28,12 +28,12 @@
     },
     {
       "agentName": "Cody Sosa",
-      "qualifiedXfers": 2,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 0,
         "12-13": 1,
         "13-14": 1,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
@@ -41,21 +41,21 @@
         "10-12": 0,
         "12-13": 10.2,
         "13-14": 30.6,
-        "14-15": 0,
+        "14-15": 25.6,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 20.4,
+      "tpv": 22.1,
       "qaApproved": true
     },
     {
       "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 2,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 1,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
@@ -63,11 +63,11 @@
         "10-12": 9.1,
         "12-13": 20.6,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 18.3,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 14.9,
+      "tpv": 16,
       "qaApproved": true
     },
     {
@@ -138,12 +138,12 @@
     },
     {
       "agentName": "Michelle Adika",
-      "qualifiedXfers": 1,
+      "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
@@ -151,11 +151,33 @@
         "10-12": 8.8,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 8.3,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 8.8,
+      "tpv": 8.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 19.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.5,
       "qaApproved": true
     }
   ]
