@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-05-30T16:52:47.766Z",
-  "generatedAtEastern": "5/30/2026, 12:52:47",
+  "generatedAt": "2026-05-30T16:54:50.657Z",
+  "generatedAtEastern": "5/30/2026, 12:54:50",
   "timezone": "America/New_York",
   "agentCount": 4,
   "agents": [
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.1,
+        "12-13": 20.6,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.9,
+      "qaApproved": true
+    },
     {
       "agentName": "David Stengel",
       "qualifiedXfers": 1,
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 10.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.1,
       "qaApproved": true
     },
     {
