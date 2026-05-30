@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-05-30T16:58:56.739Z",
-  "generatedAtEastern": "5/30/2026, 12:58:56",
+  "generatedAt": "2026-05-30T17:00:08.090Z",
+  "generatedAtEastern": "5/30/2026, 13:00:08",
   "timezone": "America/New_York",
-  "agentCount": 4,
+  "agentCount": 5,
   "agents": [
     {
       "agentName": "Christopher Westbrook",
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 10.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 9.4,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.4,
       "qaApproved": true
     },
     {
