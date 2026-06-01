@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-01T15:03:20.563Z",
-  "generatedAtEastern": "6/1/2026, 11:03:20",
+  "generatedAt": "2026-06-01T15:05:23.189Z",
+  "generatedAtEastern": "6/1/2026, 11:05:23",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 8,
   "agents": [
     {
       "agentName": "Christine Stubbs",
@@ -27,6 +27,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -46,6 +68,50 @@
         "16-18": 0
       },
       "tpv": 15.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 13.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 13.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.4,
       "qaApproved": true
     },
     {
