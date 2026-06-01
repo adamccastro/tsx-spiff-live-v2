@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T22:03:07.302Z",
-  "generatedAtEastern": "6/1/2026, 18:03:07",
+  "generatedAt": "2026-06-01T22:05:10.175Z",
+  "generatedAtEastern": "6/1/2026, 18:05:10",
   "timezone": "America/New_York",
   "agentCount": 21,
   "agents": [
@@ -335,6 +335,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 13.4
+      },
+      "tpv": 6.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -420,28 +442,6 @@
         "16-18": 0
       },
       "tpv": 10.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 5.3
-      },
-      "tpv": 5.3,
       "qaApproved": true
     },
     {
