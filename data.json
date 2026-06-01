@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-01T19:04:56.409Z",
-  "generatedAtEastern": "6/1/2026, 15:04:56",
+  "generatedAt": "2026-06-01T19:06:59.376Z",
+  "generatedAtEastern": "6/1/2026, 15:06:59",
   "timezone": "America/New_York",
-  "agentCount": 17,
+  "agentCount": 19,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 6,
+      "qualifiedXfers": 7,
       "hourlyXfers": {
         "10-12": 3,
         "12-13": 2,
         "13-14": 1,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
@@ -19,11 +19,11 @@
         "10-12": 29,
         "12-13": 38.9,
         "13-14": 5.7,
-        "14-15": 0,
+        "14-15": 9.9,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 12.3,
+      "tpv": 11.9,
       "qaApproved": true
     },
     {
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 42.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 5.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -93,25 +115,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Stephanie Artigas",
+      "agentName": "Jeff Octave",
       "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 4,
+        "10-12": 3,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 42.5,
+        "10-12": 35.1,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 4.9,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 10.6,
+      "tpv": 10,
       "qaApproved": true
     },
     {
@@ -181,25 +203,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Jeff Octave",
+      "agentName": "Devon Halbert",
       "qualifiedXfers": 3,
       "hourlyXfers": {
-        "10-12": 3,
+        "10-12": 1,
         "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
+        "13-14": 1,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 35.1,
+        "10-12": 7.4,
         "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
+        "13-14": 15.9,
+        "14-15": 10.1,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 11.7,
+      "tpv": 11.1,
       "qaApproved": true
     },
     {
@@ -225,25 +247,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Devon Halbert",
+      "agentName": "Sam Hill",
       "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 7.4,
-        "12-13": 0,
-        "13-14": 15.9,
-        "14-15": 0,
+        "10-12": 0,
+        "12-13": 11.9,
+        "13-14": 0,
+        "14-15": 14.8,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 11.7,
+      "tpv": 13.4,
       "qaApproved": true
     },
     {
@@ -266,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 7.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 27.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 27.9,
       "qaApproved": true
     },
     {
@@ -313,25 +357,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Sam Hill",
+      "agentName": "Yadi Melendez",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 0,
-        "12-13": 1,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
         "10-12": 0,
-        "12-13": 11.9,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 10.8,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 11.9,
+      "tpv": 10.8,
       "qaApproved": true
     },
     {
