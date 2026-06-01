@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T21:24:14.378Z",
-  "generatedAtEastern": "6/1/2026, 17:24:14",
+  "generatedAt": "2026-06-01T21:26:17.073Z",
+  "generatedAtEastern": "6/1/2026, 17:26:17",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -28,14 +28,14 @@
     },
     {
       "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 8,
+      "qualifiedXfers": 10,
       "hourlyXfers": {
         "10-12": 4,
         "12-13": 0,
         "13-14": 0,
         "14-15": 1,
         "15-16": 2,
-        "16-18": 1
+        "16-18": 3
       },
       "hourlyTpvTotal": {
         "10-12": 42.5,
@@ -43,9 +43,9 @@
         "13-14": 0,
         "14-15": 5.4,
         "15-16": 16,
-        "16-18": 10.6
+        "16-18": 31.4
       },
-      "tpv": 9.3,
+      "tpv": 9.5,
       "qaApproved": true
     },
     {
@@ -68,6 +68,28 @@
         "16-18": 10
       },
       "tpv": 15.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 27,
+        "12-13": 0,
+        "13-14": 28.6,
+        "14-15": 4.3,
+        "15-16": 0,
+        "16-18": 13.9
+      },
+      "tpv": 14.8,
       "qaApproved": true
     },
     {
@@ -159,28 +181,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 27,
-        "12-13": 0,
-        "13-14": 28.6,
-        "14-15": 4.3,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15,
-      "qaApproved": true
-    },
-    {
       "agentName": "Cody Sosa",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 9.1,
+        "15-16": 4.2,
+        "16-18": 12
+      },
+      "tpv": 6.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 11.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Isabel Jael",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 9.1,
-        "15-16": 4.2,
-        "16-18": 7.5
-      },
-      "tpv": 6.9,
       "qaApproved": true
     },
     {
