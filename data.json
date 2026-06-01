@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T20:35:03.650Z",
-  "generatedAtEastern": "6/1/2026, 16:35:03",
+  "generatedAt": "2026-06-01T20:37:07.877Z",
+  "generatedAtEastern": "6/1/2026, 16:37:07",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -50,14 +50,14 @@
     },
     {
       "agentName": "David Parker",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 2,
         "13-14": 1,
         "14-15": 1,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 15.6,
@@ -65,9 +65,31 @@
         "13-14": 4.4,
         "14-15": 10.4,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 10
       },
-      "tpv": 16.6,
+      "tpv": 15.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 35.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 4.9,
+        "15-16": 0,
+        "16-18": 28.8
+      },
+      "tpv": 13.8,
       "qaApproved": true
     },
     {
@@ -181,25 +203,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "Jeff Octave",
+      "agentName": "Gina Blaney",
       "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 3,
+        "10-12": 2,
         "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19,
+        "12-13": 0,
+        "13-14": 6.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 12.1
+      },
+      "tpv": 9.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
         "13-14": 0,
         "14-15": 1,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
-        "10-12": 35.1,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 11.9,
         "13-14": 0,
-        "14-15": 4.9,
+        "14-15": 14.8,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 9.9
       },
-      "tpv": 10,
+      "tpv": 12.2,
       "qaApproved": true
     },
     {
@@ -225,28 +269,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 19,
-        "12-13": 0,
-        "13-14": 6.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.4,
-      "qaApproved": true
-    },
-    {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -266,28 +288,6 @@
         "16-18": 7.5
       },
       "tpv": 6.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 11.9,
-        "13-14": 0,
-        "14-15": 14.8,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.4,
       "qaApproved": true
     },
     {
