@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-02T19:23:50.525Z",
-  "generatedAtEastern": "6/2/2026, 15:23:50",
+  "generatedAt": "2026-06-02T19:25:53.382Z",
+  "generatedAtEastern": "6/2/2026, 15:25:53",
   "timezone": "America/New_York",
   "agentCount": 14,
   "agents": [
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 55,
+        "12-13": 20.6,
+        "13-14": 13.3,
+        "14-15": 0,
+        "15-16": 4.4,
+        "16-18": 0
+      },
+      "tpv": 15.6,
+      "qaApproved": true
+    },
     {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 6,
@@ -27,28 +49,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 55,
-        "12-13": 20.6,
-        "13-14": 13.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17.8,
-      "qaApproved": true
-    },
-    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 17.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 15.1,
+        "12-13": 0,
+        "13-14": 45,
+        "14-15": 0,
+        "15-16": 21.3,
+        "16-18": 0
+      },
+      "tpv": 27.1,
       "qaApproved": true
     },
     {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 30.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Kenneth Martin",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 15.1,
-        "12-13": 0,
-        "13-14": 45,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 30.1,
       "qaApproved": true
     },
     {
