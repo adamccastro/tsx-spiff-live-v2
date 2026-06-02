@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-02T14:55:07.377Z",
-  "generatedAtEastern": "6/2/2026, 10:55:07",
+  "generatedAt": "2026-06-02T14:57:10.886Z",
+  "generatedAtEastern": "6/2/2026, 10:57:10",
   "timezone": "America/New_York",
-  "agentCount": 1,
+  "agentCount": 3,
   "agents": [
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6,
+      "qaApproved": true
+    },
     {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 1,
@@ -24,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 10.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.4,
       "qaApproved": true
     }
   ]
