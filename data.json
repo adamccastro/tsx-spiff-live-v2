@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T16:13:17.956Z",
-  "generatedAtEastern": "6/3/2026, 12:13:17",
+  "generatedAt": "2026-06-03T16:15:20.954Z",
+  "generatedAtEastern": "6/3/2026, 12:15:20",
   "timezone": "America/New_York",
   "agentCount": 17,
   "agents": [
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 11.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 22.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.1,
       "qaApproved": true
     },
     {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 6.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.3,
       "qaApproved": true
     }
   ]
