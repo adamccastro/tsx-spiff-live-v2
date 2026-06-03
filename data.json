@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-03T20:02:57.346Z",
-  "generatedAtEastern": "6/3/2026, 16:02:57",
+  "generatedAt": "2026-06-03T20:05:00.333Z",
+  "generatedAtEastern": "6/3/2026, 16:05:00",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 24,
   "agents": [
     {
       "agentName": "Christine Stubbs",
@@ -115,6 +115,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.6,
+        "12-13": 34.8,
+        "13-14": 21.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 8.8
+      },
+      "tpv": 20.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 32.8,
+        "12-13": 0,
+        "13-14": 6.1,
+        "14-15": 11.3,
+        "15-16": 9.8,
+        "16-18": 0
+      },
+      "tpv": 15,
+      "qaApproved": true
+    },
+    {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -137,28 +181,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.6,
-        "12-13": 34.8,
-        "13-14": 21.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 24.2,
-      "qaApproved": true
-    },
-    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -178,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 20,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 32.8,
-        "12-13": 0,
-        "13-14": 6.1,
-        "14-15": 11.3,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.7,
       "qaApproved": true
     },
     {
@@ -420,6 +420,28 @@
         "16-18": 0
       },
       "tpv": 17.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 12.4,
+        "16-18": 0
+      },
+      "tpv": 12.4,
       "qaApproved": true
     },
     {
