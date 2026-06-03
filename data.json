@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-03T18:00:05.484Z",
-  "generatedAtEastern": "6/3/2026, 14:00:05",
+  "generatedAt": "2026-06-03T18:01:56.355Z",
+  "generatedAtEastern": "6/3/2026, 14:01:56",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 20,
   "agents": [
     {
       "agentName": "Christine Stubbs",
@@ -420,6 +420,28 @@
         "16-18": 0
       },
       "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 9.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.5,
       "qaApproved": true
     }
   ]
