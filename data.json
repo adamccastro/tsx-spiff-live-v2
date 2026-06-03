@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T23:48:14.056Z",
-  "generatedAtEastern": "6/3/2026, 19:48:14",
+  "generatedAt": "2026-06-03T23:50:17.019Z",
+  "generatedAtEastern": "6/3/2026, 19:50:17",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -357,6 +357,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 52.6,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 10.2
+      },
+      "tpv": 31.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -442,28 +464,6 @@
         "16-18": 10.7
       },
       "tpv": 7.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 52.6,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 52.6,
       "qaApproved": true
     },
     {
