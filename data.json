@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T20:00:54.477Z",
-  "generatedAtEastern": "6/3/2026, 16:00:54",
+  "generatedAt": "2026-06-03T20:02:57.346Z",
+  "generatedAtEastern": "6/3/2026, 16:02:57",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.6,
+        "12-13": 4.5,
+        "13-14": 4.1,
+        "14-15": 0,
+        "15-16": 30.5,
+        "16-18": 0
+      },
+      "tpv": 11.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -112,28 +134,6 @@
         "16-18": 0
       },
       "tpv": 12.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 17.6,
-        "12-13": 4.5,
-        "13-14": 4.1,
-        "14-15": 0,
-        "15-16": 5.4,
-        "16-18": 0
-      },
-      "tpv": 7.9,
       "qaApproved": true
     },
     {
