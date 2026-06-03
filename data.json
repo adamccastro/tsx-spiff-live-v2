@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T21:14:40.206Z",
-  "generatedAtEastern": "6/3/2026, 17:14:40",
+  "generatedAt": "2026-06-03T21:16:43.018Z",
+  "generatedAtEastern": "6/3/2026, 17:16:43",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -65,9 +65,9 @@
         "13-14": 0,
         "14-15": 0,
         "15-16": 14.4,
-        "16-18": 60
+        "16-18": 64.8
       },
-      "tpv": 14.6,
+      "tpv": 15.4,
       "qaApproved": true
     },
     {
