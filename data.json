@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-03T20:29:36.274Z",
-  "generatedAtEastern": "6/3/2026, 16:29:36",
+  "generatedAt": "2026-06-03T20:31:39.323Z",
+  "generatedAtEastern": "6/3/2026, 16:31:39",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.6,
+        "12-13": 4.5,
+        "13-14": 4.1,
+        "14-15": 0,
+        "15-16": 30.5,
+        "16-18": 17.2
+      },
+      "tpv": 12.3,
+      "qaApproved": true
+    },
     {
       "agentName": "Christine Stubbs",
       "qualifiedXfers": 6,
@@ -134,28 +156,6 @@
         "16-18": 8.7
       },
       "tpv": 11.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 2,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 17.6,
-        "12-13": 4.5,
-        "13-14": 4.1,
-        "14-15": 0,
-        "15-16": 30.5,
-        "16-18": 0
-      },
-      "tpv": 11.3,
       "qaApproved": true
     },
     {
