@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-06-03T21:45:23.768Z",
-  "generatedAtEastern": "6/3/2026, 17:45:23",
+  "generatedAt": "2026-06-03T21:47:26.554Z",
+  "generatedAtEastern": "6/3/2026, 17:47:26",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 8,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.6,
+        "12-13": 4.5,
+        "13-14": 4.1,
+        "14-15": 0,
+        "15-16": 30.5,
+        "16-18": 45.7
+      },
+      "tpv": 12.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 7,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 30.3,
+        "12-13": 50.3,
+        "13-14": 0,
+        "14-15": 5.9,
+        "15-16": 30.8,
+        "16-18": 11.8
+      },
+      "tpv": 18.4,
+      "qaApproved": true
+    },
     {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 7,
@@ -46,50 +90,6 @@
         "16-18": 74
       },
       "tpv": 14.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 7,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 2,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 17.6,
-        "12-13": 4.5,
-        "13-14": 4.1,
-        "14-15": 0,
-        "15-16": 30.5,
-        "16-18": 38.9
-      },
-      "tpv": 13.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Isabel Jael",
-      "qualifiedXfers": 6,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 30.3,
-        "12-13": 50.3,
-        "13-14": 0,
-        "14-15": 5.9,
-        "15-16": 30.8,
-        "16-18": 5.3
-      },
-      "tpv": 20.4,
       "qaApproved": true
     },
     {
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 12.4,
+        "16-18": 27
+      },
+      "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Yadi Melendez",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 12.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jennifer Allen",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 12.4,
-        "16-18": 22.8
-      },
-      "tpv": 11.7,
       "qaApproved": true
     },
     {
