@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T19:38:23.636Z",
-  "generatedAtEastern": "6/3/2026, 15:38:23",
+  "generatedAt": "2026-06-03T19:40:26.312Z",
+  "generatedAtEastern": "6/3/2026, 15:40:26",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 9.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 35.3,
+        "12-13": 13.2,
+        "13-14": 0,
+        "14-15": 29.3,
+        "15-16": 13.2,
+        "16-18": 0
+      },
+      "tpv": 18.2,
       "qaApproved": true
     },
     {
@@ -68,28 +90,6 @@
         "16-18": 0
       },
       "tpv": 21.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tara Schumacker",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 35.3,
-        "12-13": 13.2,
-        "13-14": 0,
-        "14-15": 29.3,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 19.5,
       "qaApproved": true
     },
     {
@@ -203,6 +203,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.1,
+        "12-13": 6.9,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 14.4,
+        "16-18": 0
+      },
+      "tpv": 9.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 14.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 25.9,
+        "16-18": 0
+      },
+      "tpv": 20.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -313,25 +357,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "TJ Waldron",
+      "agentName": "Tonya Giordano",
       "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 1,
-        "12-13": 1,
+        "12-13": 0,
         "13-14": 0,
         "14-15": 0,
-        "15-16": 0,
+        "15-16": 1,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 6.1,
-        "12-13": 6.9,
+        "10-12": 13,
+        "12-13": 0,
         "13-14": 0,
         "14-15": 0,
-        "15-16": 0,
+        "15-16": 4.4,
         "16-18": 0
       },
-      "tpv": 6.5,
+      "tpv": 8.7,
       "qaApproved": true
     },
     {
@@ -376,50 +420,6 @@
         "16-18": 0
       },
       "tpv": 17.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 14.3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 13,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13,
       "qaApproved": true
     },
     {
