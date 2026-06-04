@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-04T23:20:49.888Z",
-  "generatedAtEastern": "6/4/2026, 19:20:49",
+  "generatedAt": "2026-06-04T23:22:52.612Z",
+  "generatedAtEastern": "6/4/2026, 19:22:52",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -401,6 +401,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 9.9,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Andrew Brett",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -464,28 +486,6 @@
         "16-18": 0
       },
       "tpv": 13.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Devon Halbert",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 9.9,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.9,
       "qaApproved": true
     },
     {
