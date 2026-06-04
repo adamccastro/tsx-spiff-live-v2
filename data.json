@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T18:52:22.444Z",
-  "generatedAtEastern": "6/4/2026, 14:52:22",
+  "generatedAt": "2026-06-04T18:54:25.218Z",
+  "generatedAtEastern": "6/4/2026, 14:54:25",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Sam Hill",
@@ -357,6 +357,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 11.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Devon Halbert",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -398,6 +420,28 @@
         "16-18": 0
       },
       "tpv": 7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5,
       "qaApproved": true
     },
     {
