@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-04T16:57:37.375Z",
-  "generatedAtEastern": "6/4/2026, 12:57:37",
+  "generatedAt": "2026-06-04T16:59:40.082Z",
+  "generatedAtEastern": "6/4/2026, 12:59:40",
   "timezone": "America/New_York",
-  "agentCount": 9,
+  "agentCount": 11,
   "agents": [
     {
       "agentName": "TJ Waldron",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 11.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 59,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 29.5,
       "qaApproved": true
     },
     {
@@ -71,28 +93,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.8,
-      "qaApproved": true
-    },
-    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 16.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 13.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.3,
       "qaApproved": true
     },
     {
@@ -156,6 +178,28 @@
         "16-18": 0
       },
       "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 10.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.1,
       "qaApproved": true
     },
     {
