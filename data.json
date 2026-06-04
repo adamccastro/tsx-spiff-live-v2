@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-04T21:40:25.847Z",
-  "generatedAtEastern": "6/4/2026, 17:40:25",
+  "generatedAt": "2026-06-04T21:42:28.691Z",
+  "generatedAtEastern": "6/4/2026, 17:42:28",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 6.9,
+        "16-18": 42.1
+      },
+      "tpv": 16.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 18.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jennifer Allen",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 6.9,
-        "16-18": 25
-      },
-      "tpv": 16,
       "qaApproved": true
     },
     {
