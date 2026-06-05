@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-05T18:23:18.871Z",
-  "generatedAtEastern": "6/5/2026, 14:23:18",
+  "generatedAt": "2026-06-05T18:25:21.957Z",
+  "generatedAtEastern": "6/5/2026, 14:25:21",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 20,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 4.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -225,25 +247,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Michelle Adika",
+      "agentName": "TJ Waldron",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 16.1,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 59.2,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 16.1,
+      "tpv": 59.2,
       "qaApproved": true
     },
     {
