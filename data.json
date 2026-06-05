@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-05T18:21:15.674Z",
-  "generatedAtEastern": "6/5/2026, 14:21:15",
+  "generatedAt": "2026-06-05T18:23:18.871Z",
+  "generatedAtEastern": "6/5/2026, 14:23:18",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 24.6,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -310,28 +332,6 @@
         "16-18": 0
       },
       "tpv": 12.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 10.1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.1,
       "qaApproved": true
     },
     {
