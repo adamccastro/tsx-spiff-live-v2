@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-05T21:05:34.590Z",
-  "generatedAtEastern": "6/5/2026, 17:05:34",
+  "generatedAt": "2026-06-05T21:07:37.373Z",
+  "generatedAtEastern": "6/5/2026, 17:07:37",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8,
+        "12-13": 0,
+        "13-14": 7.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 22.9
+      },
+      "tpv": 12.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 11.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8,
-        "12-13": 0,
-        "13-14": 7.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.7,
       "qaApproved": true
     },
     {
