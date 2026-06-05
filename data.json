@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-05T15:34:54.691Z",
-  "generatedAtEastern": "6/5/2026, 11:34:54",
+  "generatedAt": "2026-06-05T15:36:57.638Z",
+  "generatedAtEastern": "6/5/2026, 11:36:57",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 7,
   "agents": [
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.5,
+      "qaApproved": true
+    },
     {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 1,
@@ -46,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 15.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.2,
       "qaApproved": true
     },
     {
