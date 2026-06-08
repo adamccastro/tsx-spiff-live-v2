@@ -38,11 +38,14 @@ const BLOCKS = [
 
 export function parseTpvMinutes(tpvStr) {
   if (!tpvStr) return 0;
-  const minMatch = String(tpvStr).match(/(\d+)\s*min/i);
-  const secMatch = String(tpvStr).match(/(\d+)\s*s/i);
+  const s = String(tpvStr);
+  const hrMatch  = s.match(/(\d+)\s*h(?:r|our)?s?/i);
+  const minMatch = s.match(/(\d+)\s*m(?:in)?(?!\s*s)/i);
+  const secMatch = s.match(/(\d+)\s*s(?:ec)?/i);
+  const hrs  = hrMatch  ? parseInt(hrMatch[1],  10) : 0;
   const mins = minMatch ? parseInt(minMatch[1], 10) : 0;
   const secs = secMatch ? parseInt(secMatch[1], 10) : 0;
-  return Math.round((mins + secs / 60) * 10) / 10;
+  return Math.round((hrs * 60 + mins + secs / 60) * 10) / 10;
 }
 
 export function getEasternHour(dateStr) {
