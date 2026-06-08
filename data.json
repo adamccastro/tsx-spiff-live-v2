@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T20:21:57.540Z",
-  "generatedAtEastern": "6/8/2026, 16:21:57",
+  "generatedAt": "2026-06-08T20:24:00.346Z",
+  "generatedAtEastern": "6/8/2026, 16:24:00",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -291,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.1,
+        "12-13": 6.6,
+        "13-14": 7,
+        "14-15": 0,
+        "15-16": 23.7,
+        "16-18": 0
+      },
+      "tpv": 11.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 9.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.1,
-        "12-13": 6.6,
-        "13-14": 7,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.2,
       "qaApproved": true
     },
     {
