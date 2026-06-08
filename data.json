@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T23:12:05.764Z",
-  "generatedAtEastern": "6/8/2026, 19:12:05",
+  "generatedAt": "2026-06-08T23:14:08.559Z",
+  "generatedAtEastern": "6/8/2026, 19:14:08",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -216,12 +216,12 @@
       "hourlyTpvTotal": {
         "10-12": 0,
         "12-13": 13.9,
-        "13-14": 69.4,
+        "13-14": 129.4,
         "14-15": 41.9,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 25,
+      "tpv": 37,
       "qaApproved": true
     },
     {
@@ -291,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 18.8,
+        "12-13": 14.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 14,
+        "16-18": 9.1
+      },
+      "tpv": 11.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tara Schumacker",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -332,28 +354,6 @@
         "16-18": 32.4
       },
       "tpv": 16.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18.8,
-        "12-13": 14.1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 14,
-        "16-18": 0
-      },
-      "tpv": 11.7,
       "qaApproved": true
     },
     {
