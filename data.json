@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-08T23:18:14.063Z",
-  "generatedAtEastern": "6/8/2026, 19:18:14",
+  "generatedAt": "2026-06-08T23:20:16.668Z",
+  "generatedAtEastern": "6/8/2026, 19:20:16",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 24,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
@@ -486,6 +486,28 @@
         "16-18": 0
       },
       "tpv": 21.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 55.9
+      },
+      "tpv": 55.9,
       "qaApproved": true
     },
     {
