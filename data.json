@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T21:17:18.077Z",
-  "generatedAtEastern": "6/8/2026, 17:17:18",
+  "generatedAt": "2026-06-08T21:19:20.941Z",
+  "generatedAtEastern": "6/8/2026, 17:19:20",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -46,6 +46,28 @@
         "16-18": 11.3
       },
       "tpv": 13.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.1,
+        "12-13": 6.6,
+        "13-14": 7,
+        "14-15": 0,
+        "15-16": 23.7,
+        "16-18": 44.5
+      },
+      "tpv": 15,
       "qaApproved": true
     },
     {
@@ -225,25 +247,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Anthony Canales",
+      "agentName": "Sam Hill",
       "qualifiedXfers": 5,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 1,
         "13-14": 1,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 1,
         "16-18": 1
       },
       "hourlyTpvTotal": {
-        "10-12": 8.1,
-        "12-13": 6.6,
-        "13-14": 7,
-        "14-15": 0,
-        "15-16": 23.7,
-        "16-18": 18.3
+        "10-12": 0,
+        "12-13": 9.6,
+        "13-14": 18.7,
+        "14-15": 11.8,
+        "15-16": 8.8,
+        "16-18": 18
       },
-      "tpv": 12.7,
+      "tpv": 13.4,
       "qaApproved": true
     },
     {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 27,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 9.6,
-        "13-14": 18.7,
-        "14-15": 11.8,
-        "15-16": 8.8,
-        "16-18": 0
-      },
-      "tpv": 12.2,
       "qaApproved": true
     },
     {
