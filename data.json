@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T22:22:53.653Z",
-  "generatedAtEastern": "6/8/2026, 18:22:53",
+  "generatedAt": "2026-06-08T22:24:56.519Z",
+  "generatedAtEastern": "6/8/2026, 18:24:56",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -313,6 +313,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 10.2,
+        "14-15": 0,
+        "15-16": 23.7,
+        "16-18": 32.4
+      },
+      "tpv": 16.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 14.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 10.2,
-        "14-15": 0,
-        "15-16": 23.7,
-        "16-18": 5.1
-      },
-      "tpv": 13,
       "qaApproved": true
     },
     {
