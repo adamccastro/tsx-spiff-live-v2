@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T20:11:42.429Z",
-  "generatedAtEastern": "6/8/2026, 16:11:42",
+  "generatedAt": "2026-06-08T20:13:45.340Z",
+  "generatedAtEastern": "6/8/2026, 16:13:45",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 17.1,
+        "13-14": 7.6,
+        "14-15": 0,
+        "15-16": 51,
+        "16-18": 0
+      },
+      "tpv": 18.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Leonora Bornn",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 6.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Isabel Jael",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 17.1,
-        "13-14": 7.6,
-        "14-15": 0,
-        "15-16": 45.8,
-        "16-18": 0
-      },
-      "tpv": 23.5,
       "qaApproved": true
     },
     {
@@ -423,6 +423,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 10.2,
+        "14-15": 0,
+        "15-16": 23.7,
+        "16-18": 0
+      },
+      "tpv": 17,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -486,28 +508,6 @@
         "16-18": 0
       },
       "tpv": 17.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 10.2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.2,
       "qaApproved": true
     }
   ]
