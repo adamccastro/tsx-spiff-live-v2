@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T18:42:59.677Z",
-  "generatedAtEastern": "6/8/2026, 14:42:59",
+  "generatedAt": "2026-06-08T18:45:03.895Z",
+  "generatedAtEastern": "6/8/2026, 14:45:03",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 27.8,
+        "12-13": 0,
+        "13-14": 12.5,
+        "14-15": 18.7,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Nick Marino",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -68,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 18.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jabraina Spillman",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 13.9,
+        "13-14": 12.4,
+        "14-15": 41.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.1,
       "qaApproved": true
     },
     {
@@ -115,10 +159,32 @@
       "qaApproved": true
     },
     {
-      "agentName": "Stephanie Artigas",
+      "agentName": "Sara Jameson",
       "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 3,
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14,
+        "12-13": 10.9,
+        "13-14": 0,
+        "14-15": 7.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
         "12-13": 0,
         "13-14": 1,
         "14-15": 0,
@@ -126,14 +192,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 27.8,
+        "10-12": 62.5,
         "12-13": 0,
-        "13-14": 12.5,
+        "13-14": 40.5,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 10.1,
+      "tpv": 34.3,
       "qaApproved": true
     },
     {
@@ -156,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 14.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jabraina Spillman",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 13.9,
-        "13-14": 12.4,
-        "14-15": 7.4,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.2,
       "qaApproved": true
     },
     {
@@ -225,28 +269,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14,
-        "12-13": 10.9,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.3,
-      "qaApproved": true
-    },
-    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 6.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tara Schumacker",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 62.5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 31.3,
       "qaApproved": true
     },
     {
