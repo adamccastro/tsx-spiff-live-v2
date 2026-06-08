@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T16:31:41.224Z",
-  "generatedAtEastern": "6/8/2026, 12:31:41",
+  "generatedAt": "2026-06-08T16:33:44.350Z",
+  "generatedAtEastern": "6/8/2026, 12:33:44",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -27,6 +27,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 53.1,
+        "12-13": 5.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 12.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 53.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17.7,
       "qaApproved": true
     },
     {
