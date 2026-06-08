@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-08T19:38:25.323Z",
-  "generatedAtEastern": "6/8/2026, 15:38:25",
+  "generatedAt": "2026-06-08T19:40:28.298Z",
+  "generatedAtEastern": "6/8/2026, 15:40:28",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 29.8,
+        "12-13": 19,
+        "13-14": 0,
+        "14-15": 5.6,
+        "15-16": 29.7,
+        "16-18": 0
+      },
+      "tpv": 14,
+      "qaApproved": true
+    },
     {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 6,
@@ -24,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 14,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 27.8,
+        "12-13": 0,
+        "13-14": 12.5,
+        "14-15": 18.7,
+        "15-16": 12.8,
+        "16-18": 0
+      },
+      "tpv": 12,
       "qaApproved": true
     },
     {
@@ -68,50 +112,6 @@
         "16-18": 0
       },
       "tpv": 25,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 27.8,
-        "12-13": 0,
-        "13-14": 12.5,
-        "14-15": 18.7,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 29.8,
-        "12-13": 19,
-        "13-14": 0,
-        "14-15": 5.6,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.9,
       "qaApproved": true
     },
     {
