@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T18:45:03.895Z",
-  "generatedAtEastern": "6/8/2026, 14:45:03",
+  "generatedAt": "2026-06-08T18:47:07.133Z",
+  "generatedAtEastern": "6/8/2026, 14:47:07",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 29.8,
+        "12-13": 19,
+        "13-14": 0,
+        "14-15": 5.6,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Nick Marino",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -137,28 +159,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 29.8,
-        "12-13": 19,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 12.2,
-      "qaApproved": true
-    },
-    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -222,6 +222,28 @@
         "16-18": 0
       },
       "tpv": 14.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 9.6,
+        "13-14": 18.7,
+        "14-15": 11.8,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.4,
       "qaApproved": true
     },
     {
@@ -332,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 21.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 9.6,
-        "13-14": 18.7,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.2,
       "qaApproved": true
     },
     {
