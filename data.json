@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T21:04:49.031Z",
-  "generatedAtEastern": "6/9/2026, 17:04:49",
+  "generatedAt": "2026-06-09T21:06:52.286Z",
+  "generatedAtEastern": "6/9/2026, 17:06:52",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 25.6,
+        "12-13": 5.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 22.5
+      },
+      "tpv": 13.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Stengel",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -266,28 +288,6 @@
         "16-18": 21.4
       },
       "tpv": 11.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 25.6,
-        "12-13": 5.3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.3,
       "qaApproved": true
     },
     {
