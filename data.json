@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T20:48:24.395Z",
-  "generatedAtEastern": "6/9/2026, 16:48:24",
+  "generatedAt": "2026-06-09T20:50:27.631Z",
+  "generatedAtEastern": "6/9/2026, 16:50:27",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -50,14 +50,14 @@
     },
     {
       "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 0,
         "13-14": 3,
         "14-15": 1,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 29.8,
@@ -65,9 +65,9 @@
         "13-14": 42.7,
         "14-15": 50.7,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 11.6
       },
-      "tpv": 24.6,
+      "tpv": 22.5,
       "qaApproved": true
     },
     {
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 7.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 26.7
+      },
+      "tpv": 11.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Dom P",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 13.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Mitchell",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 7.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 16.8
-      },
-      "tpv": 12.1,
       "qaApproved": true
     },
     {
