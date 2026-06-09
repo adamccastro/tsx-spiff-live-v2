@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T14:51:19.279Z",
-  "generatedAtEastern": "6/9/2026, 10:51:19",
+  "generatedAt": "2026-06-09T14:53:22.394Z",
+  "generatedAtEastern": "6/9/2026, 10:53:22",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 6,
   "agents": [
     {
       "agentName": "David Stengel",
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 5.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 27.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 27.3,
       "qaApproved": true
     },
     {
