@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-09T17:19:06.005Z",
-  "generatedAtEastern": "6/9/2026, 13:19:06",
+  "generatedAt": "2026-06-09T17:21:08.943Z",
+  "generatedAtEastern": "6/9/2026, 13:21:08",
   "timezone": "America/New_York",
   "agentCount": 17,
   "agents": [
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 27.9,
+        "12-13": 5.9,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.5,
+      "qaApproved": true
+    },
     {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 3,
@@ -27,25 +49,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
+      "agentName": "TJ Waldron",
       "qualifiedXfers": 3,
       "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
+        "10-12": 1,
+        "12-13": 2,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 27.9,
-        "12-13": 0,
+        "10-12": 12,
+        "12-13": 36.2,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 9.3,
+      "tpv": 16.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 25.6,
+        "12-13": 5.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.3,
       "qaApproved": true
     },
     {
@@ -137,47 +181,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "Christine Stubbs",
+      "agentName": "Jabraina Spillman",
       "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 2,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 25.6,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 30.5,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 12.8,
+      "tpv": 15.3,
       "qaApproved": true
     },
     {
-      "agentName": "TJ Waldron",
+      "agentName": "Stephanie Artigas",
       "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
+        "10-12": 0,
+        "12-13": 2,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 12,
-        "12-13": 4,
+        "10-12": 0,
+        "12-13": 29.3,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 8,
+      "tpv": 14.7,
       "qaApproved": true
     },
     {
@@ -222,50 +266,6 @@
         "16-18": 0
       },
       "tpv": 20.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 20.6,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 20.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jabraina Spillman",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 14.4,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.4,
       "qaApproved": true
     },
     {
