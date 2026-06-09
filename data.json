@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T18:30:55.518Z",
-  "generatedAtEastern": "6/9/2026, 14:30:55",
+  "generatedAt": "2026-06-09T18:32:58.541Z",
+  "generatedAtEastern": "6/9/2026, 14:32:58",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 18,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 27.9,
+        "12-13": 5.9,
+        "13-14": 0,
+        "14-15": 6.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.1,
       "qaApproved": true
     },
     {
@@ -71,25 +93,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 4,
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 3,
       "hourlyXfers": {
-        "10-12": 3,
+        "10-12": 1,
         "12-13": 1,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 27.9,
-        "12-13": 5.9,
+        "10-12": 7,
+        "12-13": 32.4,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 24.4,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 8.5,
+      "tpv": 21.3,
       "qaApproved": true
     },
     {
@@ -178,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 23.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 7,
-        "12-13": 32.4,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 19.7,
       "qaApproved": true
     },
     {
