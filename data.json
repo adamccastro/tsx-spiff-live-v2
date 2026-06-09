@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-06-09T18:00:08.858Z",
-  "generatedAtEastern": "6/9/2026, 14:00:08",
+  "generatedAt": "2026-06-09T18:02:10.747Z",
+  "generatedAtEastern": "6/9/2026, 14:02:10",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
     {
       "agentName": "Gina Blaney",
-      "qualifiedXfers": 4,
+      "qualifiedXfers": 5,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 1,
-        "13-14": 1,
+        "13-14": 2,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
@@ -18,12 +18,12 @@
       "hourlyTpvTotal": {
         "10-12": 42.7,
         "12-13": 24.5,
-        "13-14": 4.2,
+        "13-14": 22.7,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 17.9,
+      "tpv": 18,
       "qaApproved": true
     },
     {
@@ -269,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.5,
+        "12-13": 0,
+        "13-14": 14.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Dom P",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 7.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5.5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.5,
       "qaApproved": true
     },
     {
