@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-09T14:53:22.394Z",
-  "generatedAtEastern": "6/9/2026, 10:53:22",
+  "generatedAt": "2026-06-09T14:55:25.742Z",
+  "generatedAtEastern": "6/9/2026, 10:55:25",
   "timezone": "America/New_York",
-  "agentCount": 6,
+  "agentCount": 8,
   "agents": [
     {
       "agentName": "David Stengel",
@@ -112,6 +112,50 @@
         "16-18": 0
       },
       "tpv": 13.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 13.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.8,
       "qaApproved": true
     },
     {
