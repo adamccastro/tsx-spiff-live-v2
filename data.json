@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-10T19:47:10.932Z",
-  "generatedAtEastern": "6/10/2026, 15:47:10",
+  "generatedAt": "2026-06-10T19:49:13.602Z",
+  "generatedAtEastern": "6/10/2026, 15:49:13",
   "timezone": "America/New_York",
-  "agentCount": 27,
+  "agentCount": 28,
   "agents": [
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 26.8,
+        "12-13": 6.1,
+        "13-14": 22.4,
+        "14-15": 0,
+        "15-16": 6.2,
+        "16-18": 0
+      },
+      "tpv": 12.3,
+      "qaApproved": true
+    },
     {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 4,
@@ -24,28 +46,6 @@
         "16-18": 0
       },
       "tpv": 15.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 26.8,
-        "12-13": 6.1,
-        "13-14": 22.4,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.8,
       "qaApproved": true
     },
     {
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 8.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 35.5,
+        "14-15": 51.1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 28.9,
       "qaApproved": true
     },
     {
@@ -379,28 +401,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 35.5,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17.8,
-      "qaApproved": true
-    },
-    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -508,6 +508,28 @@
         "16-18": 0
       },
       "tpv": 5.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 19.3,
+        "16-18": 0
+      },
+      "tpv": 19.3,
       "qaApproved": true
     },
     {
