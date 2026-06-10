@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-10T16:36:48.661Z",
-  "generatedAtEastern": "6/10/2026, 12:36:48",
+  "generatedAt": "2026-06-10T16:38:51.201Z",
+  "generatedAtEastern": "6/10/2026, 12:38:51",
   "timezone": "America/New_York",
-  "agentCount": 18,
+  "agentCount": 19,
   "agents": [
     {
       "agentName": "Yadi Melendez",
@@ -178,6 +178,28 @@
         "16-18": 0
       },
       "tpv": 18.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 17.5,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.5,
       "qaApproved": true
     },
     {
