@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-10T19:49:13.602Z",
-  "generatedAtEastern": "6/10/2026, 15:49:13",
+  "generatedAt": "2026-06-10T19:51:16.411Z",
+  "generatedAtEastern": "6/10/2026, 15:51:16",
   "timezone": "America/New_York",
   "agentCount": 28,
   "agents": [
@@ -291,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 27.6,
+        "15-16": 6.1,
+        "16-18": 0
+      },
+      "tpv": 11.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tara Schumacker",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -420,28 +442,6 @@
         "16-18": 0
       },
       "tpv": 17.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 27.6,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.8,
       "qaApproved": true
     },
     {
