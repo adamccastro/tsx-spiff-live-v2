@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-11T21:40:29.907Z",
-  "generatedAtEastern": "6/11/2026, 17:40:29",
+  "generatedAt": "2026-06-11T21:42:32.991Z",
+  "generatedAtEastern": "6/11/2026, 17:42:32",
   "timezone": "America/New_York",
   "agentCount": 30,
   "agents": [
@@ -511,6 +511,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Leticia Perez",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 4.3,
+        "15-16": 0,
+        "16-18": 8.9
+      },
+      "tpv": 6.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jabraina Spillman",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -640,28 +662,6 @@
         "16-18": 0
       },
       "tpv": 5.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Leticia Perez",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 4.3,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.3,
       "qaApproved": true
     }
   ]
