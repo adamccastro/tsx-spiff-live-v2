@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T18:48:19.419Z",
-  "generatedAtEastern": "6/11/2026, 14:48:19",
+  "generatedAt": "2026-06-11T18:50:22.114Z",
+  "generatedAtEastern": "6/11/2026, 14:50:22",
   "timezone": "America/New_York",
-  "agentCount": 26,
+  "agentCount": 27,
   "agents": [
     {
       "agentName": "Sam Hill",
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 3,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 28.9,
+        "13-14": 0,
+        "14-15": 11.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Yadi Melendez",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 12.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 28.9,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.6,
       "qaApproved": true
     },
     {
@@ -574,6 +574,28 @@
         "16-18": 0
       },
       "tpv": 5.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leticia Perez",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 4.3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.3,
       "qaApproved": true
     }
   ]
