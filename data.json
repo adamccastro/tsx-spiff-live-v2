@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-11T20:02:02.985Z",
-  "generatedAtEastern": "6/11/2026, 16:02:02",
+  "generatedAt": "2026-06-11T20:04:06.269Z",
+  "generatedAtEastern": "6/11/2026, 16:04:06",
   "timezone": "America/New_York",
   "agentCount": 28,
   "agents": [
+    {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 38.8,
+        "12-13": 33.6,
+        "13-14": 5.2,
+        "14-15": 0,
+        "15-16": 11.8,
+        "16-18": 0
+      },
+      "tpv": 17.9,
+      "qaApproved": true
+    },
     {
       "agentName": "Sam Hill",
       "qualifiedXfers": 5,
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 10,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 38.8,
-        "12-13": 33.6,
-        "13-14": 5.2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 19.4,
       "qaApproved": true
     },
     {
@@ -134,6 +134,28 @@
         "16-18": 0
       },
       "tpv": 6.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 16.9,
+        "14-15": 5.1,
+        "15-16": 4.2,
+        "16-18": 0
+      },
+      "tpv": 6.6,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 8.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 16.9,
-        "14-15": 5.1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.3,
       "qaApproved": true
     },
     {
