@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-11T17:03:52.111Z",
-  "generatedAtEastern": "6/11/2026, 13:03:52",
+  "generatedAt": "2026-06-11T17:05:54.875Z",
+  "generatedAtEastern": "6/11/2026, 13:05:54",
   "timezone": "America/New_York",
   "agentCount": 17,
   "agents": [
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 30,
+        "12-13": 28,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.3,
+      "qaApproved": true
+    },
     {
       "agentName": "Sam Hill",
       "qualifiedXfers": 3,
@@ -90,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 18.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 30,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15,
       "qaApproved": true
     },
     {
