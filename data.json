@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T18:40:07.971Z",
-  "generatedAtEastern": "6/11/2026, 14:40:07",
+  "generatedAt": "2026-06-11T18:42:10.895Z",
+  "generatedAtEastern": "6/11/2026, 14:42:10",
   "timezone": "America/New_York",
-  "agentCount": 25,
+  "agentCount": 26,
   "agents": [
     {
       "agentName": "Sam Hill",
@@ -313,6 +313,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Dom P",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 7.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Nick Marino",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -489,28 +511,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Dom P",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 20,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 20,
-      "qaApproved": true
-    },
-    {
       "agentName": "Andrew Brett",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -552,6 +552,28 @@
         "16-18": 0
       },
       "tpv": 5.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 5.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.2,
       "qaApproved": true
     }
   ]
