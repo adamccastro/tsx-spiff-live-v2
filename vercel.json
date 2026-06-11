@@ -1,7 +1,7 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
-  "ignoreCommand": "git diff HEAD^ HEAD --name-only | grep -qvE '^data\\.json$'; test $? -ne 0",
+  "ignoreCommand": "git show --name-only --format='' HEAD | grep -qvE '^data\\.json$'; test $? -ne 0",
   "headers": [
     {
       "source": "/data.json",
