@@ -17,13 +17,16 @@ import { dirname, join } from 'path';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const IS_CLI = process.argv[1] && fileURLToPath(import.meta.url) === process.argv[1];
 const TIME_ZONE = 'America/New_York';
+// Safety net: if a sheet timestamp has no timezone info, Node parses it in the
+// machine's local zone. Pinning TZ means this script behaves identically on the
+// Mac mini, a cloud server, or anyone's laptop.
+process.env.TZ = TIME_ZONE;
 
 const NRM_SHEET_ID = process.env.NRM_SHEET_ID || '1EONQqcaDV0WhqohShd1YB8alzwnTWEKWGexc-W8Q2MQ';
 const KEY_PATH =
   process.env.GOOGLE_SERVICE_ACCOUNT_KEY_PATH ||
   process.env.GOOGLE_APPLICATION_CREDENTIALS ||
   '/Users/adamcastro/.openclaw/workspace/.service-account-key.json';
-const HTML_PATH = join(__dirname, 'index.html');
 const DATA_PATH = join(__dirname, 'data.json');
 const SHOULD_PUSH = process.argv.includes('--push') || process.env.SPIFF_PUSH === 'true';
 
@@ -36,16 +39,31 @@ const BLOCKS = [
   { id: '16-18', startH: 16, endH: 18 },
 ];
 
-export function parseTpvMinutes(tpvStr) {
+export function parseTpvSeconds(tpvStr) {
   if (!tpvStr) return 0;
-  const s = String(tpvStr);
+  const s = String(tpvStr).trim();
+
+  // Clock-style formats (Readymode switches to these on longer calls):
+  //   "1:03:20" = 1 hr 3 min 20 sec     "5:34" = 5 min 34 sec
+  const hms = s.match(/^(\d+):(\d{1,2}):(\d{1,2})$/);
+  if (hms) return (+hms[1]) * 3600 + (+hms[2]) * 60 + (+hms[3]);
+  const ms = s.match(/^(\d+):(\d{1,2})$/);
+  if (ms) return (+ms[1]) * 60 + (+ms[2]);
+
+  // Word-style formats: "5m 34s", "1hr 3m", "4 min 30 s", "1 hour 3 min 20 sec"
   const hrMatch  = s.match(/(\d+)\s*h(?:r|our)?s?/i);
   const minMatch = s.match(/(\d+)\s*m(?:in)?(?!\s*s)/i);
   const secMatch = s.match(/(\d+)\s*s(?:ec)?/i);
   const hrs  = hrMatch  ? parseInt(hrMatch[1],  10) : 0;
   const mins = minMatch ? parseInt(minMatch[1], 10) : 0;
   const secs = secMatch ? parseInt(secMatch[1], 10) : 0;
-  return Math.round((hrs * 60 + mins + secs / 60) * 10) / 10;
+  return hrs * 3600 + mins * 60 + secs;
+}
+
+export function parseTpvMinutes(tpvStr) {
+  // Rounded to 1 decimal — for DISPLAY ONLY. Never use this for the
+  // qualification threshold (3 min 55 s would round up to 4.0).
+  return Math.round((parseTpvSeconds(tpvStr) / 60) * 10) / 10;
 }
 
 export function getEasternHour(dateStr) {
@@ -92,13 +110,18 @@ async function fetchTodayRows() {
 export function buildAgentData(rows) {
   // Col indices: 0=Timestamp, 6=Fronter, 7=CallInterference, 10=TPV
   const agents = {};
+  const unreadable = new Set();
 
   for (const row of rows) {
     const name = cleanName(row[6]);
     if (!name) continue;
 
+    // Qualification: must be a true 4+ minutes (240 seconds), unrounded.
+    const rawTpv = String(row[10] || '').trim();
+    const tpvSecs = parseTpvSeconds(rawTpv);
+    if (tpvSecs === 0 && rawTpv !== '') unreadable.add(rawTpv);
+    if (tpvSecs < 240) continue;
     const tpvMins = parseTpvMinutes(row[10]);
-    if (tpvMins < 4) continue;
 
     const noInterference = (row[7] || '').toLowerCase().trim() === 'no';
     if (!noInterference) continue;
@@ -131,6 +154,14 @@ export function buildAgentData(rows) {
     delete a._tpvTotal;
   }
 
+  if (unreadable.size > 0) {
+    console.warn(
+      '⚠️  WARNING: skipped rows with TPV durations I could not read.\n' +
+      '   If any of these look like real calls, the parser needs a new format added:\n' +
+      '   ' + [...unreadable].join('  |  ')
+    );
+  }
+
   return Object.values(agents).sort((a, b) => {
     if (b.qualifiedXfers !== a.qualifiedXfers) return b.qualifiedXfers - a.qualifiedXfers;
     return (b.tpv || 0) - (a.tpv || 0);
@@ -154,19 +185,6 @@ function writeJsonAtomic(filePath, payload) {
   renameSync(tmpPath, filePath);
 }
 
-function updateHtml(agentData) {
-  const html = readFileSync(HTML_PATH, 'utf8');
-  const START = '/* AGENT_DATA_START */';
-  const END = '/* AGENT_DATA_END */';
-  const si = html.indexOf(START);
-  const ei = html.indexOf(END);
-  if (si === -1 || ei === -1) throw new Error('AGENT_DATA replacement failed: sentinel markers not found');
-  const newBlock = `${START}\nlet AGENT_DATA = ${JSON.stringify(agentData, null, 2)};\n${END}`;
-  const updated = html.slice(0, si) + newBlock + html.slice(ei + END.length);
-  writeFileSync(HTML_PATH, updated);
-  return agentData.length;
-}
-
 function gitPush(agentCount) {
   const now = new Date().toLocaleString('en-US', { timeZone: TIME_ZONE, hour12: false });
   execSync('git add data.json', { cwd: __dirname });
@@ -188,7 +206,7 @@ async function main() {
     const rows = await fetchTodayRows();
     const agentData = buildAgentData(rows);
     writeJsonAtomic(DATA_PATH, buildPayload(agentData));
-    const count = updateHtml(agentData);
+    const count = agentData.length;
 
     if (SHOULD_PUSH) {
       gitPush(count);

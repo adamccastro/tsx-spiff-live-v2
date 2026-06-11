@@ -37,6 +37,18 @@ npm test
 ## Reliability Notes
 
 - Dashboard contest timing is pinned to `America/New_York`.
+- The updater also pins `process.env.TZ` to Eastern at startup, so zone-less sheet
+  timestamps parse identically on any machine. For belt-and-suspenders, set it on
+  the cron line too:
+
+  ```
+  */5 10-18 * * 1-5 TZ=America/New_York /usr/local/bin/node /path/to/update-spiff.js --push
+  ```
+
 - QA/interference failures do not count toward spiff totals.
-- `data.json` now supports a timestamped payload: `{ generatedAt, timezone, agentCount, agents }`.
+- Qualification requires a true 240+ seconds (no rounding). Durations parse in both
+  word format (`5m 34s`, `1hr 3m`, plural `mins`/`secs` ok) and clock format
+  (`1:03:20`, `5:34`). Any unreadable duration prints a warning instead of being
+  silently skipped.
+- `data.json` supports a timestamped payload: `{ generatedAt, timezone, agentCount, agents }`.
 - The dashboard still accepts the old array-only `data.json` shape for comparison and rollback testing.

@@ -7,7 +7,7 @@
     "update:push": "node update-spiff.js --push",
     "serve": "node scripts/serve.mjs",
     "check": "node --check update-spiff.js && node scripts/check-inline-script.mjs",
-    "test": "node scripts/logic-test.mjs"
+    "test": "node scripts/logic-test.mjs && node scripts/smoke-test.mjs"
   },
   "dependencies": {
     "googleapis": "^144.0.0"
