@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-11T22:27:37.009Z",
-  "generatedAtEastern": "6/11/2026, 18:27:37",
+  "generatedAt": "2026-06-11T22:29:39.751Z",
+  "generatedAtEastern": "6/11/2026, 18:29:39",
   "timezone": "America/New_York",
   "agentCount": 31,
   "agents": [
@@ -90,6 +90,28 @@
         "16-18": 27.9
       },
       "tpv": 17.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 18.7,
+        "12-13": 18.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 39.8
+      },
+      "tpv": 15.4,
       "qaApproved": true
     },
     {
@@ -288,28 +310,6 @@
         "16-18": 15.5
       },
       "tpv": 15.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18.7,
-        "12-13": 18.7,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 6.8
-      },
-      "tpv": 11.1,
       "qaApproved": true
     },
     {
