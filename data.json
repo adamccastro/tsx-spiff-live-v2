@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T17:53:01.392Z",
-  "generatedAtEastern": "6/11/2026, 13:53:01",
+  "generatedAt": "2026-06-11T17:55:04.069Z",
+  "generatedAtEastern": "6/11/2026, 13:55:04",
   "timezone": "America/New_York",
-  "agentCount": 21,
+  "agentCount": 24,
   "agents": [
     {
       "agentName": "Sam Hill",
@@ -225,6 +225,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 16.9,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.3,
+        "12-13": 0,
+        "13-14": 4.4,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -244,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 7.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 13.9,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7,
       "qaApproved": true
     },
     {
@@ -288,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 27.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 24,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 24,
       "qaApproved": true
     },
     {
@@ -357,29 +445,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
+      "agentName": "Devon Halbert",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 0,
@@ -392,34 +458,12 @@
       "hourlyTpvTotal": {
         "10-12": 0,
         "12-13": 0,
-        "13-14": 10.1,
+        "13-14": 12.8,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 10.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Kenneth Martin",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 9.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.1,
+      "tpv": 12.8,
       "qaApproved": true
     },
     {
@@ -464,6 +508,28 @@
         "16-18": 0
       },
       "tpv": 5.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 4.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.5,
       "qaApproved": true
     }
   ]
