@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T19:14:55.655Z",
-  "generatedAtEastern": "6/11/2026, 15:14:55",
+  "generatedAt": "2026-06-11T19:16:58.441Z",
+  "generatedAtEastern": "6/11/2026, 15:16:58",
   "timezone": "America/New_York",
-  "agentCount": 27,
+  "agentCount": 28,
   "agents": [
     {
       "agentName": "Sam Hill",
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 10.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 2,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 15.2,
+        "13-14": 4.3,
+        "14-15": 0,
+        "15-16": 7.7,
+        "16-18": 0
+      },
+      "tpv": 6.8,
       "qaApproved": true
     },
     {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 7.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Isabel Jael",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 2,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 15.2,
-        "13-14": 4.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 6.5,
       "qaApproved": true
     },
     {
@@ -530,6 +530,28 @@
         "16-18": 0
       },
       "tpv": 19.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 13.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.9,
       "qaApproved": true
     },
     {
