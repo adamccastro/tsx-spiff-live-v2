@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-11T18:33:59.427Z",
-  "generatedAtEastern": "6/11/2026, 14:33:59",
+  "generatedAt": "2026-06-11T18:36:02.322Z",
+  "generatedAtEastern": "6/11/2026, 14:36:02",
   "timezone": "America/New_York",
-  "agentCount": 24,
+  "agentCount": 25,
   "agents": [
     {
       "agentName": "Sam Hill",
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 19.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11,
+        "12-13": 0,
+        "13-14": 59,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.5,
       "qaApproved": true
     },
     {
@@ -112,28 +134,6 @@
         "16-18": 0
       },
       "tpv": 12.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11,
-        "12-13": 0,
-        "13-14": 23.9,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.6,
       "qaApproved": true
     },
     {
@@ -288,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 16.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 19.1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.9,
       "qaApproved": true
     },
     {
@@ -489,25 +511,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
+      "agentName": "Andrew Brett",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 6.7,
+        "10-12": 0,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 19.5,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 6.7,
+      "tpv": 19.5,
       "qaApproved": true
     },
     {
