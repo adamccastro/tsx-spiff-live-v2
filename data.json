@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-12T14:44:04.318Z",
-  "generatedAtEastern": "6/12/2026, 10:44:04",
+  "generatedAt": "2026-06-12T14:46:07.336Z",
+  "generatedAtEastern": "6/12/2026, 10:46:07",
   "timezone": "America/New_York",
-  "agentCount": 4,
+  "agentCount": 5,
   "agents": [
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.8,
+      "qaApproved": true
+    },
     {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 1,
@@ -24,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 14.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.3,
       "qaApproved": true
     },
     {
@@ -68,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 5.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.4,
       "qaApproved": true
     }
   ]
