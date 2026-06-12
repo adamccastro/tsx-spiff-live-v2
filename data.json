@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-12T18:25:42.591Z",
-  "generatedAtEastern": "6/12/2026, 14:25:42",
+  "generatedAt": "2026-06-12T18:27:45.704Z",
+  "generatedAtEastern": "6/12/2026, 14:27:45",
   "timezone": "America/New_York",
-  "agentCount": 21,
+  "agentCount": 22,
   "agents": [
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.2,
+        "12-13": 6.6,
+        "13-14": 0,
+        "14-15": 11.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.4,
+      "qaApproved": true
+    },
     {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 4,
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 14.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14.2,
-        "12-13": 6.6,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.2,
       "qaApproved": true
     },
     {
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 30.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 4.1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tiffany Bays",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -247,25 +269,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Leonora Bornn",
-      "qualifiedXfers": 1,
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
+        "13-14": 1,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 30.1,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
+        "13-14": 4.7,
+        "14-15": 5.1,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 30.1,
+      "tpv": 4.9,
       "qaApproved": true
     },
     {
@@ -401,6 +423,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 11.7,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -442,28 +486,6 @@
         "16-18": 0
       },
       "tpv": 5.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Kenneth Martin",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 4.7,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.7,
       "qaApproved": true
     }
   ]
