@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T15:31:16.288Z",
-  "generatedAtEastern": "6/12/2026, 11:31:16",
+  "generatedAt": "2026-06-12T15:33:19.511Z",
+  "generatedAtEastern": "6/12/2026, 11:33:19",
   "timezone": "America/New_York",
-  "agentCount": 9,
+  "agentCount": 10,
   "agents": [
     {
       "agentName": "Cody Sosa",
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 19,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.6,
       "qaApproved": true
     },
     {
