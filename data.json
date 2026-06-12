@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-12T17:56:59.805Z",
-  "generatedAtEastern": "6/12/2026, 13:56:59",
+  "generatedAt": "2026-06-12T17:59:02.586Z",
+  "generatedAtEastern": "6/12/2026, 13:59:02",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 36.8,
+        "12-13": 0,
+        "13-14": 7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 21.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 16.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 36.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 36.8,
       "qaApproved": true
     },
     {
