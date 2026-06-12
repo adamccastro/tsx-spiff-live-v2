@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-12T22:04:29.412Z",
-  "generatedAtEastern": "6/12/2026, 18:04:29",
+  "generatedAt": "2026-06-12T22:06:32.629Z",
+  "generatedAtEastern": "6/12/2026, 18:06:32",
   "timezone": "America/New_York",
   "agentCount": 28,
   "agents": [
@@ -423,6 +423,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 11.7,
+        "15-16": 0,
+        "16-18": 16.8
+      },
+      "tpv": 9.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -508,28 +530,6 @@
         "16-18": 0
       },
       "tpv": 16.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 11.7,
-        "15-16": 0,
-        "16-18": 11.4
-      },
-      "tpv": 11.6,
       "qaApproved": true
     },
     {
