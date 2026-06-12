@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T19:04:37.716Z",
-  "generatedAtEastern": "6/12/2026, 15:04:37",
+  "generatedAt": "2026-06-12T19:06:40.773Z",
+  "generatedAtEastern": "6/12/2026, 15:06:40",
   "timezone": "America/New_York",
-  "agentCount": 24,
+  "agentCount": 25,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 17.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.4,
+        "12-13": 0,
+        "13-14": 4.5,
+        "14-15": 15.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.9,
       "qaApproved": true
     },
     {
@@ -269,28 +291,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 21.4,
-        "12-13": 0,
-        "13-14": 4.5,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13,
-      "qaApproved": true
-    },
-    {
       "agentName": "Dom P",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -376,6 +376,28 @@
         "16-18": 0
       },
       "tpv": 22.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 21,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 21,
       "qaApproved": true
     },
     {
