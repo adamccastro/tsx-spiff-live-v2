@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-12T20:32:46.864Z",
-  "generatedAtEastern": "6/12/2026, 16:32:46",
+  "generatedAt": "2026-06-12T20:34:49.758Z",
+  "generatedAtEastern": "6/12/2026, 16:34:49",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 7.7,
+        "16-18": 5.3
+      },
+      "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Cody Sosa",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -266,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 9.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 12.3,
+        "16-18": 5.6
+      },
+      "tpv": 8.4,
       "qaApproved": true
     },
     {
@@ -398,50 +442,6 @@
         "16-18": 0
       },
       "tpv": 16.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 7.7,
-        "16-18": 0
-      },
-      "tpv": 12.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 7.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 12.3,
-        "16-18": 0
-      },
-      "tpv": 9.8,
       "qaApproved": true
     },
     {
