@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T20:30:43.832Z",
-  "generatedAtEastern": "6/12/2026, 16:30:43",
+  "generatedAt": "2026-06-12T20:32:46.864Z",
+  "generatedAtEastern": "6/12/2026, 16:32:46",
   "timezone": "America/New_York",
-  "agentCount": 26,
+  "agentCount": 27,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -269,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 4.3,
+        "16-18": 13.5
+      },
+      "tpv": 7.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Andrew Brett",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -445,25 +467,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Christine Stubbs",
+      "agentName": "TJ Waldron",
       "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
+        "15-16": 0,
+        "16-18": 2
       },
       "hourlyTpvTotal": {
-        "10-12": 5.7,
+        "10-12": 0,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
-        "15-16": 4.3,
-        "16-18": 0
+        "15-16": 0,
+        "16-18": 16
       },
-      "tpv": 5,
+      "tpv": 8,
       "qaApproved": true
     },
     {
@@ -533,6 +555,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 16.5
+      },
+      "tpv": 16.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -552,28 +596,6 @@
         "16-18": 0
       },
       "tpv": 11.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 7.8
-      },
-      "tpv": 7.8,
       "qaApproved": true
     }
   ]
