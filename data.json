@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-12T15:57:59.447Z",
-  "generatedAtEastern": "6/12/2026, 11:57:59",
+  "generatedAt": "2026-06-12T16:00:02.460Z",
+  "generatedAtEastern": "6/12/2026, 12:00:02",
   "timezone": "America/New_York",
-  "agentCount": 11,
+  "agentCount": 12,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 4.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 39.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.6,
       "qaApproved": true
     },
     {
@@ -159,7 +181,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Tameeka Joseph",
+      "agentName": "Michelle Adika",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -170,14 +192,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 8.3,
+        "10-12": 13.3,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 8.3,
+      "tpv": 13.3,
       "qaApproved": true
     },
     {
