@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-13T19:25:43.824Z",
-  "generatedAtEastern": "6/13/2026, 15:25:43",
+  "generatedAt": "2026-06-13T19:27:46.737Z",
+  "generatedAtEastern": "6/13/2026, 15:27:46",
   "timezone": "America/New_York",
   "agentCount": 7,
   "agents": [
@@ -27,6 +27,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 16,
+        "13-14": 42.2,
+        "14-15": 0,
+        "15-16": 16.3,
+        "16-18": 0
+      },
+      "tpv": 24.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 12.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 16,
-        "13-14": 42.2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 29.1,
       "qaApproved": true
     },
     {
