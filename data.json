@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-13T16:27:22.021Z",
-  "generatedAtEastern": "6/13/2026, 12:27:22",
+  "generatedAt": "2026-06-13T16:29:25.156Z",
+  "generatedAtEastern": "6/13/2026, 12:29:25",
   "timezone": "America/New_York",
-  "agentCount": 3,
+  "agentCount": 4,
   "agents": [
     {
       "agentName": "Kenneth Martin",
-      "qualifiedXfers": 1,
+      "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 0,
-        "12-13": 1,
+        "12-13": 2,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
@@ -17,13 +17,13 @@
       },
       "hourlyTpvTotal": {
         "10-12": 0,
-        "12-13": 18.5,
+        "12-13": 28.3,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 18.5,
+      "tpv": 14.2,
       "qaApproved": true
     },
     {
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 12.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 8.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.1,
       "qaApproved": true
     }
   ]
