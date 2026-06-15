@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:48:26.648Z",
-  "generatedAtEastern": "6/15/2026, 17:48:26",
+  "generatedAt": "2026-06-15T21:50:29.734Z",
+  "generatedAtEastern": "6/15/2026, 17:50:29",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5.7,
+        "13-14": 0,
+        "14-15": 5.5,
+        "15-16": 17.5,
+        "16-18": 9.3
+      },
+      "tpv": 7.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tiffany Bays",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 10.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Isabel Jael",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 5.7,
-        "13-14": 0,
-        "14-15": 5.5,
-        "15-16": 17.5,
-        "16-18": 5.3
-      },
-      "tpv": 8.5,
       "qaApproved": true
     },
     {
@@ -423,6 +423,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 8.7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 21.6
+      },
+      "tpv": 15.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -508,28 +530,6 @@
         "16-18": 18.2
       },
       "tpv": 18.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 8.7,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.7,
       "qaApproved": true
     },
     {
