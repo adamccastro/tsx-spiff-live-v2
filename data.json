@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:15:34.497Z",
-  "generatedAtEastern": "6/15/2026, 17:15:34",
+  "generatedAt": "2026-06-15T21:17:37.585Z",
+  "generatedAtEastern": "6/15/2026, 17:17:37",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -445,6 +445,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 14.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 7.4
+      },
+      "tpv": 10.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Paulo Silva",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -464,28 +486,6 @@
         "16-18": 18.2
       },
       "tpv": 18.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jennifer Allen",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 14.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.1,
       "qaApproved": true
     },
     {
