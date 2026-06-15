@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T20:01:36.028Z",
-  "generatedAtEastern": "6/15/2026, 16:01:36",
+  "generatedAt": "2026-06-15T20:03:40.481Z",
+  "generatedAtEastern": "6/15/2026, 16:03:40",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -313,6 +313,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 13.6,
+        "16-18": 0
+      },
+      "tpv": 7.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -398,28 +420,6 @@
         "16-18": 0
       },
       "tpv": 11.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 8.8,
-        "16-18": 0
-      },
-      "tpv": 8.9,
       "qaApproved": true
     },
     {
