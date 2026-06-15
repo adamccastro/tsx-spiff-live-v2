@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T17:46:03.832Z",
-  "generatedAtEastern": "6/15/2026, 13:46:03",
+  "generatedAt": "2026-06-15T17:48:06.938Z",
+  "generatedAtEastern": "6/15/2026, 13:48:06",
   "timezone": "America/New_York",
-  "agentCount": 22,
+  "agentCount": 23,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 13.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.4,
+        "12-13": 0,
+        "13-14": 13.4,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.9,
       "qaApproved": true
     },
     {
@@ -247,28 +269,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Parker",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.2,
-      "qaApproved": true
-    },
-    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -420,6 +420,28 @@
         "16-18": 0
       },
       "tpv": 8.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 8.7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.7,
       "qaApproved": true
     },
     {
