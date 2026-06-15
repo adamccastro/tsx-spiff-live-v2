@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-15T21:25:51.002Z",
-  "generatedAtEastern": "6/15/2026, 17:25:51",
+  "generatedAt": "2026-06-15T21:27:54.313Z",
+  "generatedAtEastern": "6/15/2026, 17:27:54",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
     {
       "agentName": "Nick Marino",
-      "qualifiedXfers": 9,
+      "qualifiedXfers": 10,
       "hourlyXfers": {
         "10-12": 5,
         "12-13": 0,
         "13-14": 0,
         "14-15": 1,
         "15-16": 3,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 35.9,
@@ -21,9 +21,9 @@
         "13-14": 0,
         "14-15": 8.8,
         "15-16": 48.1,
-        "16-18": 0
+        "16-18": 11.3
       },
-      "tpv": 10.3,
+      "tpv": 10.4,
       "qaApproved": true
     },
     {
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 25.6,
+        "13-14": 0,
+        "14-15": 23.2,
+        "15-16": 10.3,
+        "16-18": 29.9
+      },
+      "tpv": 22.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christine Stubbs",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 10.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 25.6,
-        "13-14": 0,
-        "14-15": 23.2,
-        "15-16": 10.3,
-        "16-18": 0
-      },
-      "tpv": 19.7,
       "qaApproved": true
     },
     {
