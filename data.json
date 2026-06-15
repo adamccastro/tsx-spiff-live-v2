@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:50:29.734Z",
-  "generatedAtEastern": "6/15/2026, 17:50:29",
+  "generatedAt": "2026-06-15T21:52:32.786Z",
+  "generatedAtEastern": "6/15/2026, 17:52:32",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -291,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 13.6,
+        "16-18": 4.3
+      },
+      "tpv": 6.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Stengel",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -398,28 +420,6 @@
         "16-18": 6.2
       },
       "tpv": 11.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 2,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 13.6,
-        "16-18": 0
-      },
-      "tpv": 7.5,
       "qaApproved": true
     },
     {
