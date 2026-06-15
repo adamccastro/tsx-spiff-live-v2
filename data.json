@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T19:10:17.926Z",
-  "generatedAtEastern": "6/15/2026, 15:10:17",
+  "generatedAt": "2026-06-15T19:12:21.063Z",
+  "generatedAtEastern": "6/15/2026, 15:12:21",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Parker",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.4,
+        "12-13": 0,
+        "13-14": 13.4,
+        "14-15": 0,
+        "15-16": 11.5,
+        "16-18": 0
+      },
+      "tpv": 10.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -159,25 +181,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Parker",
+      "agentName": "Tonya Giordano",
       "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
+        "13-14": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 16.4,
+        "10-12": 45.7,
         "12-13": 0,
-        "13-14": 13.4,
-        "14-15": 0,
+        "13-14": 0,
+        "14-15": 34.8,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 9.9,
+      "tpv": 26.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 32,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.8,
       "qaApproved": true
     },
     {
@@ -222,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 24.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 45.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 22.9,
       "qaApproved": true
     },
     {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 8.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Devon Halbert",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 6.2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.8,
       "qaApproved": true
     },
     {
