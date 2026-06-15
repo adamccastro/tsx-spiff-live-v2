@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T18:45:38.425Z",
-  "generatedAtEastern": "6/15/2026, 14:45:38",
+  "generatedAt": "2026-06-15T18:47:41.701Z",
+  "generatedAtEastern": "6/15/2026, 14:47:41",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.3,
+        "12-13": 4.1,
+        "13-14": 0,
+        "14-15": 24.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tiffany Bays",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -178,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 8.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6.3,
-        "12-13": 4.1,
-        "13-14": 0,
-        "14-15": 4.4,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.9,
       "qaApproved": true
     },
     {
