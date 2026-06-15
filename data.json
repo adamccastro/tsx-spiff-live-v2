@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:13:31.461Z",
-  "generatedAtEastern": "6/15/2026, 17:13:31",
+  "generatedAt": "2026-06-15T21:15:34.497Z",
+  "generatedAtEastern": "6/15/2026, 17:15:34",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -269,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 5.1,
+        "14-15": 12.1,
+        "15-16": 0,
+        "16-18": 29.6
+      },
+      "tpv": 15.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -420,28 +442,6 @@
         "16-18": 0
       },
       "tpv": 11.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 5.1,
-        "14-15": 12.1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.6,
       "qaApproved": true
     },
     {
