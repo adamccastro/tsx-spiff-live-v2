@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:52:32.786Z",
-  "generatedAtEastern": "6/15/2026, 17:52:32",
+  "generatedAt": "2026-06-15T21:54:36.016Z",
+  "generatedAtEastern": "6/15/2026, 17:54:36",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 13.6,
+        "14-15": 15.5,
+        "15-16": 0,
+        "16-18": 33.6
+      },
+      "tpv": 15.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christine Stubbs",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -398,28 +420,6 @@
         "16-18": 0
       },
       "tpv": 13.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Mitchell",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 13.6,
-        "14-15": 15.5,
-        "15-16": 0,
-        "16-18": 6.2
-      },
-      "tpv": 11.8,
       "qaApproved": true
     },
     {
