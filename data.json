@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T19:41:05.778Z",
-  "generatedAtEastern": "6/15/2026, 15:41:05",
+  "generatedAt": "2026-06-15T19:43:08.770Z",
+  "generatedAtEastern": "6/15/2026, 15:43:08",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 9.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 2,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 45.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 34.8,
+        "15-16": 18.3,
+        "16-18": 0
+      },
+      "tpv": 19.8,
       "qaApproved": true
     },
     {
@@ -93,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.3,
+        "12-13": 4.1,
+        "13-14": 0,
+        "14-15": 24.9,
+        "15-16": 15.9,
+        "16-18": 0
+      },
+      "tpv": 10.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -137,47 +181,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Tonya Giordano",
+      "agentName": "Eustace Berreta",
       "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 2,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 1,
-        "15-16": 1,
+        "15-16": 2,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 45.7,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
-        "14-15": 34.8,
-        "15-16": 7.6,
+        "13-14": 8,
+        "14-15": 7,
+        "15-16": 27,
         "16-18": 0
       },
-      "tpv": 22,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6.3,
-        "12-13": 4.1,
-        "13-14": 0,
-        "14-15": 24.9,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.8,
+      "tpv": 10.5,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 9.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Eustace Berreta",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 8,
-        "14-15": 7,
-        "15-16": 10.2,
-        "16-18": 0
-      },
-      "tpv": 8.4,
       "qaApproved": true
     },
     {
