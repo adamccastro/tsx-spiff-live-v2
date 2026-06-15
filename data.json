@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-15T15:26:28.500Z",
-  "generatedAtEastern": "6/15/2026, 11:26:28",
+  "generatedAt": "2026-06-15T15:28:31.633Z",
+  "generatedAtEastern": "6/15/2026, 11:28:31",
   "timezone": "America/New_York",
   "agentCount": 13,
   "agents": [
+    {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 45.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 22.9,
+      "qaApproved": true
+    },
     {
       "agentName": "Leonora Bornn",
       "qualifiedXfers": 2,
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 6.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 6.2,
       "qaApproved": true
     }
   ]
