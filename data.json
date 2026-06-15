@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:09:25.352Z",
-  "generatedAtEastern": "6/15/2026, 17:09:25",
+  "generatedAt": "2026-06-15T21:11:28.432Z",
+  "generatedAtEastern": "6/15/2026, 17:11:28",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 15.4,
+        "12-13": 0,
+        "13-14": 9.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 32.4
+      },
+      "tpv": 14.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 9.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 15.4,
-        "12-13": 0,
-        "13-14": 9.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.2,
       "qaApproved": true
     },
     {
