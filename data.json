@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:32:01.191Z",
-  "generatedAtEastern": "6/15/2026, 17:32:01",
+  "generatedAt": "2026-06-15T21:34:04.294Z",
+  "generatedAtEastern": "6/15/2026, 17:34:04",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -423,6 +423,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 14.3
+      },
+      "tpv": 12,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tara Schumacker",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -486,28 +508,6 @@
         "16-18": 18.2
       },
       "tpv": 18.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.6,
       "qaApproved": true
     },
     {
