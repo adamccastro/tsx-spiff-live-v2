@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T14:57:43.508Z",
-  "generatedAtEastern": "6/15/2026, 10:57:43",
+  "generatedAt": "2026-06-15T14:59:46.692Z",
+  "generatedAtEastern": "6/15/2026, 10:59:46",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 6,
   "agents": [
     {
       "agentName": "Leonora Bornn",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.9,
       "qaApproved": true
     },
     {
