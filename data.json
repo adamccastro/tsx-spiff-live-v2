@@ -1,11 +1,33 @@
 {
-  "generatedAt": "2026-06-15T14:47:28.136Z",
-  "generatedAtEastern": "6/15/2026, 10:47:28",
+  "generatedAt": "2026-06-15T14:49:31.012Z",
+  "generatedAtEastern": "6/15/2026, 10:49:31",
   "timezone": "America/New_York",
-  "agentCount": 3,
+  "agentCount": 5,
   "agents": [
     {
       "agentName": "Leonora Bornn",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -16,14 +38,36 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 15.2,
+        "10-12": 11.3,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 15.2,
+      "tpv": 11.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.3,
       "qaApproved": true
     },
     {
