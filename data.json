@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-15T16:36:19.277Z",
-  "generatedAtEastern": "6/15/2026, 12:36:19",
+  "generatedAt": "2026-06-15T16:38:22.325Z",
+  "generatedAtEastern": "6/15/2026, 12:38:22",
   "timezone": "America/New_York",
-  "agentCount": 17,
+  "agentCount": 18,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -376,6 +376,28 @@
         "16-18": 0
       },
       "tpv": 6.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.7,
       "qaApproved": true
     }
   ]
