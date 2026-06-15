@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T19:08:14.844Z",
-  "generatedAtEastern": "6/15/2026, 15:08:14",
+  "generatedAt": "2026-06-15T19:10:17.926Z",
+  "generatedAtEastern": "6/15/2026, 15:10:17",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -335,6 +335,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 5.1,
+        "14-15": 12.1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Devon Halbert",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -508,28 +530,6 @@
         "16-18": 0
       },
       "tpv": 6.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 5.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.1,
       "qaApproved": true
     }
   ]
