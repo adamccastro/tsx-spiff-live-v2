@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T20:24:15.564Z",
-  "generatedAtEastern": "6/15/2026, 16:24:15",
+  "generatedAt": "2026-06-15T20:26:18.557Z",
+  "generatedAtEastern": "6/15/2026, 16:26:18",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 10.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.4,
+        "12-13": 0,
+        "13-14": 13.4,
+        "14-15": 0,
+        "15-16": 17,
+        "16-18": 4.1
+      },
+      "tpv": 8.5,
       "qaApproved": true
     },
     {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 10.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 2,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.4,
-        "12-13": 0,
-        "13-14": 13.4,
-        "14-15": 0,
-        "15-16": 17,
-        "16-18": 0
-      },
-      "tpv": 9.4,
       "qaApproved": true
     },
     {
