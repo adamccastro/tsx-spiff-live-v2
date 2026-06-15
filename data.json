@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T19:39:02.544Z",
-  "generatedAtEastern": "6/15/2026, 15:39:02",
+  "generatedAt": "2026-06-15T19:41:05.778Z",
+  "generatedAtEastern": "6/15/2026, 15:41:05",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 25.6,
+        "13-14": 0,
+        "14-15": 23.2,
+        "15-16": 10.3,
+        "16-18": 0
+      },
+      "tpv": 19.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Devon Halbert",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 8.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 25.6,
-        "13-14": 0,
-        "14-15": 23.2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 24.4,
       "qaApproved": true
     },
     {
