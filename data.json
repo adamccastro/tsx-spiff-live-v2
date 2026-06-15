@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T16:34:15.935Z",
-  "generatedAtEastern": "6/15/2026, 12:34:15",
+  "generatedAt": "2026-06-15T16:36:19.277Z",
+  "generatedAtEastern": "6/15/2026, 12:36:19",
   "timezone": "America/New_York",
   "agentCount": 17,
   "agents": [
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tiffany Bays",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 113.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 56.8,
       "qaApproved": true
     },
     {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 12.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tiffany Bays",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.6,
       "qaApproved": true
     },
     {
