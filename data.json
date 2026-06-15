@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:00:08.519Z",
-  "generatedAtEastern": "6/15/2026, 17:00:08",
+  "generatedAt": "2026-06-15T21:01:12.446Z",
+  "generatedAtEastern": "6/15/2026, 17:01:12",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tiffany Bays",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 113.6,
+        "12-13": 0,
+        "13-14": 14.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 24.6
+      },
+      "tpv": 38.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -200,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 10.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tiffany Bays",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 113.6,
-        "12-13": 0,
-        "13-14": 14.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 42.6,
       "qaApproved": true
     },
     {
