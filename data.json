@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T21:34:05.530Z",
-  "generatedAtEastern": "6/16/2026, 17:34:05",
+  "generatedAt": "2026-06-16T21:36:08.628Z",
+  "generatedAtEastern": "6/16/2026, 17:36:08",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 4
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 13.9,
+        "16-18": 43.2
+      },
+      "tpv": 11.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 13.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 3
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 13.9,
-        "16-18": 34
-      },
-      "tpv": 12,
       "qaApproved": true
     },
     {
