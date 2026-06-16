@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T21:07:24.933Z",
-  "generatedAtEastern": "6/16/2026, 17:07:24",
+  "generatedAt": "2026-06-16T21:09:27.931Z",
+  "generatedAtEastern": "6/16/2026, 17:09:27",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 2,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 34.9,
+        "13-14": 0,
+        "14-15": 4.3,
+        "15-16": 19.7,
+        "16-18": 7.4
+      },
+      "tpv": 13.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -181,25 +203,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Stengel",
+      "agentName": "Anthony Canales",
       "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 2,
+        "10-12": 1,
+        "12-13": 0,
         "13-14": 0,
         "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
+        "15-16": 0,
+        "16-18": 2
       },
       "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 34.9,
+        "10-12": 10.2,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 4.3,
-        "15-16": 19.7,
-        "16-18": 0
+        "14-15": 23.5,
+        "15-16": 0,
+        "16-18": 23.4
       },
-      "tpv": 14.7,
+      "tpv": 14.3,
       "qaApproved": true
     },
     {
@@ -291,28 +313,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 23.5,
-        "15-16": 0,
-        "16-18": 12.7
-      },
-      "tpv": 15.5,
-      "qaApproved": true
-    },
-    {
       "agentName": "Devon Halbert",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -354,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 14.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 13.9,
+        "16-18": 22.8
+      },
+      "tpv": 12.2,
       "qaApproved": true
     },
     {
@@ -442,28 +464,6 @@
         "16-18": 5.4
       },
       "tpv": 13,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 13.9,
-        "16-18": 11.6
-      },
-      "tpv": 12.8,
       "qaApproved": true
     },
     {
