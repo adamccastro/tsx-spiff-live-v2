@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T21:46:25.138Z",
-  "generatedAtEastern": "6/16/2026, 17:46:25",
+  "generatedAt": "2026-06-16T21:48:28.094Z",
+  "generatedAtEastern": "6/16/2026, 17:48:28",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -116,14 +116,14 @@
     },
     {
       "agentName": "Isabel Jael",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 1,
         "13-14": 1,
         "14-15": 1,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 21.8,
@@ -131,9 +131,31 @@
         "13-14": 23.2,
         "14-15": 27.2,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 7
       },
-      "tpv": 16.4,
+      "tpv": 14.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 5
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 13.9,
+        "16-18": 54.9
+      },
+      "tpv": 11.5,
       "qaApproved": true
     },
     {
@@ -178,28 +200,6 @@
         "16-18": 7.4
       },
       "tpv": 13.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 4
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 13.9,
-        "16-18": 43.2
-      },
-      "tpv": 11.4,
       "qaApproved": true
     },
     {
