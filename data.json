@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-06-16T16:01:36.035Z",
-  "generatedAtEastern": "6/16/2026, 12:01:36",
+  "generatedAt": "2026-06-16T16:03:41.261Z",
+  "generatedAtEastern": "6/16/2026, 12:03:41",
   "timezone": "America/New_York",
   "agentCount": 15,
   "agents": [
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 61.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 39.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.2,
+      "qaApproved": true
+    },
     {
       "agentName": "Paulo Silva",
       "qualifiedXfers": 3,
@@ -49,28 +93,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 31,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15.5,
-      "qaApproved": true
-    },
-    {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -105,28 +127,6 @@
       },
       "hourlyTpvTotal": {
         "10-12": 22.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tara Schumacker",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 23,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
