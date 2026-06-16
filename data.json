@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T19:43:17.608Z",
-  "generatedAtEastern": "6/16/2026, 15:43:17",
+  "generatedAt": "2026-06-16T19:45:20.650Z",
+  "generatedAtEastern": "6/16/2026, 15:45:20",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.4,
+        "12-13": 0,
+        "13-14": 32.2,
+        "14-15": 0,
+        "15-16": 20.8,
+        "16-18": 0
+      },
+      "tpv": 19.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 19.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Leonora Bornn",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5.4,
-        "12-13": 0,
-        "13-14": 32.2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.8,
       "qaApproved": true
     },
     {
