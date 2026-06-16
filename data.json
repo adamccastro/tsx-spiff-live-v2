@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-16T14:55:51.580Z",
-  "generatedAtEastern": "6/16/2026, 10:55:51",
+  "generatedAt": "2026-06-16T14:57:54.680Z",
+  "generatedAtEastern": "6/16/2026, 10:57:54",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 6,
   "agents": [
+    {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.4,
+      "qaApproved": true
+    },
     {
       "agentName": "David Parker",
       "qualifiedXfers": 1,
