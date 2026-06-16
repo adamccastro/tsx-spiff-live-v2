@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-16T16:13:57.208Z",
-  "generatedAtEastern": "6/16/2026, 12:13:57",
+  "generatedAt": "2026-06-16T16:16:00.100Z",
+  "generatedAtEastern": "6/16/2026, 12:16:00",
   "timezone": "America/New_York",
-  "agentCount": 17,
+  "agentCount": 18,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -156,6 +156,28 @@
         "16-18": 0
       },
       "tpv": 10.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 40.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 40.5,
       "qaApproved": true
     },
     {
