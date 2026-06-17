@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T18:03:44.799Z",
-  "generatedAtEastern": "6/17/2026, 14:03:44",
+  "generatedAt": "2026-06-17T18:05:47.901Z",
+  "generatedAtEastern": "6/17/2026, 14:05:47",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Dom P",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.3,
+        "12-13": 5,
+        "13-14": 8.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 16,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Dom P",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 23.3,
-        "12-13": 5,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.2,
       "qaApproved": true
     },
     {
