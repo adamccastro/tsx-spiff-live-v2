@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T18:32:26.178Z",
-  "generatedAtEastern": "6/17/2026, 14:32:26",
+  "generatedAt": "2026-06-17T18:34:29.081Z",
+  "generatedAtEastern": "6/17/2026, 14:34:29",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 29.9,
+        "12-13": 0,
+        "13-14": 4.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 11.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Kenneth Martin",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 29.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10,
       "qaApproved": true
     },
     {
