@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-17T15:40:16.840Z",
-  "generatedAtEastern": "6/17/2026, 11:40:16",
+  "generatedAt": "2026-06-17T15:42:19.909Z",
+  "generatedAtEastern": "6/17/2026, 11:42:19",
   "timezone": "America/New_York",
-  "agentCount": 12,
+  "agentCount": 13,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -134,6 +134,28 @@
         "16-18": 0
       },
       "tpv": 21.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 21,
       "qaApproved": true
     },
     {
