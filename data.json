@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-17T21:55:21.255Z",
-  "generatedAtEastern": "6/17/2026, 17:55:21",
+  "generatedAt": "2026-06-17T21:57:24.136Z",
+  "generatedAtEastern": "6/17/2026, 17:57:24",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 8,
+      "qualifiedXfers": 9,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 1,
         "13-14": 1,
         "14-15": 0,
         "15-16": 2,
-        "16-18": 2
+        "16-18": 3
       },
       "hourlyTpvTotal": {
         "10-12": 20.4,
@@ -21,9 +21,9 @@
         "13-14": 43,
         "14-15": 0,
         "15-16": 37.5,
-        "16-18": 58.2
+        "16-18": 72.9
       },
-      "tpv": 22.4,
+      "tpv": 21.5,
       "qaApproved": true
     },
     {
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 28.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 6.1,
+        "16-18": 46.3
+      },
+      "tpv": 20.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 25.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 28.7,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 6.1,
-        "16-18": 30.6
-      },
-      "tpv": 21.8,
       "qaApproved": true
     },
     {
