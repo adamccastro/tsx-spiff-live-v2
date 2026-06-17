@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-17T15:48:29.536Z",
-  "generatedAtEastern": "6/17/2026, 11:48:29",
+  "generatedAt": "2026-06-17T15:50:32.355Z",
+  "generatedAtEastern": "6/17/2026, 11:50:32",
   "timezone": "America/New_York",
-  "agentCount": 13,
+  "agentCount": 15,
   "agents": [
+    {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 29.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10,
+      "qaApproved": true
+    },
     {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 3,
@@ -27,7 +49,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Kenneth Martin",
+      "agentName": "Sara Jameson",
       "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 2,
@@ -38,14 +60,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 23.3,
+        "10-12": 21.1,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 11.7,
+      "tpv": 10.6,
       "qaApproved": true
     },
     {
@@ -90,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 5.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Dom P",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 23.3,
       "qaApproved": true
     },
     {
@@ -156,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 21,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 15.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15.6,
       "qaApproved": true
     },
     {
@@ -266,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 5.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.6,
       "qaApproved": true
     },
     {
