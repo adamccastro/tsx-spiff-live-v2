@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-17T18:44:49.201Z",
-  "generatedAtEastern": "6/17/2026, 14:44:49",
+  "generatedAt": "2026-06-17T18:46:52.065Z",
+  "generatedAtEastern": "6/17/2026, 14:46:52",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 24,
   "agents": [
     {
       "agentName": "Paulo Silva",
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.1,
+        "12-13": 13.2,
+        "13-14": 0,
+        "14-15": 6.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 12.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 21.1,
-        "12-13": 13.2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.4,
       "qaApproved": true
     },
     {
@@ -420,6 +420,28 @@
         "16-18": 0
       },
       "tpv": 21.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 16.7,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.7,
       "qaApproved": true
     },
     {
