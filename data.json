@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-17T20:39:32.369Z",
-  "generatedAtEastern": "6/17/2026, 16:39:32",
+  "generatedAt": "2026-06-17T20:41:35.767Z",
+  "generatedAtEastern": "6/17/2026, 16:41:35",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 7,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20.4,
+        "12-13": 20.1,
+        "13-14": 43,
+        "14-15": 0,
+        "15-16": 37.5,
+        "16-18": 7.1
+      },
+      "tpv": 18.3,
+      "qaApproved": true
+    },
     {
       "agentName": "Paulo Silva",
       "qualifiedXfers": 7,
@@ -24,28 +46,6 @@
         "16-18": 17.3
       },
       "tpv": 14.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 6,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 2,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 20.4,
-        "12-13": 20.1,
-        "13-14": 43,
-        "14-15": 0,
-        "15-16": 37.5,
-        "16-18": 0
-      },
-      "tpv": 20.2,
       "qaApproved": true
     },
     {
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 13.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Dom P",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.3,
+        "12-13": 5,
+        "13-14": 8.8,
+        "14-15": 0,
+        "15-16": 7.6,
+        "16-18": 18.5
+      },
+      "tpv": 12.6,
       "qaApproved": true
     },
     {
@@ -156,28 +178,6 @@
         "16-18": 12
       },
       "tpv": 13.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Dom P",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 23.3,
-        "12-13": 5,
-        "13-14": 8.8,
-        "14-15": 0,
-        "15-16": 7.6,
-        "16-18": 0
-      },
-      "tpv": 11.2,
       "qaApproved": true
     },
     {
@@ -269,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Parker",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 25.2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 4.4
+      },
+      "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Yadi Melendez",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 21.3
       },
       "tpv": 13.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 25.2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 12.6,
       "qaApproved": true
     },
     {
