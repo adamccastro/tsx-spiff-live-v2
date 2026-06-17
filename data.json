@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T18:30:23.383Z",
-  "generatedAtEastern": "6/17/2026, 14:30:23",
+  "generatedAt": "2026-06-17T18:32:26.178Z",
+  "generatedAtEastern": "6/17/2026, 14:32:26",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 7.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20.4,
+        "12-13": 20.1,
+        "13-14": 43,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.9,
       "qaApproved": true
     },
     {
@@ -90,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 6.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 20.4,
-        "12-13": 20.1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.5,
       "qaApproved": true
     },
     {
