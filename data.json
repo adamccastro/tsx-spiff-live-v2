@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-06-18T20:24:58.793Z",
-  "generatedAtEastern": "6/18/2026, 16:24:58",
+  "generatedAt": "2026-06-18T20:27:01.985Z",
+  "generatedAtEastern": "6/18/2026, 16:27:01",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 22.3,
+        "12-13": 26.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 9.2
+      },
+      "tpv": 11.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 33.4,
+        "12-13": 0,
+        "13-14": 4.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 5.6
+      },
+      "tpv": 8.7,
+      "qaApproved": true
+    },
     {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 4,
@@ -112,50 +156,6 @@
         "16-18": 0
       },
       "tpv": 13.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 22.3,
-        "12-13": 26.3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 12.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 33.4,
-        "12-13": 0,
-        "13-14": 4.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.4,
       "qaApproved": true
     },
     {
