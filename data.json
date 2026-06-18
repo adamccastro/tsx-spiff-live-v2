@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T16:21:00.643Z",
-  "generatedAtEastern": "6/18/2026, 12:21:00",
+  "generatedAt": "2026-06-18T16:23:03.635Z",
+  "generatedAtEastern": "6/18/2026, 12:23:03",
   "timezone": "America/New_York",
-  "agentCount": 16,
+  "agentCount": 18,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 34.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 34.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Nick Marino",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -178,6 +200,28 @@
         "16-18": 0
       },
       "tpv": 25.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 24.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 24.1,
       "qaApproved": true
     },
     {
