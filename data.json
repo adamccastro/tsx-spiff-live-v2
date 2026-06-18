@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T15:17:26.638Z",
-  "generatedAtEastern": "6/18/2026, 11:17:26",
+  "generatedAt": "2026-06-18T15:19:29.568Z",
+  "generatedAtEastern": "6/18/2026, 11:19:29",
   "timezone": "America/New_York",
-  "agentCount": 7,
+  "agentCount": 8,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 16.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Cody Sosa",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.2,
       "qaApproved": true
     },
     {
