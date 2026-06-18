@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-18T19:19:23.972Z",
-  "generatedAtEastern": "6/18/2026, 15:19:23",
+  "generatedAt": "2026-06-18T19:21:26.847Z",
+  "generatedAtEastern": "6/18/2026, 15:21:26",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -313,6 +313,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Cody Sosa",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 5.8,
+        "16-18": 0
+      },
+      "tpv": 11,
+      "qaApproved": true
+    },
+    {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -464,28 +486,6 @@
         "16-18": 0
       },
       "tpv": 18.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Cody Sosa",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.2,
       "qaApproved": true
     },
     {
