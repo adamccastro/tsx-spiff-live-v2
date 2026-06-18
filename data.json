@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-18T18:23:59.152Z",
-  "generatedAtEastern": "6/18/2026, 14:23:59",
+  "generatedAt": "2026-06-18T18:26:02.127Z",
+  "generatedAtEastern": "6/18/2026, 14:26:02",
   "timezone": "America/New_York",
-  "agentCount": 25,
+  "agentCount": 26,
   "agents": [
     {
       "agentName": "Anthony Canales",
@@ -288,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 16.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Arden Sotter",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 60.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 60.8,
       "qaApproved": true
     },
     {
