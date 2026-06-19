@@ -1,7 +1,52 @@
 {
-  "generatedAt": "2026-06-19T14:44:53.698Z",
-  "generatedAtEastern": "6/19/2026, 10:44:53",
+  "generatedAt": "2026-06-19T14:46:56.669Z",
+  "generatedAtEastern": "6/19/2026, 10:46:56",
   "timezone": "America/New_York",
-  "agentCount": 0,
-  "agents": []
+  "agentCount": 2,
+  "agents": [
+    {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.7,
+      "qaApproved": true
+    }
+  ]
 }
