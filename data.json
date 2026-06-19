@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T18:05:40.676Z",
-  "generatedAtEastern": "6/19/2026, 14:05:40",
+  "generatedAt": "2026-06-19T18:07:43.471Z",
+  "generatedAtEastern": "6/19/2026, 14:07:43",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 24.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 30.4,
+        "12-13": 0,
+        "13-14": 14.4,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 22.4,
       "qaApproved": true
     },
     {
@@ -181,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.8,
+        "12-13": 0,
+        "13-14": 12,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -244,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 55.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 30.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 30.4,
       "qaApproved": true
     },
     {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 9.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.8,
       "qaApproved": true
     },
     {
