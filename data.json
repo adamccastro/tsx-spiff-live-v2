@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-19T16:39:39.609Z",
-  "generatedAtEastern": "6/19/2026, 12:39:39",
+  "generatedAt": "2026-06-19T16:41:42.636Z",
+  "generatedAtEastern": "6/19/2026, 12:41:42",
   "timezone": "America/New_York",
-  "agentCount": 12,
+  "agentCount": 13,
   "agents": [
     {
       "agentName": "Andrew Brett",
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 11.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 55.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 55.1,
       "qaApproved": true
     },
     {
