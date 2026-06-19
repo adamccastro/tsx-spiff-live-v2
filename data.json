@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-19T19:19:25.108Z",
-  "generatedAtEastern": "6/19/2026, 15:19:25",
+  "generatedAt": "2026-06-19T19:21:27.765Z",
+  "generatedAtEastern": "6/19/2026, 15:21:27",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
+    {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.5,
+        "12-13": 0,
+        "13-14": 20.1,
+        "14-15": 17.2,
+        "15-16": 6.8,
+        "16-18": 0
+      },
+      "tpv": 13.5,
+      "qaApproved": true
+    },
     {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 4,
@@ -24,28 +46,6 @@
         "16-18": 0
       },
       "tpv": 20.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 23.5,
-        "12-13": 0,
-        "13-14": 20.1,
-        "14-15": 17.2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15.2,
       "qaApproved": true
     },
     {
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 15.9,
+        "15-16": 6.9,
+        "16-18": 0
+      },
+      "tpv": 11.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Paulo Silva",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 16.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 15.9,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15.9,
       "qaApproved": true
     },
     {
