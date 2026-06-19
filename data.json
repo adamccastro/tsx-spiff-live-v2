@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-06-19T18:22:03.904Z",
-  "generatedAtEastern": "6/19/2026, 14:22:03",
+  "generatedAt": "2026-06-19T18:24:06.675Z",
+  "generatedAtEastern": "6/19/2026, 14:24:06",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Isabel Jael",
-      "qualifiedXfers": 3,
+      "qualifiedXfers": 4,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 1,
         "13-14": 1,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
@@ -19,11 +19,11 @@
         "10-12": 22.6,
         "12-13": 28.1,
         "13-14": 11.2,
-        "14-15": 0,
+        "14-15": 18.5,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 20.6,
+      "tpv": 20.1,
       "qaApproved": true
     },
     {
@@ -354,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 16.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 15.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15.9,
       "qaApproved": true
     },
     {
