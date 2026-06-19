@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19T21:42:46.514Z",
-  "generatedAtEastern": "6/19/2026, 17:42:46",
+  "generatedAt": "2026-06-19T21:44:49.355Z",
+  "generatedAtEastern": "6/19/2026, 17:44:49",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -379,6 +379,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 5.5
+      },
+      "tpv": 10.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tameeka Joseph",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -508,28 +530,6 @@
         "16-18": 0
       },
       "tpv": 19.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tara Schumacker",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.3,
       "qaApproved": true
     },
     {
