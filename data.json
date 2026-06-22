@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-22T20:39:50.217Z",
-  "generatedAtEastern": "6/22/2026, 16:39:50",
+  "generatedAt": "2026-06-22T20:41:53.442Z",
+  "generatedAtEastern": "6/22/2026, 16:41:53",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Leticia Perez",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 47.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 9.2
+      },
+      "tpv": 28.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -332,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 5.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Leticia Perez",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 47.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 47.3,
       "qaApproved": true
     },
     {
