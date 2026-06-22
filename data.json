@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T15:32:16.973Z",
-  "generatedAtEastern": "6/22/2026, 11:32:16",
+  "generatedAt": "2026-06-22T15:34:19.928Z",
+  "generatedAtEastern": "6/22/2026, 11:34:19",
   "timezone": "America/New_York",
-  "agentCount": 7,
+  "agentCount": 8,
   "agents": [
     {
       "agentName": "Yadi Melendez",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 16.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 35.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 35.6,
       "qaApproved": true
     },
     {
