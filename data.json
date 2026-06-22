@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-22T21:06:29.798Z",
-  "generatedAtEastern": "6/22/2026, 17:06:29",
+  "generatedAt": "2026-06-22T21:08:32.966Z",
+  "generatedAtEastern": "6/22/2026, 17:08:32",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -313,6 +313,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 8
+      },
+      "tpv": 10.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 30.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 12.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 12.8,
       "qaApproved": true
     },
     {
