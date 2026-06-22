@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T19:05:28.212Z",
-  "generatedAtEastern": "6/22/2026, 15:05:28",
+  "generatedAt": "2026-06-22T19:07:31.424Z",
+  "generatedAtEastern": "6/22/2026, 15:07:31",
   "timezone": "America/New_York",
-  "agentCount": 18,
+  "agentCount": 19,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 10.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 8.7,
+        "13-14": 10.7,
+        "14-15": 9.7,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.7,
       "qaApproved": true
     },
     {
@@ -181,28 +203,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 8.7,
-        "13-14": 10.7,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.7,
-      "qaApproved": true
-    },
-    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -288,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 47.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 30.6,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 30.6,
       "qaApproved": true
     },
     {
