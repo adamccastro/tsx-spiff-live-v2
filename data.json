@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-22T19:07:31.424Z",
-  "generatedAtEastern": "6/22/2026, 15:07:31",
+  "generatedAt": "2026-06-22T19:09:34.286Z",
+  "generatedAtEastern": "6/22/2026, 15:09:34",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.7,
+        "12-13": 0,
+        "13-14": 12.8,
+        "14-15": 4.8,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -200,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 13,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Eustace Berreta",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.7,
-        "12-13": 0,
-        "13-14": 12.8,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.8,
       "qaApproved": true
     },
     {
