@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T21:29:04.339Z",
-  "generatedAtEastern": "6/22/2026, 17:29:04",
+  "generatedAt": "2026-06-22T21:31:07.309Z",
+  "generatedAtEastern": "6/22/2026, 17:31:07",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.3,
+        "12-13": 8.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 8.6
+      },
+      "tpv": 11.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christine Stubbs",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 16.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 17.3,
-        "12-13": 8.7,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13,
       "qaApproved": true
     },
     {
@@ -398,6 +398,28 @@
         "16-18": 0
       },
       "tpv": 30.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 14.7
+      },
+      "tpv": 14.7,
       "qaApproved": true
     },
     {
