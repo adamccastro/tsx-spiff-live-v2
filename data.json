@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T21:18:59.665Z",
-  "generatedAtEastern": "6/23/2026, 17:18:59",
+  "generatedAt": "2026-06-23T21:21:02.383Z",
+  "generatedAtEastern": "6/23/2026, 17:21:02",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 13.7,
+        "12-13": 13,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 12.7
+      },
+      "tpv": 13.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -376,28 +398,6 @@
         "16-18": 22.4
       },
       "tpv": 13.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 13.7,
-        "12-13": 13,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.4,
       "qaApproved": true
     },
     {
