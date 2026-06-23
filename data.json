@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23T20:21:42.307Z",
-  "generatedAtEastern": "6/23/2026, 16:21:42",
+  "generatedAt": "2026-06-23T20:23:45.016Z",
+  "generatedAtEastern": "6/23/2026, 16:23:45",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.1,
+        "12-13": 0,
+        "13-14": 8.6,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 7.1
+      },
+      "tpv": 6.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 7.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5.1,
-        "12-13": 0,
-        "13-14": 8.6,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 6.9,
       "qaApproved": true
     },
     {
