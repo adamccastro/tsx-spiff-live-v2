@@ -1,11 +1,33 @@
 {
-  "generatedAt": "2026-06-23T15:01:09.037Z",
-  "generatedAtEastern": "6/23/2026, 11:01:09",
+  "generatedAt": "2026-06-23T15:02:16.748Z",
+  "generatedAtEastern": "6/23/2026, 11:02:16",
   "timezone": "America/New_York",
-  "agentCount": 4,
+  "agentCount": 5,
   "agents": [
     {
       "agentName": "Nick Marino",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tara Schumacker",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -16,14 +38,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 16.4,
+        "10-12": 29.9,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 16.4,
+      "tpv": 29.9,
       "qaApproved": true
     },
     {
