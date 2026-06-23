@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-23T21:37:24.352Z",
-  "generatedAtEastern": "6/23/2026, 17:37:24",
+  "generatedAt": "2026-06-23T21:39:26.898Z",
+  "generatedAtEastern": "6/23/2026, 17:39:26",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 7,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 27.4,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 43.8,
+        "16-18": 14.2
+      },
+      "tpv": 12.2,
+      "qaApproved": true
+    },
     {
       "agentName": "Tameeka Joseph",
       "qualifiedXfers": 7,
@@ -24,28 +46,6 @@
         "16-18": 57.6
       },
       "tpv": 11.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 6,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 2,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 27.4,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 43.8,
-        "16-18": 8.4
-      },
-      "tpv": 13.3,
       "qaApproved": true
     },
     {
