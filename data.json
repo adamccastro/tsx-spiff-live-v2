@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T19:48:54.362Z",
-  "generatedAtEastern": "6/23/2026, 15:48:54",
+  "generatedAt": "2026-06-23T19:50:57.500Z",
+  "generatedAtEastern": "6/23/2026, 15:50:57",
   "timezone": "America/New_York",
-  "agentCount": 24,
+  "agentCount": 25,
   "agents": [
     {
       "agentName": "TJ Waldron",
@@ -28,13 +28,13 @@
     },
     {
       "agentName": "Nick Marino",
-      "qualifiedXfers": 4,
+      "qualifiedXfers": 5,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 1,
         "13-14": 0,
         "14-15": 1,
-        "15-16": 0,
+        "15-16": 1,
         "16-18": 0
       },
       "hourlyTpvTotal": {
@@ -42,10 +42,10 @@
         "12-13": 6.4,
         "13-14": 0,
         "14-15": 4.9,
-        "15-16": 0,
+        "15-16": 8.6,
         "16-18": 0
       },
-      "tpv": 8.2,
+      "tpv": 8.3,
       "qaApproved": true
     },
     {
@@ -464,6 +464,28 @@
         "16-18": 0
       },
       "tpv": 11.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leticia Perez",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 7.7,
+        "16-18": 0
+      },
+      "tpv": 7.7,
       "qaApproved": true
     },
     {
