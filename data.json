@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-23T19:18:12.041Z",
-  "generatedAtEastern": "6/23/2026, 15:18:12",
+  "generatedAt": "2026-06-23T19:20:14.889Z",
+  "generatedAtEastern": "6/23/2026, 15:20:14",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 27.4,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 11.7,
+        "16-18": 0
+      },
+      "tpv": 9.8,
+      "qaApproved": true
+    },
     {
       "agentName": "Nick Marino",
       "qualifiedXfers": 4,
@@ -27,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.7,
+        "12-13": 6.8,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 4.5,
+        "16-18": 0
+      },
+      "tpv": 5.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Dom P",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -46,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 22.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 28.8,
+        "14-15": 33,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.6,
       "qaApproved": true
     },
     {
@@ -115,50 +181,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 27.4,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9.7,
-        "12-13": 6.8,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.5,
-      "qaApproved": true
-    },
-    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -200,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 23,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 28.8,
-        "14-15": 14.2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 21.5,
       "qaApproved": true
     },
     {
