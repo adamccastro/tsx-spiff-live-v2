@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-23T18:04:30.389Z",
-  "generatedAtEastern": "6/23/2026, 14:04:30",
+  "generatedAt": "2026-06-23T18:06:33.022Z",
+  "generatedAtEastern": "6/23/2026, 14:06:33",
   "timezone": "America/New_York",
-  "agentCount": 22,
+  "agentCount": 23,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -203,6 +203,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.3,
+        "12-13": 0,
+        "13-14": 10.2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 19.2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Paulo Silva",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -222,6 +266,50 @@
         "16-18": 0
       },
       "tpv": 6.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 6.2,
+        "13-14": 4.7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 28.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 28.8,
       "qaApproved": true
     },
     {
@@ -266,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 21.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.3,
       "qaApproved": true
     },
     {
@@ -357,28 +423,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 7.4,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.4,
-      "qaApproved": true
-    },
-    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -398,28 +442,6 @@
         "16-18": 0
       },
       "tpv": 6.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 6.2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 6.2,
       "qaApproved": true
     },
     {
