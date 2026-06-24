@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-24T20:17:13.161Z",
-  "generatedAtEastern": "6/24/2026, 16:17:13",
+  "generatedAt": "2026-06-24T20:19:16.049Z",
+  "generatedAtEastern": "6/24/2026, 16:19:16",
   "timezone": "America/New_York",
-  "agentCount": 27,
+  "agentCount": 28,
   "agents": [
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 52,
+        "12-13": 5.8,
+        "13-14": 5.4,
+        "14-15": 0,
+        "15-16": 20.5,
+        "16-18": 0
+      },
+      "tpv": 14,
+      "qaApproved": true
+    },
     {
       "agentName": "Bethany Jones",
       "qualifiedXfers": 5,
@@ -24,28 +46,6 @@
         "16-18": 0
       },
       "tpv": 13.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Andrew Brett",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 52,
-        "12-13": 5.8,
-        "13-14": 5.4,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 12.6,
       "qaApproved": true
     },
     {
@@ -508,6 +508,28 @@
         "16-18": 0
       },
       "tpv": 11.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Arden Sotter",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 9.9,
+        "16-18": 0
+      },
+      "tpv": 9.9,
       "qaApproved": true
     },
     {
