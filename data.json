@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T19:32:05.378Z",
-  "generatedAtEastern": "6/24/2026, 15:32:05",
+  "generatedAt": "2026-06-24T19:34:09.066Z",
+  "generatedAtEastern": "6/24/2026, 15:34:09",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 2,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 24.4,
+        "12-13": 15.2,
+        "13-14": 0,
+        "14-15": 14.3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -71,25 +93,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Stephanie Artigas",
+      "agentName": "Nick Marino",
       "qualifiedXfers": 4,
       "hourlyXfers": {
         "10-12": 2,
-        "12-13": 2,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
+        "14-15": 1,
+        "15-16": 1,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 24.4,
-        "12-13": 15.2,
+        "10-12": 30.9,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
+        "14-15": 18.7,
+        "15-16": 13.1,
         "16-18": 0
       },
-      "tpv": 9.9,
+      "tpv": 15.7,
       "qaApproved": true
     },
     {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 22.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 30.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 18.7,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.5,
       "qaApproved": true
     },
     {
@@ -266,6 +266,28 @@
         "16-18": 0
       },
       "tpv": 18.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 11.2,
+        "13-14": 0,
+        "14-15": 11.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.3,
       "qaApproved": true
     },
     {
@@ -398,28 +420,6 @@
         "16-18": 0
       },
       "tpv": 11.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Carlos Sosa",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 11.2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.2,
       "qaApproved": true
     },
     {
