@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T20:15:10.185Z",
-  "generatedAtEastern": "6/24/2026, 16:15:10",
+  "generatedAt": "2026-06-24T20:17:13.161Z",
+  "generatedAtEastern": "6/24/2026, 16:17:13",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 80,
+        "16-18": 0
+      },
+      "tpv": 40,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -420,28 +442,6 @@
         "16-18": 0
       },
       "tpv": 43,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 38.6,
-        "16-18": 0
-      },
-      "tpv": 38.6,
       "qaApproved": true
     },
     {
