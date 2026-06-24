@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T22:08:07.452Z",
-  "generatedAtEastern": "6/24/2026, 18:08:07",
+  "generatedAt": "2026-06-24T22:10:10.354Z",
+  "generatedAtEastern": "6/24/2026, 18:10:10",
   "timezone": "America/New_York",
   "agentCount": 28,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 47.5,
+        "12-13": 14,
+        "13-14": 10.4,
+        "14-15": 0,
+        "15-16": 10.3,
+        "16-18": 39.3
+      },
+      "tpv": 24.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -134,28 +156,6 @@
         "16-18": 17
       },
       "tpv": 10.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Isabel Jael",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 47.5,
-        "12-13": 14,
-        "13-14": 10.4,
-        "14-15": 0,
-        "15-16": 10.3,
-        "16-18": 0
-      },
-      "tpv": 20.6,
       "qaApproved": true
     },
     {
