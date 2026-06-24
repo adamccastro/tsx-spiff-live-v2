@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-24T20:41:52.813Z",
-  "generatedAtEastern": "6/24/2026, 16:41:52",
+  "generatedAt": "2026-06-24T20:43:56.024Z",
+  "generatedAtEastern": "6/24/2026, 16:43:56",
   "timezone": "America/New_York",
   "agentCount": 28,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 6,
+      "qualifiedXfers": 7,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 2,
         "13-14": 0,
         "14-15": 1,
         "15-16": 0,
-        "16-18": 1
+        "16-18": 2
       },
       "hourlyTpvTotal": {
         "10-12": 24.4,
@@ -21,9 +21,9 @@
         "13-14": 0,
         "14-15": 14.3,
         "15-16": 0,
-        "16-18": 38.6
+        "16-18": 44.6
       },
-      "tpv": 15.4,
+      "tpv": 14.1,
       "qaApproved": true
     },
     {
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 14,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 39,
+        "12-13": 18.4,
+        "13-14": 0,
+        "14-15": 4.8,
+        "15-16": 0,
+        "16-18": 4.9
+      },
+      "tpv": 11.2,
       "qaApproved": true
     },
     {
@@ -90,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 13.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 39,
-        "12-13": 18.4,
-        "13-14": 0,
-        "14-15": 4.8,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 12.4,
       "qaApproved": true
     },
     {
@@ -445,6 +445,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 5,
+        "16-18": 9.8
+      },
+      "tpv": 7.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -596,28 +618,6 @@
         "16-18": 0
       },
       "tpv": 7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 5,
-        "16-18": 0
-      },
-      "tpv": 5,
       "qaApproved": true
     }
   ]
