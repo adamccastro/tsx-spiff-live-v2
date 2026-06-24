@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T15:48:23.762Z",
-  "generatedAtEastern": "6/24/2026, 11:48:23",
+  "generatedAt": "2026-06-24T15:50:26.925Z",
+  "generatedAtEastern": "6/24/2026, 11:50:26",
   "timezone": "America/New_York",
   "agentCount": 13,
   "agents": [
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 13.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.2,
       "qaApproved": true
     },
     {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 11.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Devon Halbert",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 6.4,
       "qaApproved": true
     },
     {
