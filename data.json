@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-25T19:07:12.659Z",
-  "generatedAtEastern": "6/25/2026, 15:07:12",
+  "generatedAt": "2026-06-25T19:09:15.719Z",
+  "generatedAtEastern": "6/25/2026, 15:09:15",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 20,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
@@ -27,6 +27,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Parker",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.9,
+        "12-13": 35,
+        "13-14": 63,
+        "14-15": 0,
+        "15-16": 12.5,
+        "16-18": 0
+      },
+      "tpv": 30.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 17,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10.9,
-        "12-13": 35,
-        "13-14": 63,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 36.3,
       "qaApproved": true
     },
     {
@@ -310,6 +310,28 @@
         "16-18": 0
       },
       "tpv": 14,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 12.3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.3,
       "qaApproved": true
     },
     {
