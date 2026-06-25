@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T21:02:02.631Z",
-  "generatedAtEastern": "6/25/2026, 17:02:02",
+  "generatedAt": "2026-06-25T21:04:05.420Z",
+  "generatedAtEastern": "6/25/2026, 17:04:05",
   "timezone": "America/New_York",
   "agentCount": 21,
   "agents": [
@@ -269,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 37
+      },
+      "tpv": 18.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 6.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 22.2
-      },
-      "tpv": 22.2,
       "qaApproved": true
     },
     {
