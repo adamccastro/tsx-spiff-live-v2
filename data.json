@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T16:21:47.262Z",
-  "generatedAtEastern": "6/26/2026, 12:21:47",
+  "generatedAt": "2026-06-26T16:23:50.789Z",
+  "generatedAtEastern": "6/26/2026, 12:23:50",
   "timezone": "America/New_York",
-  "agentCount": 15,
+  "agentCount": 16,
   "agents": [
     {
       "agentName": "TJ Waldron",
@@ -222,6 +222,28 @@
         "16-18": 0
       },
       "tpv": 12.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Arden Sotter",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.6,
       "qaApproved": true
     },
     {
