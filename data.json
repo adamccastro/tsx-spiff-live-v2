@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T21:56:11.192Z",
-  "generatedAtEastern": "6/26/2026, 17:56:11",
+  "generatedAt": "2026-06-26T21:58:14.463Z",
+  "generatedAtEastern": "6/26/2026, 17:58:14",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 20.3,
+        "15-16": 0,
+        "16-18": 9.4
+      },
+      "tpv": 7.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -310,28 +332,6 @@
         "16-18": 0
       },
       "tpv": 9.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 20.3,
-        "15-16": 0,
-        "16-18": 4.2
-      },
-      "tpv": 8.2,
       "qaApproved": true
     },
     {
