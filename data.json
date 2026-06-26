@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T19:20:16.023Z",
-  "generatedAtEastern": "6/26/2026, 15:20:16",
+  "generatedAt": "2026-06-26T19:22:18.871Z",
+  "generatedAtEastern": "6/26/2026, 15:22:18",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -28,13 +28,13 @@
     },
     {
       "agentName": "Dom P",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 3,
         "12-13": 1,
         "13-14": 0,
         "14-15": 1,
-        "15-16": 0,
+        "15-16": 1,
         "16-18": 0
       },
       "hourlyTpvTotal": {
@@ -42,10 +42,32 @@
         "12-13": 16.4,
         "13-14": 0,
         "14-15": 7.7,
-        "15-16": 0,
+        "15-16": 11.5,
         "16-18": 0
       },
-      "tpv": 18.7,
+      "tpv": 17.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 51.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 23.4,
+        "15-16": 12.3,
+        "16-18": 0
+      },
+      "tpv": 17.5,
       "qaApproved": true
     },
     {
@@ -93,36 +115,14 @@
       "qaApproved": true
     },
     {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 51.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 23.4,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.8,
-      "qaApproved": true
-    },
-    {
       "agentName": "Leonora Bornn",
-      "qualifiedXfers": 3,
+      "qualifiedXfers": 4,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 1,
         "13-14": 1,
         "14-15": 0,
-        "15-16": 0,
+        "15-16": 1,
         "16-18": 0
       },
       "hourlyTpvTotal": {
@@ -130,10 +130,10 @@
         "12-13": 5.1,
         "13-14": 44.3,
         "14-15": 0,
-        "15-16": 0,
+        "15-16": 10.5,
         "16-18": 0
       },
-      "tpv": 20.4,
+      "tpv": 18,
       "qaApproved": true
     },
     {
@@ -335,6 +335,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 5.2,
+        "14-15": 0,
+        "15-16": 12,
+        "16-18": 0
+      },
+      "tpv": 8.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Arden Sotter",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -398,28 +420,6 @@
         "16-18": 0
       },
       "tpv": 5.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 5.2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.2,
       "qaApproved": true
     }
   ]
