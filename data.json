@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T14:55:35.365Z",
-  "generatedAtEastern": "6/26/2026, 10:55:35",
+  "generatedAt": "2026-06-26T14:57:38.278Z",
+  "generatedAtEastern": "6/26/2026, 10:57:38",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 6,
   "agents": [
     {
       "agentName": "Dom P",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 12.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19,
       "qaApproved": true
     },
     {
