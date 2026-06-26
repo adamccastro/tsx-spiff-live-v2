@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-26T18:45:25.302Z",
-  "generatedAtEastern": "6/26/2026, 14:45:25",
+  "generatedAt": "2026-06-26T18:47:28.340Z",
+  "generatedAtEastern": "6/26/2026, 14:47:28",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 74.2,
+        "12-13": 5.5,
+        "13-14": 0,
+        "14-15": 37.7,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.6,
+      "qaApproved": true
+    },
     {
       "agentName": "Dom P",
       "qualifiedXfers": 5,
@@ -24,28 +46,6 @@
         "16-18": 0
       },
       "tpv": 18.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 74.2,
-        "12-13": 5.5,
-        "13-14": 0,
-        "14-15": 7.8,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17.5,
       "qaApproved": true
     },
     {
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 12.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 51.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 23.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 18.8,
       "qaApproved": true
     },
     {
@@ -159,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 7,
+        "13-14": 0,
+        "14-15": 32.7,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -200,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 8.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 51.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 25.9,
       "qaApproved": true
     },
     {
@@ -332,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 8.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 7,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7,
       "qaApproved": true
     },
     {
