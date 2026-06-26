@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-26T17:54:05.705Z",
-  "generatedAtEastern": "6/26/2026, 13:54:05",
+  "generatedAt": "2026-06-26T17:56:08.435Z",
+  "generatedAtEastern": "6/26/2026, 13:56:08",
   "timezone": "America/New_York",
-  "agentCount": 16,
+  "agentCount": 17,
   "agents": [
+    {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 2,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 39.4,
+        "12-13": 15.4,
+        "13-14": 8.4,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.6,
+      "qaApproved": true
+    },
     {
       "agentName": "Dom P",
       "qualifiedXfers": 4,
@@ -49,28 +71,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Tara Schumacker",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 39.4,
-        "12-13": 15.4,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.7,
-      "qaApproved": true
-    },
-    {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 13.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 44.1,
+        "12-13": 0,
+        "13-14": 10.2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 18.1,
       "qaApproved": true
     },
     {
@@ -178,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 22.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 44.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 22.1,
       "qaApproved": true
     },
     {
@@ -354,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 5.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 5.2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.2,
       "qaApproved": true
     }
   ]
