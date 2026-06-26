@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T18:10:33.079Z",
-  "generatedAtEastern": "6/26/2026, 14:10:33",
+  "generatedAt": "2026-06-26T18:12:36.487Z",
+  "generatedAtEastern": "6/26/2026, 14:12:36",
   "timezone": "America/New_York",
-  "agentCount": 17,
+  "agentCount": 18,
   "agents": [
     {
       "agentName": "Tara Schumacker",
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 13.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.9,
+        "12-13": 5.1,
+        "13-14": 44.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.4,
       "qaApproved": true
     },
     {
@@ -269,28 +291,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Leonora Bornn",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11.9,
-        "12-13": 5.1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.5,
-      "qaApproved": true
-    },
-    {
       "agentName": "Arden Sotter",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -310,6 +310,28 @@
         "16-18": 0
       },
       "tpv": 12.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 8.1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.1,
       "qaApproved": true
     },
     {
