@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T15:20:10.973Z",
-  "generatedAtEastern": "6/26/2026, 11:20:10",
+  "generatedAt": "2026-06-26T15:22:14.445Z",
+  "generatedAtEastern": "6/26/2026, 11:22:14",
   "timezone": "America/New_York",
-  "agentCount": 10,
+  "agentCount": 11,
   "agents": [
     {
       "agentName": "Tara Schumacker",
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 7.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 27.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 27.6,
       "qaApproved": true
     },
     {
