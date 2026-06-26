@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-26T16:54:35.736Z",
-  "generatedAtEastern": "6/26/2026, 12:54:35",
+  "generatedAt": "2026-06-26T16:56:38.638Z",
+  "generatedAtEastern": "6/26/2026, 12:56:38",
   "timezone": "America/New_York",
   "agentCount": 16,
   "agents": [
+    {
+      "agentName": "Dom P",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 69.5,
+        "12-13": 16.4,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 21.5,
+      "qaApproved": true
+    },
     {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 4,
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 13.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Dom P",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 69.5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 23.2,
       "qaApproved": true
     },
     {
