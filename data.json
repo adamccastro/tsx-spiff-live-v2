@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-26T20:54:34.194Z",
-  "generatedAtEastern": "6/26/2026, 16:54:34",
+  "generatedAt": "2026-06-26T20:56:37.307Z",
+  "generatedAtEastern": "6/26/2026, 16:56:37",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 22,
   "agents": [
     {
       "agentName": "Dom P",
@@ -379,6 +379,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 19.3
+      },
+      "tpv": 19.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Arden Sotter",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -442,6 +464,28 @@
         "16-18": 0
       },
       "tpv": 5.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 4.2
+      },
+      "tpv": 4.2,
       "qaApproved": true
     }
   ]
