@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-26T19:05:54.340Z",
-  "generatedAtEastern": "6/26/2026, 15:05:54",
+  "generatedAt": "2026-06-26T19:07:57.305Z",
+  "generatedAtEastern": "6/26/2026, 15:07:57",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -291,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 20.3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -332,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 12.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 8.1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.1,
       "qaApproved": true
     },
     {
