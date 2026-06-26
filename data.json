@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-26T18:24:54.033Z",
-  "generatedAtEastern": "6/26/2026, 14:24:54",
+  "generatedAt": "2026-06-26T18:26:56.896Z",
+  "generatedAtEastern": "6/26/2026, 14:26:56",
   "timezone": "America/New_York",
-  "agentCount": 18,
+  "agentCount": 19,
   "agents": [
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 33.1,
+        "12-13": 0,
+        "13-14": 20.5,
+        "14-15": 14.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.6,
+      "qaApproved": true
+    },
     {
       "agentName": "Tara Schumacker",
       "qualifiedXfers": 5,
@@ -71,28 +93,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 33.1,
-        "12-13": 0,
-        "13-14": 20.5,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.4,
-      "qaApproved": true
-    },
-    {
       "agentName": "Leonora Bornn",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -156,6 +156,28 @@
         "16-18": 0
       },
       "tpv": 14.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.2,
+        "12-13": 11.5,
+        "13-14": 0,
+        "14-15": 16.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.1,
       "qaApproved": true
     },
     {
@@ -247,28 +269,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Parker",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11.2,
-        "12-13": 11.5,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.4,
-      "qaApproved": true
-    },
-    {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -354,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 6.6,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.6,
       "qaApproved": true
     },
     {
