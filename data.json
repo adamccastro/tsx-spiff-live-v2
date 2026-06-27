@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T18:53:14.147Z",
-  "generatedAtEastern": "6/27/2026, 14:53:14",
+  "generatedAt": "2026-06-27T18:55:16.965Z",
+  "generatedAtEastern": "6/27/2026, 14:55:16",
   "timezone": "America/New_York",
-  "agentCount": 9,
+  "agentCount": 10,
   "agents": [
     {
       "agentName": "TJ Waldron",
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 6.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 56.9,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 56.9,
       "qaApproved": true
     },
     {
