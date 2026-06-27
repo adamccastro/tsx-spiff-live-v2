@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-27T18:36:51.468Z",
-  "generatedAtEastern": "6/27/2026, 14:36:51",
+  "generatedAt": "2026-06-27T18:38:54.519Z",
+  "generatedAtEastern": "6/27/2026, 14:38:54",
   "timezone": "America/New_York",
   "agentCount": 8,
   "agents": [
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5,
+        "13-14": 8.2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 9.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 5,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5,
       "qaApproved": true
     },
     {
