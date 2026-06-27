@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-27T16:17:40.035Z",
-  "generatedAtEastern": "6/27/2026, 12:17:40",
+  "generatedAt": "2026-06-27T16:19:43.137Z",
+  "generatedAtEastern": "6/27/2026, 12:19:43",
   "timezone": "America/New_York",
   "agentCount": 6,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 12.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.4,
+        "12-13": 5.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.9,
       "qaApproved": true
     },
     {
@@ -112,28 +134,6 @@
         "16-18": 0
       },
       "tpv": 4.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Kenneth Martin",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.4,
       "qaApproved": true
     }
   ]
