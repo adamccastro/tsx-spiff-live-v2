@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-27T18:47:05.936Z",
-  "generatedAtEastern": "6/27/2026, 14:47:05",
+  "generatedAt": "2026-06-27T18:49:08.699Z",
+  "generatedAtEastern": "6/27/2026, 14:49:08",
   "timezone": "America/New_York",
-  "agentCount": 8,
+  "agentCount": 9,
   "agents": [
     {
       "agentName": "TJ Waldron",
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 9.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Yadi Melendez",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -108,6 +130,28 @@
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 24.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 24.6,
         "15-16": 0,
         "16-18": 0
       },
@@ -156,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 9.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.9,
       "qaApproved": true
     }
   ]
