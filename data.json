@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-29T22:04:16.074Z",
-  "generatedAtEastern": "6/29/2026, 18:04:16",
+  "generatedAt": "2026-06-29T22:06:18.944Z",
+  "generatedAtEastern": "6/29/2026, 18:06:18",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 10,
+      "qualifiedXfers": 11,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 1,
@@ -23,7 +23,7 @@
         "15-16": 9.9,
         "16-18": 47.4
       },
-      "tpv": 11,
+      "tpv": 10.4,
       "qaApproved": true
     },
     {
