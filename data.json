@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-29T16:52:50.244Z",
-  "generatedAtEastern": "6/29/2026, 12:52:50",
+  "generatedAt": "2026-06-29T16:54:53.437Z",
+  "generatedAtEastern": "6/29/2026, 12:54:53",
   "timezone": "America/New_York",
-  "agentCount": 17,
+  "agentCount": 18,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 10.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 31.9,
+        "12-13": 6.4,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.2,
       "qaApproved": true
     },
     {
@@ -137,28 +159,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 31.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 31.9,
-      "qaApproved": true
-    },
-    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -222,6 +222,28 @@
         "16-18": 0
       },
       "tpv": 18.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Bethany Jones",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 18.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 18.7,
       "qaApproved": true
     },
     {
