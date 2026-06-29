@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-06-29T21:56:05.289Z",
-  "generatedAtEastern": "6/29/2026, 17:56:05",
+  "generatedAt": "2026-06-29T21:58:08.305Z",
+  "generatedAtEastern": "6/29/2026, 17:58:08",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 9,
+      "qualifiedXfers": 10,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 1,
         "13-14": 1,
         "14-15": 1,
         "15-16": 1,
-        "16-18": 4
+        "16-18": 5
       },
       "hourlyTpvTotal": {
         "10-12": 5.1,
@@ -21,9 +21,9 @@
         "13-14": 17.5,
         "14-15": 18.1,
         "15-16": 9.9,
-        "16-18": 38.9
+        "16-18": 47.4
       },
-      "tpv": 11.3,
+      "tpv": 11,
       "qaApproved": true
     },
     {
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5,
+        "12-13": 9,
+        "13-14": 12.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 10
+      },
+      "tpv": 9.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -244,28 +266,6 @@
         "16-18": 7.3
       },
       "tpv": 10.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5,
-        "12-13": 9,
-        "13-14": 12.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.8,
       "qaApproved": true
     },
     {
@@ -423,6 +423,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 9.5
+      },
+      "tpv": 4.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -530,28 +552,6 @@
         "16-18": 0
       },
       "tpv": 4.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 4.6
-      },
-      "tpv": 4.6,
       "qaApproved": true
     }
   ]
