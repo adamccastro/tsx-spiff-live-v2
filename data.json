@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-29T16:11:49.262Z",
-  "generatedAtEastern": "6/29/2026, 12:11:49",
+  "generatedAt": "2026-06-29T16:13:52.339Z",
+  "generatedAtEastern": "6/29/2026, 12:13:52",
   "timezone": "America/New_York",
-  "agentCount": 12,
+  "agentCount": 13,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
@@ -28,10 +28,10 @@
     },
     {
       "agentName": "Kenneth Martin",
-      "qualifiedXfers": 2,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 2,
-        "12-13": 0,
+        "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
@@ -39,13 +39,13 @@
       },
       "hourlyTpvTotal": {
         "10-12": 19.4,
-        "12-13": 0,
+        "12-13": 11.9,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 9.7,
+      "tpv": 10.4,
       "qaApproved": true
     },
     {
@@ -200,6 +200,28 @@
         "16-18": 0
       },
       "tpv": 7.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7,
       "qaApproved": true
     },
     {
