@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-29T15:32:47.080Z",
-  "generatedAtEastern": "6/29/2026, 11:32:47",
+  "generatedAt": "2026-06-29T15:34:50.183Z",
+  "generatedAtEastern": "6/29/2026, 11:34:50",
   "timezone": "America/New_York",
-  "agentCount": 10,
+  "agentCount": 12,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 2,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
-        "10-12": 2,
+        "10-12": 3,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
@@ -16,14 +16,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 38.2,
+        "10-12": 43.2,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 19.1,
+      "tpv": 14.4,
       "qaApproved": true
     },
     {
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -156,6 +178,28 @@
         "16-18": 0
       },
       "tpv": 7.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.1,
       "qaApproved": true
     },
     {
