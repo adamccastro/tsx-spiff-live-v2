@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-06-30T14:44:54.581Z",
-  "generatedAtEastern": "6/30/2026, 10:44:54",
+  "generatedAt": "2026-06-30T14:46:57.527Z",
+  "generatedAtEastern": "6/30/2026, 10:46:57",
   "timezone": "America/New_York",
-  "agentCount": 4,
+  "agentCount": 5,
   "agents": [
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 21.1,
+      "qaApproved": true
+    },
     {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 1,
