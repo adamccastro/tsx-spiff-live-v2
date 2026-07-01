@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T17:00:09.989Z",
-  "generatedAtEastern": "7/1/2026, 13:00:09",
+  "generatedAt": "2026-07-01T18:00:09.735Z",
+  "generatedAtEastern": "7/1/2026, 14:00:09",
   "timezone": "America/New_York",
-  "agentCount": 18,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
@@ -28,11 +28,11 @@
     },
     {
       "agentName": "Christine Stubbs",
-      "qualifiedXfers": 3,
+      "qualifiedXfers": 4,
       "hourlyXfers": {
         "10-12": 3,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
@@ -40,21 +40,21 @@
       "hourlyTpvTotal": {
         "10-12": 35.2,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 14.9,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 11.7,
+      "tpv": 12.5,
       "qaApproved": true
     },
     {
       "agentName": "Isabel Jael",
-      "qualifiedXfers": 2,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 1,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
@@ -62,12 +62,34 @@
       "hourlyTpvTotal": {
         "10-12": 66.9,
         "12-13": 12.3,
-        "13-14": 0,
+        "13-14": 9.3,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 39.6,
+      "tpv": 29.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.7,
+        "12-13": 0,
+        "13-14": 8.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.6,
       "qaApproved": true
     },
     {
@@ -269,25 +291,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "Kenneth Martin",
+      "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 2,
+        "10-12": 1,
         "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.5,
+        "12-13": 0,
+        "13-14": 4.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 14.7,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 60.6,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 7.4,
+      "tpv": 60.6,
       "qaApproved": true
     },
     {
@@ -379,25 +423,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "Oreste Bacigalupo",
+      "agentName": "Michelle Adika",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 8.6,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 9.5,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 6.1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 9.5,
+      "tpv": 6.1,
       "qaApproved": true
     }
   ]
