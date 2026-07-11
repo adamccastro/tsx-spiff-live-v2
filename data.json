@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-11T16:00:10.254Z",
-  "generatedAtEastern": "7/11/2026, 12:00:10",
+  "generatedAt": "2026-07-11T17:00:10.286Z",
+  "generatedAtEastern": "7/11/2026, 13:00:10",
   "timezone": "America/New_York",
-  "agentCount": 2,
+  "agentCount": 4,
   "agents": [
     {
       "agentName": "Michelle Adika",
-      "qualifiedXfers": 1,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
-        "12-13": 0,
+        "12-13": 2,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
@@ -17,13 +17,57 @@
       },
       "hourlyTpvTotal": {
         "10-12": 15.2,
-        "12-13": 0,
+        "12-13": 17.8,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 15.2,
+      "tpv": 11,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 4.9,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 4.2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.2,
       "qaApproved": true
     },
     {
