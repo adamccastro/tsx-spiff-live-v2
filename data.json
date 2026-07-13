@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T19:31:44.929Z",
-  "generatedAtEastern": "7/13/2026, 15:31:44",
+  "generatedAt": "2026-07-13T19:33:47.922Z",
+  "generatedAtEastern": "7/13/2026, 15:33:47",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Isabel Jael",
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 12.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.6,
+        "12-13": 9.1,
+        "13-14": 6.7,
+        "14-15": 0,
+        "15-16": 6.2,
+        "16-18": 0
+      },
+      "tpv": 7.4,
       "qaApproved": true
     },
     {
@@ -137,25 +159,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 3,
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 7.6,
-        "12-13": 9.1,
-        "13-14": 6.7,
-        "14-15": 0,
+        "10-12": 32.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 15.9,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 7.8,
+      "tpv": 24.1,
       "qaApproved": true
     },
     {
@@ -335,28 +357,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 32.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 32.3,
-      "qaApproved": true
-    },
-    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -398,6 +398,28 @@
         "16-18": 0
       },
       "tpv": 13,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 11.9,
+        "16-18": 0
+      },
+      "tpv": 11.9,
       "qaApproved": true
     },
     {
