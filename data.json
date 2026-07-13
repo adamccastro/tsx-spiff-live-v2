@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T16:42:35.367Z",
-  "generatedAtEastern": "7/13/2026, 12:42:35",
+  "generatedAt": "2026-07-13T16:44:38.651Z",
+  "generatedAtEastern": "7/13/2026, 12:44:38",
   "timezone": "America/New_York",
   "agentCount": 14,
   "agents": [
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 8.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.6,
+        "12-13": 9.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.4,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 8.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 7.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.6,
       "qaApproved": true
     },
     {
