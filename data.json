@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T16:44:38.651Z",
-  "generatedAtEastern": "7/13/2026, 12:44:38",
+  "generatedAt": "2026-07-13T16:46:42.330Z",
+  "generatedAtEastern": "7/13/2026, 12:46:42",
   "timezone": "America/New_York",
-  "agentCount": 14,
+  "agentCount": 15,
   "agents": [
     {
       "agentName": "Isabel Jael",
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 20.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 18.5,
+        "12-13": 7.6,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.1,
       "qaApproved": true
     },
     {
@@ -181,28 +203,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18.5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.5,
-      "qaApproved": true
-    },
-    {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -222,6 +222,28 @@
         "16-18": 0
       },
       "tpv": 17.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 17.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.7,
       "qaApproved": true
     },
     {
