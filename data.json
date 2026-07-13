@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-13T16:07:25.727Z",
-  "generatedAtEastern": "7/13/2026, 12:07:25",
+  "generatedAt": "2026-07-13T16:09:29.013Z",
+  "generatedAtEastern": "7/13/2026, 12:09:29",
   "timezone": "America/New_York",
-  "agentCount": 13,
+  "agentCount": 14,
   "agents": [
     {
       "agentName": "Isabel Jael",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 15.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.9,
+        "12-13": 4.4,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.1,
       "qaApproved": true
     },
     {
@@ -68,28 +90,6 @@
         "16-18": 0
       },
       "tpv": 20.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 19.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10,
       "qaApproved": true
     },
     {
@@ -244,6 +244,28 @@
         "16-18": 0
       },
       "tpv": 10.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 8.6,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.6,
       "qaApproved": true
     },
     {
