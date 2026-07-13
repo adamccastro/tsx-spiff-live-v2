@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-13T15:57:02.780Z",
-  "generatedAtEastern": "7/13/2026, 11:57:02",
+  "generatedAt": "2026-07-13T15:59:05.869Z",
+  "generatedAtEastern": "7/13/2026, 11:59:05",
   "timezone": "America/New_York",
-  "agentCount": 12,
+  "agentCount": 13,
   "agents": [
     {
       "agentName": "Isabel Jael",
-      "qualifiedXfers": 3,
+      "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 3,
+        "10-12": 4,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
@@ -16,14 +16,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 55.4,
+        "10-12": 62.8,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 18.5,
+      "tpv": 15.7,
       "qaApproved": true
     },
     {
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 35.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 32.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 32.3,
       "qaApproved": true
     },
     {
