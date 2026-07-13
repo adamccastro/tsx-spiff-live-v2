@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T22:23:37.374Z",
-  "generatedAtEastern": "7/13/2026, 18:23:37",
+  "generatedAt": "2026-07-13T22:27:41.815Z",
+  "generatedAtEastern": "7/13/2026, 18:27:41",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 13,
+        "14-15": 0,
+        "15-16": 29,
+        "16-18": 83.7
+      },
+      "tpv": 25.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -68,6 +90,28 @@
         "16-18": 6.5
       },
       "tpv": 19.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 41.7,
+        "12-13": 5,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 39.8
+      },
+      "tpv": 17.3,
       "qaApproved": true
     },
     {
@@ -93,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Bethany Jones",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 5.7,
+        "14-15": 10.1,
+        "15-16": 0,
+        "16-18": 78.8
+      },
+      "tpv": 23.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -112,50 +178,6 @@
         "16-18": 81.4
       },
       "tpv": 22.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 13,
-        "14-15": 0,
-        "15-16": 29,
-        "16-18": 34.9
-      },
-      "tpv": 19.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 41.7,
-        "12-13": 5,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 11.6
-      },
-      "tpv": 14.6,
       "qaApproved": true
     },
     {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 17.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Bethany Jones",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 5.7,
-        "14-15": 10.1,
-        "15-16": 0,
-        "16-18": 26.4
-      },
-      "tpv": 14.1,
       "qaApproved": true
     },
     {
