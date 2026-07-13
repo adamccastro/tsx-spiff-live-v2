@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T18:19:31.268Z",
-  "generatedAtEastern": "7/13/2026, 14:19:31",
+  "generatedAt": "2026-07-13T18:21:34.578Z",
+  "generatedAtEastern": "7/13/2026, 14:21:34",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 5.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 32.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Kenneth Martin",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 17.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17.8,
       "qaApproved": true
     },
     {
