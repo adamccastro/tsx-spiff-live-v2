@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13T18:21:34.578Z",
-  "generatedAtEastern": "7/13/2026, 14:21:34",
+  "generatedAt": "2026-07-13T18:23:37.735Z",
+  "generatedAtEastern": "7/13/2026, 14:23:37",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 7.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -310,28 +332,6 @@
         "16-18": 0
       },
       "tpv": 13,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Eustace Berreta",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.9,
       "qaApproved": true
     },
     {
