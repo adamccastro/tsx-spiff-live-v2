@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T21:19:50.240Z",
-  "generatedAtEastern": "7/14/2026, 17:19:50",
+  "generatedAt": "2026-07-14T21:21:53.426Z",
+  "generatedAtEastern": "7/14/2026, 17:21:53",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 24,
   "agents": [
     {
       "agentName": "David Parker",
@@ -486,6 +486,28 @@
         "16-18": 0
       },
       "tpv": 12.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 12.5
+      },
+      "tpv": 12.5,
       "qaApproved": true
     },
     {
