@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-14T21:30:06.410Z",
-  "generatedAtEastern": "7/14/2026, 17:30:06",
+  "generatedAt": "2026-07-14T21:32:09.460Z",
+  "generatedAtEastern": "7/14/2026, 17:32:09",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
     {
       "agentName": "David Parker",
-      "qualifiedXfers": 8,
+      "qualifiedXfers": 9,
       "hourlyXfers": {
         "10-12": 3,
         "12-13": 1,
         "13-14": 2,
         "14-15": 1,
         "15-16": 0,
-        "16-18": 1
+        "16-18": 2
       },
       "hourlyTpvTotal": {
         "10-12": 31.3,
@@ -21,9 +21,31 @@
         "13-14": 22,
         "14-15": 45.9,
         "15-16": 0,
-        "16-18": 5.4
+        "16-18": 22.3
       },
-      "tpv": 13.9,
+      "tpv": 14.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 7,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 2,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.3,
+        "12-13": 0,
+        "13-14": 5.2,
+        "14-15": 15.6,
+        "15-16": 5.6,
+        "16-18": 27.5
+      },
+      "tpv": 8.6,
       "qaApproved": true
     },
     {
@@ -46,28 +68,6 @@
         "16-18": 29.9
       },
       "tpv": 10.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 6,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 2,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6.3,
-        "12-13": 0,
-        "13-14": 5.2,
-        "14-15": 15.6,
-        "15-16": 5.6,
-        "16-18": 11.6
-      },
-      "tpv": 7.4,
       "qaApproved": true
     },
     {
