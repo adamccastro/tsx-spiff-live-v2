@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-14T19:08:30.037Z",
-  "generatedAtEastern": "7/14/2026, 15:08:30",
+  "generatedAt": "2026-07-14T19:10:33.330Z",
+  "generatedAtEastern": "7/14/2026, 15:10:33",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 20,
   "agents": [
     {
       "agentName": "David Parker",
-      "qualifiedXfers": 6,
+      "qualifiedXfers": 7,
       "hourlyXfers": {
         "10-12": 3,
         "12-13": 1,
         "13-14": 2,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
@@ -19,11 +19,11 @@
         "10-12": 31.3,
         "12-13": 6.7,
         "13-14": 22,
-        "14-15": 0,
+        "14-15": 45.9,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 10,
+      "tpv": 15.1,
       "qaApproved": true
     },
     {
@@ -310,6 +310,28 @@
         "16-18": 0
       },
       "tpv": 7.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 24.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 24.2,
       "qaApproved": true
     },
     {
