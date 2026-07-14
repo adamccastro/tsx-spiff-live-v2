@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T16:48:58.923Z",
-  "generatedAtEastern": "7/14/2026, 12:48:58",
+  "generatedAt": "2026-07-14T16:51:01.766Z",
+  "generatedAtEastern": "7/14/2026, 12:51:01",
   "timezone": "America/New_York",
-  "agentCount": 10,
+  "agentCount": 11,
   "agents": [
     {
       "agentName": "David Parker",
@@ -50,10 +50,10 @@
     },
     {
       "agentName": "Christine Stubbs",
-      "qualifiedXfers": 2,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 2,
-        "12-13": 0,
+        "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
@@ -61,13 +61,13 @@
       },
       "hourlyTpvTotal": {
         "10-12": 46,
-        "12-13": 0,
+        "12-13": 10.4,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 23,
+      "tpv": 18.8,
       "qaApproved": true
     },
     {
@@ -200,6 +200,28 @@
         "16-18": 0
       },
       "tpv": 6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.1,
       "qaApproved": true
     },
     {
