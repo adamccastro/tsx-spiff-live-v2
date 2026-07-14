@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-14T16:32:35.028Z",
-  "generatedAtEastern": "7/14/2026, 12:32:35",
+  "generatedAt": "2026-07-14T16:34:37.930Z",
+  "generatedAtEastern": "7/14/2026, 12:34:37",
   "timezone": "America/New_York",
   "agentCount": 9,
   "agents": [
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 31.3,
+        "12-13": 6.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.5,
+      "qaApproved": true
+    },
     {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 3,
@@ -24,28 +46,6 @@
         "16-18": 0
       },
       "tpv": 25.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 31.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.4,
       "qaApproved": true
     },
     {
