@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T19:57:46.418Z",
-  "generatedAtEastern": "7/14/2026, 15:57:46",
+  "generatedAt": "2026-07-14T19:59:49.412Z",
+  "generatedAtEastern": "7/14/2026, 15:59:49",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "David Parker",
@@ -49,6 +49,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6,
+        "12-13": 0,
+        "13-14": 13.7,
+        "14-15": 21.3,
+        "15-16": 4.3,
+        "16-18": 0
+      },
+      "tpv": 9.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 2,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.3,
+        "12-13": 0,
+        "13-14": 5.2,
+        "14-15": 15.6,
+        "15-16": 5.6,
+        "16-18": 0
+      },
+      "tpv": 6.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -71,47 +115,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Oreste Bacigalupo",
+      "agentName": "Tameeka Joseph",
       "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6,
-        "12-13": 0,
-        "13-14": 13.7,
-        "14-15": 21.3,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
         "13-14": 1,
-        "14-15": 2,
-        "15-16": 0,
+        "14-15": 1,
+        "15-16": 2,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 6.3,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 5.2,
-        "14-15": 15.6,
-        "15-16": 0,
+        "13-14": 9.1,
+        "14-15": 6.3,
+        "15-16": 17.4,
         "16-18": 0
       },
-      "tpv": 6.8,
+      "tpv": 8.2,
       "qaApproved": true
     },
     {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 10.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 9.1,
-        "14-15": 6.3,
-        "15-16": 7.9,
-        "16-18": 0
-      },
-      "tpv": 7.8,
       "qaApproved": true
     },
     {
@@ -376,6 +376,28 @@
         "16-18": 0
       },
       "tpv": 24.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 14.5,
+        "16-18": 0
+      },
+      "tpv": 14.5,
       "qaApproved": true
     },
     {
