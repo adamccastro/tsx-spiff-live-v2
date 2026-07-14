@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-14T17:58:42.716Z",
-  "generatedAtEastern": "7/14/2026, 13:58:42",
+  "generatedAt": "2026-07-14T18:00:45.770Z",
+  "generatedAtEastern": "7/14/2026, 14:00:45",
   "timezone": "America/New_York",
-  "agentCount": 13,
+  "agentCount": 16,
   "agents": [
     {
       "agentName": "David Parker",
@@ -28,11 +28,11 @@
     },
     {
       "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 3,
+      "qualifiedXfers": 4,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 1,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
@@ -40,12 +40,12 @@
       "hourlyTpvTotal": {
         "10-12": 54,
         "12-13": 22.7,
-        "13-14": 0,
+        "13-14": 12.5,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 25.6,
+      "tpv": 22.3,
       "qaApproved": true
     },
     {
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 18.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.8,
+        "12-13": 0,
+        "13-14": 5.7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.2,
       "qaApproved": true
     },
     {
@@ -159,25 +181,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Sam Hill",
+      "agentName": "Stephanie Artigas",
       "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 2,
+        "10-12": 1,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 12.8,
+        "10-12": 6.3,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 5.2,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 6.4,
+      "tpv": 5.8,
       "qaApproved": true
     },
     {
@@ -247,25 +269,69 @@
       "qaApproved": true
     },
     {
-      "agentName": "Stephanie Artigas",
+      "agentName": "Tameeka Joseph",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 6.3,
+        "10-12": 0,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 9.1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 6.3,
+      "tpv": 9.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 6,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 5.6,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.6,
       "qaApproved": true
     },
     {
