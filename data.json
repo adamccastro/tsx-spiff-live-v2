@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T17:07:26.989Z",
-  "generatedAtEastern": "7/14/2026, 13:07:26",
+  "generatedAt": "2026-07-14T17:09:29.833Z",
+  "generatedAtEastern": "7/14/2026, 13:09:29",
   "timezone": "America/New_York",
   "agentCount": 12,
   "agents": [
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.6,
+        "12-13": 0,
+        "13-14": 12.7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 6.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.6,
       "qaApproved": true
     },
     {
