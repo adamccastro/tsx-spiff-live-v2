@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T22:31:38.194Z",
-  "generatedAtEastern": "7/14/2026, 18:31:38",
+  "generatedAt": "2026-07-14T22:33:41.113Z",
+  "generatedAtEastern": "7/14/2026, 18:33:41",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -27,6 +27,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 8,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 2,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 9.1,
+        "14-15": 6.3,
+        "15-16": 17.4,
+        "16-18": 35.2
+      },
+      "tpv": 11.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 7,
       "hourlyXfers": {
@@ -49,25 +71,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Tameeka Joseph",
+      "agentName": "Sara Jameson",
       "qualifiedXfers": 6,
       "hourlyXfers": {
-        "10-12": 0,
+        "10-12": 1,
         "12-13": 0,
-        "13-14": 1,
+        "13-14": 2,
         "14-15": 1,
-        "15-16": 2,
-        "16-18": 2
+        "15-16": 1,
+        "16-18": 1
       },
       "hourlyTpvTotal": {
-        "10-12": 0,
+        "10-12": 16.6,
         "12-13": 0,
-        "13-14": 9.1,
-        "14-15": 6.3,
-        "15-16": 17.4,
-        "16-18": 29.9
+        "13-14": 38.6,
+        "14-15": 6.4,
+        "15-16": 8.5,
+        "16-18": 4
       },
-      "tpv": 10.5,
+      "tpv": 12.4,
       "qaApproved": true
     },
     {
@@ -90,28 +112,6 @@
         "16-18": 6.5
       },
       "tpv": 8.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.6,
-        "12-13": 0,
-        "13-14": 38.6,
-        "14-15": 6.4,
-        "15-16": 8.5,
-        "16-18": 0
-      },
-      "tpv": 14,
       "qaApproved": true
     },
     {
@@ -178,6 +178,28 @@
         "16-18": 0
       },
       "tpv": 22.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 25.9,
+        "16-18": 36
+      },
+      "tpv": 15.5,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 18.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Eustace Berreta",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 25.9,
-        "16-18": 26.2
-      },
-      "tpv": 17.4,
       "qaApproved": true
     },
     {
