@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T16:57:10.584Z",
-  "generatedAtEastern": "7/14/2026, 12:57:10",
+  "generatedAt": "2026-07-14T16:59:14.041Z",
+  "generatedAtEastern": "7/14/2026, 12:59:14",
   "timezone": "America/New_York",
   "agentCount": 11,
   "agents": [
@@ -50,10 +50,10 @@
     },
     {
       "agentName": "Christine Stubbs",
-      "qualifiedXfers": 3,
+      "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 2,
-        "12-13": 1,
+        "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
@@ -61,13 +61,13 @@
       },
       "hourlyTpvTotal": {
         "10-12": 46,
-        "12-13": 10.4,
+        "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 18.8,
+      "tpv": 23,
       "qaApproved": true
     },
     {
