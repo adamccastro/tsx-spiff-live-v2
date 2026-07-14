@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T21:15:44.059Z",
-  "generatedAtEastern": "7/14/2026, 17:15:44",
+  "generatedAt": "2026-07-14T21:17:47.247Z",
+  "generatedAtEastern": "7/14/2026, 17:17:47",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 9.5,
+        "13-14": 0,
+        "14-15": 29,
+        "15-16": 0,
+        "16-18": 20.2
+      },
+      "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -159,25 +181,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Isabel Jael",
+      "agentName": "Gina Blaney",
       "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
+        "10-12": 2,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 2,
+        "14-15": 0,
         "15-16": 0,
-        "16-18": 1
+        "16-18": 2
       },
       "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 9.5,
+        "10-12": 17.4,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 29,
+        "14-15": 0,
         "15-16": 0,
-        "16-18": 14.2
+        "16-18": 17.2
       },
-      "tpv": 13.2,
+      "tpv": 8.7,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 10.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 17.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 12
-      },
-      "tpv": 9.8,
       "qaApproved": true
     },
     {
