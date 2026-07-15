@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T20:29:00.435Z",
-  "generatedAtEastern": "7/15/2026, 16:29:00",
+  "generatedAt": "2026-07-15T20:31:03.643Z",
+  "generatedAtEastern": "7/15/2026, 16:31:03",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 29.5
+      },
+      "tpv": 12.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Elizabeth Papay",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 16.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 22
-      },
-      "tpv": 15.1,
       "qaApproved": true
     },
     {
