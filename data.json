@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T21:16:11.206Z",
-  "generatedAtEastern": "7/15/2026, 17:16:11",
+  "generatedAt": "2026-07-15T21:18:14.093Z",
+  "generatedAtEastern": "7/15/2026, 17:18:14",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 53.9,
+        "12-13": 24.2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 30.6
+      },
+      "tpv": 21.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Nick Marino",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -68,28 +90,6 @@
         "16-18": 0
       },
       "tpv": 12.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 53.9,
-        "12-13": 24.2,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 13.9
-      },
-      "tpv": 23,
       "qaApproved": true
     },
     {
