@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T16:29:01.667Z",
-  "generatedAtEastern": "7/15/2026, 12:29:01",
+  "generatedAt": "2026-07-15T16:31:04.715Z",
+  "generatedAtEastern": "7/15/2026, 12:31:04",
   "timezone": "America/New_York",
-  "agentCount": 18,
+  "agentCount": 19,
   "agents": [
     {
       "agentName": "Sara Jameson",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 27,
+      "qaApproved": true
+    },
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 34.8,
+        "12-13": 10.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 22.8,
       "qaApproved": true
     },
     {
@@ -203,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 20,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tameeka Joseph",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -288,28 +332,6 @@
         "16-18": 0
       },
       "tpv": 14.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 10.7,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.7,
       "qaApproved": true
     },
     {
