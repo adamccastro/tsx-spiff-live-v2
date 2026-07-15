@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T21:10:02.255Z",
-  "generatedAtEastern": "7/15/2026, 17:10:02",
+  "generatedAt": "2026-07-15T21:12:05.350Z",
+  "generatedAtEastern": "7/15/2026, 17:12:05",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.7,
+        "12-13": 0,
+        "13-14": 11.4,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 12.5
+      },
+      "tpv": 15.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Paulo Silva",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 17.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 21.7,
-        "12-13": 0,
-        "13-14": 11.4,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.6,
       "qaApproved": true
     },
     {
