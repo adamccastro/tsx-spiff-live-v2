@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-15T21:22:19.966Z",
-  "generatedAtEastern": "7/15/2026, 17:22:19",
+  "generatedAt": "2026-07-15T21:24:22.961Z",
+  "generatedAtEastern": "7/15/2026, 17:24:22",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
     {
       "agentName": "Isabel Jael",
-      "qualifiedXfers": 7,
+      "qualifiedXfers": 8,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 1,
         "13-14": 1,
         "14-15": 1,
         "15-16": 0,
-        "16-18": 2
+        "16-18": 3
       },
       "hourlyTpvTotal": {
         "10-12": 29,
@@ -21,9 +21,9 @@
         "13-14": 8.3,
         "14-15": 4.1,
         "15-16": 0,
-        "16-18": 41.3
+        "16-18": 58.1
       },
-      "tpv": 13.8,
+      "tpv": 14.2,
       "qaApproved": true
     },
     {
