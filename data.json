@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T19:31:36.849Z",
-  "generatedAtEastern": "7/15/2026, 15:31:36",
+  "generatedAt": "2026-07-15T19:33:39.943Z",
+  "generatedAtEastern": "7/15/2026, 15:33:39",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 19.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.1,
+        "12-13": 30.6,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 7,
+        "16-18": 0
+      },
+      "tpv": 17.2,
       "qaApproved": true
     },
     {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 22.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Eustace Berreta",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14.1,
-        "12-13": 30.6,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 22.4,
       "qaApproved": true
     },
     {
