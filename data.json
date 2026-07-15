@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T22:00:10.642Z",
-  "generatedAtEastern": "7/15/2026, 18:00:10",
+  "generatedAt": "2026-07-15T22:01:19.165Z",
+  "generatedAtEastern": "7/15/2026, 18:01:19",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -357,6 +357,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 60.2
+      },
+      "tpv": 30.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -508,28 +530,6 @@
         "16-18": 0
       },
       "tpv": 10.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Carlos Sosa",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 9.8
-      },
-      "tpv": 9.8,
       "qaApproved": true
     }
   ]
