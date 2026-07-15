@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T16:16:42.116Z",
-  "generatedAtEastern": "7/15/2026, 12:16:42",
+  "generatedAt": "2026-07-15T16:18:45.240Z",
+  "generatedAtEastern": "7/15/2026, 12:18:45",
   "timezone": "America/New_York",
-  "agentCount": 15,
+  "agentCount": 18,
   "agents": [
     {
       "agentName": "Sara Jameson",
@@ -159,6 +159,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 83,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 83,
+      "qaApproved": true
+    },
+    {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -269,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 10.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -310,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 8.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 6.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.1,
       "qaApproved": true
     },
     {
