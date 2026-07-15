@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T22:19:47.183Z",
-  "generatedAtEastern": "7/15/2026, 18:19:47",
+  "generatedAt": "2026-07-15T22:21:50.153Z",
+  "generatedAtEastern": "7/15/2026, 18:21:50",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 20,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 66.1
+      },
+      "tpv": 28.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -398,28 +420,6 @@
         "16-18": 0
       },
       "tpv": 10.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 20,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 41.2
-      },
-      "tpv": 30.6,
       "qaApproved": true
     },
     {
