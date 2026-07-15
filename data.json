@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-15T14:29:58.425Z",
-  "generatedAtEastern": "7/15/2026, 10:29:58",
+  "generatedAt": "2026-07-15T14:32:01.539Z",
+  "generatedAtEastern": "7/15/2026, 10:32:01",
   "timezone": "America/New_York",
-  "agentCount": 1,
+  "agentCount": 2,
   "agents": [
+    {
+      "agentName": "Jennifer Allen",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.4,
+      "qaApproved": true
+    },
     {
       "agentName": "Andrew Brett",
       "qualifiedXfers": 1,
