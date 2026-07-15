@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-15T21:48:59.603Z",
-  "generatedAtEastern": "7/15/2026, 17:48:59",
+  "generatedAt": "2026-07-15T21:51:02.846Z",
+  "generatedAtEastern": "7/15/2026, 17:51:02",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 83,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 14.7,
+        "15-16": 0,
+        "16-18": 28.1
+      },
+      "tpv": 41.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sharone Adoni",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -332,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 10.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 83,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 14.7,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 48.9,
       "qaApproved": true
     },
     {
