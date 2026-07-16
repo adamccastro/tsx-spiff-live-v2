@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T19:39:33.383Z",
-  "generatedAtEastern": "7/16/2026, 15:39:33",
+  "generatedAt": "2026-07-16T19:41:36.771Z",
+  "generatedAtEastern": "7/16/2026, 15:41:36",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.1,
+        "12-13": 5.2,
+        "13-14": 34.6,
+        "14-15": 0,
+        "15-16": 12.8,
+        "16-18": 0
+      },
+      "tpv": 15.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tameeka Joseph",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -112,6 +134,28 @@
         "16-18": 0
       },
       "tpv": 10.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 29,
+        "15-16": 5.8,
+        "16-18": 0
+      },
+      "tpv": 9.9,
       "qaApproved": true
     },
     {
@@ -159,28 +203,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10.1,
-        "12-13": 5.2,
-        "13-14": 34.6,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.6,
-      "qaApproved": true
-    },
-    {
       "agentName": "Sharone Adoni",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 13.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 29,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.2,
       "qaApproved": true
     },
     {
