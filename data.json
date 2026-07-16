@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T17:54:54.054Z",
-  "generatedAtEastern": "7/16/2026, 13:54:54",
+  "generatedAt": "2026-07-16T17:56:57.157Z",
+  "generatedAtEastern": "7/16/2026, 13:56:57",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.3,
+        "12-13": 8.8,
+        "13-14": 6,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -181,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 36.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 18.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Paulo Silva",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -222,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 11.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10.3,
-        "12-13": 8.8,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.6,
       "qaApproved": true
     },
     {
@@ -332,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 16.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 6.6,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 6.6,
       "qaApproved": true
     },
     {
