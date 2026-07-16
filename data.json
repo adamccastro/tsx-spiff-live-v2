@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T21:48:56.635Z",
-  "generatedAtEastern": "7/16/2026, 17:48:56",
+  "generatedAt": "2026-07-16T21:50:59.533Z",
+  "generatedAtEastern": "7/16/2026, 17:50:59",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 49.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 13.5
+      },
+      "tpv": 15.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Stengel",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -269,28 +291,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Sharone Adoni",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 49.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.4,
-      "qaApproved": true
-    },
-    {
       "agentName": "Paulo Silva",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -354,6 +354,28 @@
         "16-18": 43.9
       },
       "tpv": 22,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 4.3,
+        "15-16": 0,
+        "16-18": 26.7
+      },
+      "tpv": 15.5,
       "qaApproved": true
     },
     {
@@ -530,28 +552,6 @@
         "16-18": 0
       },
       "tpv": 16.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 4.3,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.3,
       "qaApproved": true
     }
   ]
