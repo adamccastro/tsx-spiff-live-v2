@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T18:31:49.696Z",
-  "generatedAtEastern": "7/16/2026, 14:31:49",
+  "generatedAt": "2026-07-16T18:33:52.888Z",
+  "generatedAtEastern": "7/16/2026, 14:33:52",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 31.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 38.6,
+        "12-13": 12.5,
+        "13-14": 0,
+        "14-15": 14.8,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 22,
       "qaApproved": true
     },
     {
@@ -159,28 +181,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 38.6,
-        "12-13": 12.5,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 25.6,
-      "qaApproved": true
-    },
-    {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -269,6 +269,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 18.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 17,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -354,50 +398,6 @@
         "16-18": 0
       },
       "tpv": 16.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 6.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.7,
       "qaApproved": true
     },
     {
