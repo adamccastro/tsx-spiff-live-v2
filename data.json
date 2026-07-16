@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T19:45:42.920Z",
-  "generatedAtEastern": "7/16/2026, 15:45:42",
+  "generatedAt": "2026-07-16T19:47:46.075Z",
+  "generatedAtEastern": "7/16/2026, 15:47:46",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 17.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 17,
+        "13-14": 77.2,
+        "14-15": 0,
+        "15-16": 26.8,
+        "16-18": 0
+      },
+      "tpv": 30.3,
       "qaApproved": true
     },
     {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 9.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 17,
-        "13-14": 77.2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 31.4,
       "qaApproved": true
     },
     {
