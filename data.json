@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-16T15:51:45.782Z",
-  "generatedAtEastern": "7/16/2026, 11:51:45",
+  "generatedAt": "2026-07-16T15:53:48.970Z",
+  "generatedAtEastern": "7/16/2026, 11:53:48",
   "timezone": "America/New_York",
-  "agentCount": 8,
+  "agentCount": 9,
   "agents": [
     {
       "agentName": "Isabel Jael",
@@ -156,6 +156,28 @@
         "16-18": 0
       },
       "tpv": 6.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.5,
       "qaApproved": true
     },
     {
