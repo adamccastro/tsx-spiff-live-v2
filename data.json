@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-16T19:53:55.271Z",
-  "generatedAtEastern": "7/16/2026, 15:53:55",
+  "generatedAt": "2026-07-16T19:55:58.595Z",
+  "generatedAtEastern": "7/16/2026, 15:55:58",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 38.6,
+        "12-13": 12.5,
+        "13-14": 0,
+        "14-15": 98.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 29.9,
+      "qaApproved": true
+    },
     {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 5,
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 30.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 38.6,
-        "12-13": 12.5,
-        "13-14": 0,
-        "14-15": 30.7,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 20.5,
       "qaApproved": true
     },
     {
