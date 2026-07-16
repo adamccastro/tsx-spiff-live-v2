@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-16T19:43:39.874Z",
-  "generatedAtEastern": "7/16/2026, 15:43:39",
+  "generatedAt": "2026-07-16T19:45:42.920Z",
+  "generatedAtEastern": "7/16/2026, 15:45:42",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -313,6 +313,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 4.4,
+        "16-18": 0
+      },
+      "tpv": 4.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -442,28 +464,6 @@
         "16-18": 0
       },
       "tpv": 5.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christine Stubbs",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.5,
       "qaApproved": true
     },
     {
