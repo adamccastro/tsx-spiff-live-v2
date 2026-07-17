@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T20:46:09.782Z",
-  "generatedAtEastern": "7/17/2026, 16:46:09",
+  "generatedAt": "2026-07-17T20:48:12.892Z",
+  "generatedAtEastern": "7/17/2026, 16:48:12",
   "timezone": "America/New_York",
   "agentCount": 28,
   "agents": [
@@ -401,6 +401,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 7.4,
+        "16-18": 11.7
+      },
+      "tpv": 9.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -574,28 +596,6 @@
         "16-18": 0
       },
       "tpv": 8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 7.4,
-        "16-18": 0
-      },
-      "tpv": 7.4,
       "qaApproved": true
     },
     {
