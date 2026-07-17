@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T15:00:08.447Z",
-  "generatedAtEastern": "7/17/2026, 11:00:08",
+  "generatedAt": "2026-07-17T15:01:17.332Z",
+  "generatedAtEastern": "7/17/2026, 11:01:17",
   "timezone": "America/New_York",
-  "agentCount": 6,
+  "agentCount": 8,
   "agents": [
     {
       "agentName": "Jeff Octave",
@@ -68,6 +68,50 @@
         "16-18": 0
       },
       "tpv": 14.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 13.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.8,
       "qaApproved": true
     },
     {
