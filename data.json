@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-17T21:55:54.638Z",
-  "generatedAtEastern": "7/17/2026, 17:55:54",
+  "generatedAt": "2026-07-17T21:57:57.439Z",
+  "generatedAtEastern": "7/17/2026, 17:57:57",
   "timezone": "America/New_York",
   "agentCount": 28,
   "agents": [
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 55.1,
+        "14-15": 37.5,
+        "15-16": 0,
+        "16-18": 54.1
+      },
+      "tpv": 29.3,
+      "qaApproved": true
+    },
     {
       "agentName": "Nick Marino",
       "qualifiedXfers": 5,
@@ -68,28 +90,6 @@
         "16-18": 0
       },
       "tpv": 12.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 55.1,
-        "14-15": 37.5,
-        "15-16": 0,
-        "16-18": 30.2
-      },
-      "tpv": 30.7,
       "qaApproved": true
     },
     {
