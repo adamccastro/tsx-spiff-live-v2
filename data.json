@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T19:07:37.407Z",
-  "generatedAtEastern": "7/17/2026, 15:07:37",
+  "generatedAt": "2026-07-17T19:09:40.508Z",
+  "generatedAtEastern": "7/17/2026, 15:09:40",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 25,
   "agents": [
     {
       "agentName": "Michelle Adika",
@@ -467,6 +467,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 15.3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -486,6 +508,28 @@
         "16-18": 0
       },
       "tpv": 14.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 13.8,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.8,
       "qaApproved": true
     },
     {
