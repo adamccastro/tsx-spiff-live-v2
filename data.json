@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T20:44:06.752Z",
-  "generatedAtEastern": "7/17/2026, 16:44:06",
+  "generatedAt": "2026-07-17T20:46:09.782Z",
+  "generatedAtEastern": "7/17/2026, 16:46:09",
   "timezone": "America/New_York",
-  "agentCount": 27,
+  "agentCount": 28,
   "agents": [
     {
       "agentName": "Michelle Adika",
@@ -484,6 +484,28 @@
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
+      },
+      "tpv": 17.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Bethany Jones",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 17.1
       },
       "tpv": 17.1,
       "qaApproved": true
