@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T17:25:00.262Z",
-  "generatedAtEastern": "7/17/2026, 13:25:00",
+  "generatedAt": "2026-07-17T17:27:03.142Z",
+  "generatedAtEastern": "7/17/2026, 13:27:03",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -28,11 +28,11 @@
     },
     {
       "agentName": "Jeff Octave",
-      "qualifiedXfers": 2,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 1,
-        "13-14": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
@@ -40,12 +40,12 @@
       "hourlyTpvTotal": {
         "10-12": 18.1,
         "12-13": 8.9,
-        "13-14": 0,
+        "13-14": 4.6,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 13.5,
+      "tpv": 10.5,
       "qaApproved": true
     },
     {
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 10.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.5,
+        "12-13": 0,
+        "13-14": 7.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.9,
       "qaApproved": true
     },
     {
@@ -332,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 10.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10.5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.5,
       "qaApproved": true
     },
     {
