@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T15:05:23.700Z",
-  "generatedAtEastern": "7/17/2026, 11:05:23",
+  "generatedAt": "2026-07-17T15:07:26.865Z",
+  "generatedAtEastern": "7/17/2026, 11:07:26",
   "timezone": "America/New_York",
-  "agentCount": 8,
+  "agentCount": 9,
   "agents": [
     {
       "agentName": "Jeff Octave",
@@ -178,6 +178,28 @@
         "16-18": 0
       },
       "tpv": 10.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.8,
       "qaApproved": true
     }
   ]
