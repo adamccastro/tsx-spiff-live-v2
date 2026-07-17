@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T17:43:28.421Z",
-  "generatedAtEastern": "7/17/2026, 13:43:28",
+  "generatedAt": "2026-07-17T17:45:31.546Z",
+  "generatedAtEastern": "7/17/2026, 13:45:31",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 20,
   "agents": [
     {
       "agentName": "TJ Waldron",
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 15.5,
+        "12-13": 0,
+        "13-14": 17,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Angela Brady",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -68,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 13.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.1,
+        "12-13": 0,
+        "13-14": 14.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.3,
       "qaApproved": true
     },
     {
@@ -134,6 +178,28 @@
         "16-18": 0
       },
       "tpv": 8.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 45,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 45,
       "qaApproved": true
     },
     {
@@ -247,28 +313,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Carlos Sosa",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 15.5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15.5,
-      "qaApproved": true
-    },
-    {
       "agentName": "Jennifer Allen",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -354,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 10.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.1,
       "qaApproved": true
     },
     {
