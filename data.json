@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-17T21:51:48.945Z",
-  "generatedAtEastern": "7/17/2026, 17:51:48",
+  "generatedAt": "2026-07-17T21:53:51.845Z",
+  "generatedAtEastern": "7/17/2026, 17:53:51",
   "timezone": "America/New_York",
   "agentCount": 28,
   "agents": [
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 32.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 20.3,
+        "16-18": 38.9
+      },
+      "tpv": 18.3,
+      "qaApproved": true
+    },
     {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 5,
@@ -68,28 +90,6 @@
         "16-18": 30.2
       },
       "tpv": 30.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 2,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 32.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 20.3,
-        "16-18": 29.4
-      },
-      "tpv": 20.5,
       "qaApproved": true
     },
     {
