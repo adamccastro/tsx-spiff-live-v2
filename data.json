@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-17T15:40:18.088Z",
-  "generatedAtEastern": "7/17/2026, 11:40:18",
+  "generatedAt": "2026-07-17T15:42:21.393Z",
+  "generatedAtEastern": "7/17/2026, 11:42:21",
   "timezone": "America/New_York",
-  "agentCount": 13,
+  "agentCount": 15,
   "agents": [
     {
       "agentName": "Gina Blaney",
@@ -90,6 +90,50 @@
         "16-18": 0
       },
       "tpv": 23.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 22.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 22.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Angela Brady",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 21,
       "qaApproved": true
     },
     {
