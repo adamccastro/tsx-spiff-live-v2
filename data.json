@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-20T17:31:00.755Z",
-  "generatedAtEastern": "7/20/2026, 13:31:00",
+  "generatedAt": "2026-07-20T17:33:04.362Z",
+  "generatedAtEastern": "7/20/2026, 13:33:04",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 14.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 25.1,
+        "12-13": 0,
+        "13-14": 10.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.8,
       "qaApproved": true
     },
     {
@@ -90,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 13.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 25.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 12.6,
       "qaApproved": true
     },
     {
@@ -442,6 +442,28 @@
         "16-18": 0
       },
       "tpv": 4.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 4,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4,
       "qaApproved": true
     }
   ]
