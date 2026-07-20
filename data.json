@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-20T14:46:04.067Z",
-  "generatedAtEastern": "7/20/2026, 10:46:04",
+  "generatedAt": "2026-07-20T14:48:07.129Z",
+  "generatedAtEastern": "7/20/2026, 10:48:07",
   "timezone": "America/New_York",
-  "agentCount": 4,
+  "agentCount": 5,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 20.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.1,
       "qaApproved": true
     },
     {
