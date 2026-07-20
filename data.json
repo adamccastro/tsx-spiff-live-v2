@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T20:44:05.490Z",
-  "generatedAtEastern": "7/20/2026, 16:44:05",
+  "generatedAt": "2026-07-20T20:46:08.369Z",
+  "generatedAtEastern": "7/20/2026, 16:46:08",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 20.3,
+        "13-14": 0,
+        "14-15": 40.3,
+        "15-16": 0,
+        "16-18": 8.3
+      },
+      "tpv": 23,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tameeka Joseph",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -159,25 +181,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 2,
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 3,
       "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
+        "10-12": 2,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 1,
+        "14-15": 0,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 20.3,
+        "10-12": 18.2,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 40.3,
+        "14-15": 0,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 5.3
       },
-      "tpv": 30.3,
+      "tpv": 7.8,
       "qaApproved": true
     },
     {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 13.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.1,
       "qaApproved": true
     },
     {
