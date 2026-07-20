@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-20T14:58:25.668Z",
-  "generatedAtEastern": "7/20/2026, 10:58:25",
+  "generatedAt": "2026-07-20T15:00:08.280Z",
+  "generatedAtEastern": "7/20/2026, 11:00:08",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 8,
   "agents": [
+    {
+      "agentName": "Arden Sotter",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 31.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 31.3,
+      "qaApproved": true
+    },
     {
       "agentName": "Nick Marino",
       "qualifiedXfers": 1,
@@ -24,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 20.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.8,
       "qaApproved": true
     },
     {
@@ -90,6 +134,28 @@
         "16-18": 0
       },
       "tpv": 11.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.1,
       "qaApproved": true
     },
     {
