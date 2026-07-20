@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-20T16:23:01.903Z",
-  "generatedAtEastern": "7/20/2026, 12:23:01",
+  "generatedAt": "2026-07-20T16:25:05.859Z",
+  "generatedAtEastern": "7/20/2026, 12:25:05",
   "timezone": "America/New_York",
   "agentCount": 16,
   "agents": [
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 43.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.6,
+      "qaApproved": true
+    },
     {
       "agentName": "Arden Sotter",
       "qualifiedXfers": 2,
@@ -68,28 +90,6 @@
         "16-18": 0
       },
       "tpv": 12.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 21.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.6,
       "qaApproved": true
     },
     {
