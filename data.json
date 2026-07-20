@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-20T14:31:40.515Z",
-  "generatedAtEastern": "7/20/2026, 10:31:40",
+  "generatedAt": "2026-07-20T14:33:43.804Z",
+  "generatedAtEastern": "7/20/2026, 10:33:43",
   "timezone": "America/New_York",
-  "agentCount": 2,
+  "agentCount": 3,
   "agents": [
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.5,
+      "qaApproved": true
+    },
     {
       "agentName": "Tameeka Joseph",
       "qualifiedXfers": 1,
