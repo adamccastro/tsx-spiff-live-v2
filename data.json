@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-20T21:23:07.549Z",
-  "generatedAtEastern": "7/20/2026, 17:23:07",
+  "generatedAt": "2026-07-20T21:25:13.680Z",
+  "generatedAtEastern": "7/20/2026, 17:25:13",
   "timezone": "America/New_York",
-  "agentCount": 26,
+  "agentCount": 27,
   "agents": [
     {
       "agentName": "Paulo Silva",
@@ -508,6 +508,28 @@
         "16-18": 7.7
       },
       "tpv": 7.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 7.4
+      },
+      "tpv": 7.4,
       "qaApproved": true
     },
     {
