@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-20T15:56:14.157Z",
-  "generatedAtEastern": "7/20/2026, 11:56:14",
+  "generatedAt": "2026-07-20T15:58:17.754Z",
+  "generatedAtEastern": "7/20/2026, 11:58:17",
   "timezone": "America/New_York",
   "agentCount": 15,
   "agents": [
+    {
+      "agentName": "Arden Sotter",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 63.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 31.7,
+      "qaApproved": true
+    },
     {
       "agentName": "Nick Marino",
       "qualifiedXfers": 2,
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 10.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Arden Sotter",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 31.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 31.3,
       "qaApproved": true
     },
     {
