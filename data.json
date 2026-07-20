@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-20T20:11:11.214Z",
-  "generatedAtEastern": "7/20/2026, 16:11:11",
+  "generatedAt": "2026-07-20T20:13:14.201Z",
+  "generatedAtEastern": "7/20/2026, 16:13:14",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 24,
   "agents": [
     {
       "agentName": "David Parker",
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.5,
+        "12-13": 0,
+        "13-14": 13.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 8.4
+      },
+      "tpv": 11.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Nick Marino",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -181,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Bethany Jones",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 17.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 10.3
+      },
+      "tpv": 14.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -222,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 13.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11.5,
-        "12-13": 0,
-        "13-14": 13.8,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 12.7,
       "qaApproved": true
     },
     {
@@ -327,28 +349,6 @@
         "10-12": 17.8,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Bethany Jones",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 17.8,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
@@ -442,6 +442,28 @@
         "16-18": 0
       },
       "tpv": 9.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 8.1,
+        "16-18": 0
+      },
+      "tpv": 8.1,
       "qaApproved": true
     },
     {
