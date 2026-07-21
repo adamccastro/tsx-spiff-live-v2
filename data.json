@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T20:44:35.633Z",
-  "generatedAtEastern": "7/21/2026, 16:44:35",
+  "generatedAt": "2026-07-21T20:46:38.791Z",
+  "generatedAtEastern": "7/21/2026, 16:46:38",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 16.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.8,
+        "12-13": 21.9,
+        "13-14": 0,
+        "14-15": 20.1,
+        "15-16": 0,
+        "16-18": 6.3
+      },
+      "tpv": 13.5,
       "qaApproved": true
     },
     {
@@ -115,25 +137,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Isabel Jael",
+      "agentName": "Carlos Sosa",
       "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
-        "10-12": 5.8,
-        "12-13": 21.9,
-        "13-14": 0,
-        "14-15": 20.1,
+        "10-12": 9.8,
+        "12-13": 0,
+        "13-14": 20.7,
+        "14-15": 0,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 21.4
       },
-      "tpv": 15.9,
+      "tpv": 17.3,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 25
       },
       "tpv": 18.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Carlos Sosa",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9.8,
-        "12-13": 0,
-        "13-14": 20.7,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15.3,
       "qaApproved": true
     },
     {
