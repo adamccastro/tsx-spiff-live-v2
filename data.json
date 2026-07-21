@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T21:50:16.338Z",
-  "generatedAtEastern": "7/21/2026, 17:50:16",
+  "generatedAt": "2026-07-21T21:52:19.540Z",
+  "generatedAtEastern": "7/21/2026, 17:52:19",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 72.5
+      },
+      "tpv": 21.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -90,28 +112,6 @@
         "16-18": 6.3
       },
       "tpv": 13.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 12.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 66.7
-      },
-      "tpv": 26.3,
       "qaApproved": true
     },
     {
