@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T17:06:40.931Z",
-  "generatedAtEastern": "7/21/2026, 13:06:40",
+  "generatedAt": "2026-07-21T17:08:44.149Z",
+  "generatedAtEastern": "7/21/2026, 13:08:44",
   "timezone": "America/New_York",
-  "agentCount": 11,
+  "agentCount": 13,
   "agents": [
     {
       "agentName": "Sara Jameson",
@@ -222,6 +222,50 @@
         "16-18": 0
       },
       "tpv": 9.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 9.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 8.7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.7,
       "qaApproved": true
     },
     {
