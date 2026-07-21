@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-21T15:42:23.911Z",
-  "generatedAtEastern": "7/21/2026, 11:42:23",
+  "generatedAt": "2026-07-21T15:44:27.067Z",
+  "generatedAtEastern": "7/21/2026, 11:44:27",
   "timezone": "America/New_York",
   "agentCount": 6,
   "agents": [
+    {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 41.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.8,
+      "qaApproved": true
+    },
     {
       "agentName": "Tiffany Bays",
       "qualifiedXfers": 2,
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 18.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18.5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.5,
       "qaApproved": true
     },
     {
