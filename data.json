@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T16:02:57.049Z",
-  "generatedAtEastern": "7/21/2026, 12:02:57",
+  "generatedAt": "2026-07-21T16:05:00.626Z",
+  "generatedAtEastern": "7/21/2026, 12:05:00",
   "timezone": "America/New_York",
-  "agentCount": 9,
+  "agentCount": 10,
   "agents": [
     {
       "agentName": "Sara Jameson",
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 43.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.5,
       "qaApproved": true
     },
     {
