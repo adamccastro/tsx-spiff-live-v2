@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21T21:25:38.631Z",
-  "generatedAtEastern": "7/21/2026, 17:25:38",
+  "generatedAt": "2026-07-21T21:27:41.826Z",
+  "generatedAtEastern": "7/21/2026, 17:27:41",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -335,6 +335,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 25.3
+      },
+      "tpv": 12.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -484,28 +506,6 @@
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
-      },
-      "tpv": 12.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 12.1
       },
       "tpv": 12.1,
       "qaApproved": true
