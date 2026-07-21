@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T18:18:42.075Z",
-  "generatedAtEastern": "7/21/2026, 14:18:42",
+  "generatedAt": "2026-07-21T18:20:45.379Z",
+  "generatedAtEastern": "7/21/2026, 14:20:45",
   "timezone": "America/New_York",
-  "agentCount": 15,
+  "agentCount": 17,
   "agents": [
     {
       "agentName": "Sara Jameson",
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Donald Braxton",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 26.6,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 26.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Leonora Bornn",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -266,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 12.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.3,
       "qaApproved": true
     },
     {
