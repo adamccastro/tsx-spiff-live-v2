@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-21T18:28:58.395Z",
-  "generatedAtEastern": "7/21/2026, 14:28:58",
+  "generatedAt": "2026-07-21T18:31:01.949Z",
+  "generatedAtEastern": "7/21/2026, 14:31:01",
   "timezone": "America/New_York",
-  "agentCount": 17,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Sara Jameson",
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Parker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 27,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 27,
+      "qaApproved": true
+    },
+    {
       "agentName": "Donald Braxton",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -247,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 19.6,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 19.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Leonora Bornn",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -266,6 +310,28 @@
         "16-18": 0
       },
       "tpv": 19.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 13.7,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.7,
       "qaApproved": true
     },
     {
@@ -354,6 +420,28 @@
         "16-18": 0
       },
       "tpv": 11.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 11.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.2,
       "qaApproved": true
     },
     {
