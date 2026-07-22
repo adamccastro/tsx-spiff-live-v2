@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T21:03:08.623Z",
-  "generatedAtEastern": "7/22/2026, 17:03:08",
+  "generatedAt": "2026-07-22T21:05:12.226Z",
+  "generatedAtEastern": "7/22/2026, 17:05:12",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 28.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 22.5,
+        "16-18": 24.7
+      },
+      "tpv": 19,
+      "qaApproved": true
+    },
+    {
       "agentName": "Yadi Melendez",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -222,28 +244,6 @@
         "16-18": 11.3
       },
       "tpv": 25.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Leonora Bornn",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 28.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 22.5,
-        "16-18": 20.6
-      },
-      "tpv": 24,
       "qaApproved": true
     },
     {
