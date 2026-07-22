@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T21:58:38.849Z",
-  "generatedAtEastern": "7/22/2026, 17:58:38",
+  "generatedAt": "2026-07-22T22:00:09.256Z",
+  "generatedAtEastern": "7/22/2026, 18:00:09",
   "timezone": "America/New_York",
   "agentCount": 29,
   "agents": [
@@ -511,6 +511,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 23.1
+      },
+      "tpv": 11.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -618,28 +640,6 @@
         "16-18": 0
       },
       "tpv": 7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 5.3
-      },
-      "tpv": 5.3,
       "qaApproved": true
     }
   ]
