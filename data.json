@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T22:00:42.054Z",
-  "generatedAtEastern": "7/22/2026, 18:00:42",
+  "generatedAt": "2026-07-22T22:02:45.356Z",
+  "generatedAtEastern": "7/22/2026, 18:02:45",
   "timezone": "America/New_York",
   "agentCount": 29,
   "agents": [
@@ -445,6 +445,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 39.1
+      },
+      "tpv": 19.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -596,28 +618,6 @@
         "16-18": 5.2
       },
       "tpv": 5.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 24.9
-      },
-      "tpv": 24.9,
       "qaApproved": true
     },
     {
