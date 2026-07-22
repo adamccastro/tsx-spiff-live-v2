@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T16:29:32.687Z",
-  "generatedAtEastern": "7/22/2026, 12:29:32",
+  "generatedAt": "2026-07-22T16:31:36.059Z",
+  "generatedAtEastern": "7/22/2026, 12:31:36",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
@@ -442,6 +442,28 @@
         "16-18": 0
       },
       "tpv": 5.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Donald Braxton",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5,
       "qaApproved": true
     }
   ]
