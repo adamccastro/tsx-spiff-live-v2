@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-22T15:58:42.945Z",
-  "generatedAtEastern": "7/22/2026, 11:58:42",
+  "generatedAt": "2026-07-22T16:00:07.682Z",
+  "generatedAtEastern": "7/22/2026, 12:00:07",
   "timezone": "America/New_York",
   "agentCount": 13,
   "agents": [
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 61.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 30.8,
+      "qaApproved": true
+    },
     {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 2,
@@ -68,28 +90,6 @@
         "16-18": 0
       },
       "tpv": 56.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 46.9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 46.9,
       "qaApproved": true
     },
     {
