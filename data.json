@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T20:28:11.540Z",
-  "generatedAtEastern": "7/22/2026, 16:28:11",
+  "generatedAt": "2026-07-22T20:30:14.894Z",
+  "generatedAtEastern": "7/22/2026, 16:30:14",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
@@ -335,6 +335,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jessica Seay",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 13,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 34
+      },
+      "tpv": 23.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -530,28 +552,6 @@
         "16-18": 0
       },
       "tpv": 13.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jessica Seay",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 13,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13,
       "qaApproved": true
     },
     {
