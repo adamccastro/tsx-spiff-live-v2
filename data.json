@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-22T20:15:50.314Z",
-  "generatedAtEastern": "7/22/2026, 16:15:50",
+  "generatedAt": "2026-07-22T20:17:53.576Z",
+  "generatedAtEastern": "7/22/2026, 16:17:53",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 7,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 3,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5.1,
+        "13-14": 13.5,
+        "14-15": 16.9,
+        "15-16": 33.2,
+        "16-18": 5.8
+      },
+      "tpv": 10.6,
+      "qaApproved": true
+    },
     {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 6,
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 11.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 6,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 3,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 5.1,
-        "13-14": 13.5,
-        "14-15": 16.9,
-        "15-16": 33.2,
-        "16-18": 0
-      },
-      "tpv": 11.5,
       "qaApproved": true
     },
     {
