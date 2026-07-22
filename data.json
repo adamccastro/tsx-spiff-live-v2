@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T16:08:59.441Z",
-  "generatedAtEastern": "7/22/2026, 12:08:59",
+  "generatedAt": "2026-07-22T16:11:02.897Z",
+  "generatedAtEastern": "7/22/2026, 12:11:02",
   "timezone": "America/New_York",
-  "agentCount": 14,
+  "agentCount": 15,
   "agents": [
     {
       "agentName": "TJ Waldron",
@@ -288,6 +288,28 @@
         "16-18": 0
       },
       "tpv": 10.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 10.2,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.2,
       "qaApproved": true
     },
     {
