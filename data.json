@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-22T21:52:29.017Z",
-  "generatedAtEastern": "7/22/2026, 17:52:29",
+  "generatedAt": "2026-07-22T21:54:32.144Z",
+  "generatedAtEastern": "7/22/2026, 17:54:32",
   "timezone": "America/New_York",
-  "agentCount": 28,
+  "agentCount": 29,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.4,
+        "12-13": 4.2,
+        "13-14": 0,
+        "14-15": 4.8,
+        "15-16": 4.6,
+        "16-18": 17.5
+      },
+      "tpv": 9.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Yadi Melendez",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -159,28 +181,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 23.4,
-        "12-13": 4.2,
-        "13-14": 0,
-        "14-15": 4.8,
-        "15-16": 4.6,
-        "16-18": 6.1
-      },
-      "tpv": 8.6,
-      "qaApproved": true
-    },
-    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -200,6 +200,28 @@
         "16-18": 0
       },
       "tpv": 27.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 56.7,
+        "12-13": 0,
+        "13-14": 7.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 28.1
+      },
+      "tpv": 23.1,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 11,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 56.7,
-        "12-13": 0,
-        "13-14": 7.5,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 11.3
-      },
-      "tpv": 25.2,
       "qaApproved": true
     },
     {
@@ -574,6 +574,28 @@
         "16-18": 5.2
       },
       "tpv": 5.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 24.9
+      },
+      "tpv": 24.9,
       "qaApproved": true
     },
     {
