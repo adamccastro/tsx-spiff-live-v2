@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T19:59:21.635Z",
-  "generatedAtEastern": "7/22/2026, 15:59:21",
+  "generatedAt": "2026-07-22T20:00:07.741Z",
+  "generatedAtEastern": "7/22/2026, 16:00:07",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
@@ -379,6 +379,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Donald Braxton",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 22.5,
+        "16-18": 0
+      },
+      "tpv": 13.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Andrew Brett",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -552,28 +574,6 @@
         "16-18": 0
       },
       "tpv": 7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Donald Braxton",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 5,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5,
       "qaApproved": true
     },
     {
