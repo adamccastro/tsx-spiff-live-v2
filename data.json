@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-22T20:54:55.375Z",
-  "generatedAtEastern": "7/22/2026, 16:54:55",
+  "generatedAt": "2026-07-22T20:56:58.534Z",
+  "generatedAtEastern": "7/22/2026, 16:56:58",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
@@ -72,14 +72,14 @@
     },
     {
       "agentName": "Gina Blaney",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 0,
         "12-13": 1,
         "13-14": 1,
         "14-15": 2,
         "15-16": 1,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 0,
@@ -87,9 +87,9 @@
         "13-14": 6.9,
         "14-15": 49.6,
         "15-16": 8.6,
-        "16-18": 0
+        "16-18": 5.8
       },
-      "tpv": 15.5,
+      "tpv": 13.9,
       "qaApproved": true
     },
     {
