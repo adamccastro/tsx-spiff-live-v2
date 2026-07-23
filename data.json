@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T20:45:23.106Z",
-  "generatedAtEastern": "7/23/2026, 16:45:23",
+  "generatedAt": "2026-07-23T20:47:26.395Z",
+  "generatedAtEastern": "7/23/2026, 16:47:26",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 8.7,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 45.1
+      },
+      "tpv": 17.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Andrew Brett",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 18.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 8.7,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 25.4
-      },
-      "tpv": 17.1,
       "qaApproved": true
     },
     {
