@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T22:36:28.881Z",
-  "generatedAtEastern": "7/23/2026, 18:36:28",
+  "generatedAt": "2026-07-23T22:38:32.051Z",
+  "generatedAtEastern": "7/23/2026, 18:38:32",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -71,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 2,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 22.9,
+        "12-13": 17.8,
+        "13-14": 6,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 90.1
+      },
+      "tpv": 22.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sharone Adoni",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -112,28 +134,6 @@
         "16-18": 42.6
       },
       "tpv": 11.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 2,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 22.9,
-        "12-13": 17.8,
-        "13-14": 6,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 7.5
-      },
-      "tpv": 10.8,
       "qaApproved": true
     },
     {
