@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T19:27:15.242Z",
-  "generatedAtEastern": "7/23/2026, 15:27:15",
+  "generatedAt": "2026-07-23T19:29:18.630Z",
+  "generatedAtEastern": "7/23/2026, 15:29:18",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.2,
+        "12-13": 8.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 10.1,
+        "16-18": 0
+      },
+      "tpv": 12.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -310,28 +332,6 @@
         "16-18": 0
       },
       "tpv": 15.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Yadi Melendez",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 19.2,
-        "12-13": 8.3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13.8,
       "qaApproved": true
     },
     {
