@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-23T15:59:33.600Z",
-  "generatedAtEastern": "7/23/2026, 11:59:33",
+  "generatedAt": "2026-07-23T16:00:08.987Z",
+  "generatedAtEastern": "7/23/2026, 12:00:08",
   "timezone": "America/New_York",
-  "agentCount": 13,
+  "agentCount": 14,
   "agents": [
     {
       "agentName": "Angela Brady",
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 7.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.4,
       "qaApproved": true
     },
     {
@@ -247,7 +269,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Oreste Bacigalupo",
+      "agentName": "TJ Waldron",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -258,14 +280,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 4.9,
+        "10-12": 5.9,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 4.9,
+      "tpv": 5.9,
       "qaApproved": true
     },
     {
