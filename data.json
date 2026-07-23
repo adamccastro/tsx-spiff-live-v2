@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T18:27:35.069Z",
-  "generatedAtEastern": "7/23/2026, 14:27:35",
+  "generatedAt": "2026-07-23T18:29:38.166Z",
+  "generatedAtEastern": "7/23/2026, 14:29:38",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 42,
+        "13-14": 30.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 36.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Donald Braxton",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -310,28 +332,6 @@
         "16-18": 0
       },
       "tpv": 5.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Leonora Bornn",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 42,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 42,
       "qaApproved": true
     },
     {
