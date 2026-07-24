@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-24T16:19:16.348Z",
-  "generatedAtEastern": "7/24/2026, 12:19:16",
+  "generatedAt": "2026-07-24T16:21:19.819Z",
+  "generatedAtEastern": "7/24/2026, 12:21:19",
   "timezone": "America/New_York",
-  "agentCount": 13,
+  "agentCount": 14,
   "agents": [
     {
       "agentName": "Michelle Adika",
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 11.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.8,
+        "12-13": 4.5,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.2,
       "qaApproved": true
     },
     {
@@ -137,25 +159,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Tameeka Joseph",
+      "agentName": "Donald Braxton",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 1,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 9.8,
-        "12-13": 0,
+        "10-12": 0,
+        "12-13": 10.4,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 9.8,
+      "tpv": 10.4,
       "qaApproved": true
     },
     {
