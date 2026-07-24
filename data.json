@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T21:44:23.245Z",
-  "generatedAtEastern": "7/24/2026, 17:44:23",
+  "generatedAt": "2026-07-24T21:46:26.265Z",
+  "generatedAtEastern": "7/24/2026, 17:46:26",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -134,6 +134,28 @@
         "16-18": 8.6
       },
       "tpv": 20,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Angela Brady",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 43.9
+      },
+      "tpv": 18.5,
       "qaApproved": true
     },
     {
@@ -420,28 +442,6 @@
         "16-18": 8.6
       },
       "tpv": 11.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Angela Brady",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 5.4
-      },
-      "tpv": 8.6,
       "qaApproved": true
     },
     {
