@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-24T15:00:20.640Z",
-  "generatedAtEastern": "7/24/2026, 11:00:20",
+  "generatedAt": "2026-07-24T15:02:24.034Z",
+  "generatedAtEastern": "7/24/2026, 11:02:24",
   "timezone": "America/New_York",
-  "agentCount": 2,
+  "agentCount": 3,
   "agents": [
+    {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.9,
+      "qaApproved": true
+    },
     {
       "agentName": "Nick Marino",
       "qualifiedXfers": 1,
