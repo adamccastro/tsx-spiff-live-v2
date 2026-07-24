@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T20:36:34.316Z",
-  "generatedAtEastern": "7/24/2026, 16:36:34",
+  "generatedAt": "2026-07-24T20:38:37.996Z",
+  "generatedAtEastern": "7/24/2026, 16:38:37",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -291,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 10.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 15.1
+      },
+      "tpv": 12.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Donald Braxton",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -332,6 +354,28 @@
         "16-18": 0
       },
       "tpv": 11.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Angela Brady",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 5.4
+      },
+      "tpv": 8.6,
       "qaApproved": true
     },
     {
@@ -420,50 +464,6 @@
         "16-18": 0
       },
       "tpv": 12.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Angela Brady",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 10.5,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.5,
       "qaApproved": true
     },
     {
