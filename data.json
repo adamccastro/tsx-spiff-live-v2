@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T20:34:31.090Z",
-  "generatedAtEastern": "7/24/2026, 16:34:31",
+  "generatedAt": "2026-07-24T20:36:34.316Z",
+  "generatedAtEastern": "7/24/2026, 16:36:34",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -159,6 +159,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 15.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 12.8
+      },
+      "tpv": 9.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -310,28 +332,6 @@
         "16-18": 0
       },
       "tpv": 11.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 15.5,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.8,
       "qaApproved": true
     },
     {
