@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T18:20:47.067Z",
-  "generatedAtEastern": "7/24/2026, 14:20:47",
+  "generatedAt": "2026-07-24T18:22:50.071Z",
+  "generatedAtEastern": "7/24/2026, 14:22:50",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -156,6 +156,28 @@
         "16-18": 0
       },
       "tpv": 21.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.2,
+        "12-13": 0,
+        "13-14": 33,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.1,
       "qaApproved": true
     },
     {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 10.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 7.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.2,
       "qaApproved": true
     },
     {
