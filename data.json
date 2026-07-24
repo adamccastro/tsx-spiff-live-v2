@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-24T15:33:13.160Z",
-  "generatedAtEastern": "7/24/2026, 11:33:13",
+  "generatedAt": "2026-07-24T15:35:16.132Z",
+  "generatedAtEastern": "7/24/2026, 11:35:16",
   "timezone": "America/New_York",
-  "agentCount": 7,
+  "agentCount": 9,
   "agents": [
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 18,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 18,
+      "qaApproved": true
+    },
     {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 1,
@@ -46,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.8,
       "qaApproved": true
     },
     {
