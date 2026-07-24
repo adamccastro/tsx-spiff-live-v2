@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-24T21:05:21.631Z",
-  "generatedAtEastern": "7/24/2026, 17:05:21",
+  "generatedAt": "2026-07-24T21:07:24.974Z",
+  "generatedAtEastern": "7/24/2026, 17:07:24",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -71,6 +71,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 10.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 49
+      },
+      "tpv": 14.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 22.9,
+        "12-13": 0,
+        "13-14": 9,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 12.7
+      },
+      "tpv": 11.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -112,28 +156,6 @@
         "16-18": 7.6
       },
       "tpv": 15,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 10.5,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 29.7
-      },
-      "tpv": 13.4,
       "qaApproved": true
     },
     {
@@ -200,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 12.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 22.9,
-        "12-13": 0,
-        "13-14": 9,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10.6,
       "qaApproved": true
     },
     {
