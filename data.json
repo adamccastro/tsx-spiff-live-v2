@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T16:44:16.293Z",
-  "generatedAtEastern": "7/27/2026, 12:44:16",
+  "generatedAt": "2026-07-27T16:46:19.599Z",
+  "generatedAtEastern": "7/27/2026, 12:46:19",
   "timezone": "America/New_York",
-  "agentCount": 14,
+  "agentCount": 15,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -244,6 +244,28 @@
         "16-18": 0
       },
       "tpv": 11.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.9,
       "qaApproved": true
     },
     {
