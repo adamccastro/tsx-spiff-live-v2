@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-27T14:41:01.688Z",
-  "generatedAtEastern": "7/27/2026, 10:41:01",
+  "generatedAt": "2026-07-27T14:43:04.782Z",
+  "generatedAtEastern": "7/27/2026, 10:43:04",
   "timezone": "America/New_York",
-  "agentCount": 2,
+  "agentCount": 3,
   "agents": [
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.5,
+      "qaApproved": true
+    },
     {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 1,
