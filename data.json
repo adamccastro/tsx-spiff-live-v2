@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-27T14:45:08.260Z",
-  "generatedAtEastern": "7/27/2026, 10:45:08",
+  "generatedAt": "2026-07-27T14:47:11.389Z",
+  "generatedAtEastern": "7/27/2026, 10:47:11",
   "timezone": "America/New_York",
-  "agentCount": 3,
+  "agentCount": 4,
   "agents": [
     {
       "agentName": "Gina Blaney",
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 9.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Donald Braxton",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.8,
       "qaApproved": true
     }
   ]
