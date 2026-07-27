@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T21:41:56.892Z",
-  "generatedAtEastern": "7/27/2026, 17:41:56",
+  "generatedAt": "2026-07-27T21:44:00.129Z",
+  "generatedAtEastern": "7/27/2026, 17:44:00",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 44.6,
+        "12-13": 0,
+        "13-14": 11.2,
+        "14-15": 5,
+        "15-16": 0,
+        "16-18": 20.4
+      },
+      "tpv": 13.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -90,28 +112,6 @@
         "16-18": 16.3
       },
       "tpv": 14.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 44.6,
-        "12-13": 0,
-        "13-14": 11.2,
-        "14-15": 5,
-        "15-16": 0,
-        "16-18": 5.4
-      },
-      "tpv": 13.2,
       "qaApproved": true
     },
     {
