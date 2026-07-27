@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T22:14:55.461Z",
-  "generatedAtEastern": "7/27/2026, 18:14:55",
+  "generatedAt": "2026-07-27T22:16:58.749Z",
+  "generatedAtEastern": "7/27/2026, 18:16:58",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -401,6 +401,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 13.4
+      },
+      "tpv": 9.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Carlos Sosa",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -508,28 +530,6 @@
         "16-18": 0
       },
       "tpv": 14.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 13.4
-      },
-      "tpv": 13.4,
       "qaApproved": true
     },
     {
