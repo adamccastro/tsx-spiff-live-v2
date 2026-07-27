@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T21:02:56.569Z",
-  "generatedAtEastern": "7/27/2026, 17:02:56",
+  "generatedAt": "2026-07-27T21:04:59.431Z",
+  "generatedAtEastern": "7/27/2026, 17:04:59",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.5,
+        "12-13": 0,
+        "13-14": 8.3,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 29.7
+      },
+      "tpv": 16.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jessica Seay",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 10.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 11.5,
-        "12-13": 0,
-        "13-14": 8.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.9,
       "qaApproved": true
     },
     {
