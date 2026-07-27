@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T18:24:49.078Z",
-  "generatedAtEastern": "7/27/2026, 14:24:49",
+  "generatedAt": "2026-07-27T18:26:52.066Z",
+  "generatedAtEastern": "7/27/2026, 14:26:52",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -115,6 +115,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.9,
+        "12-13": 0,
+        "13-14": 8.1,
+        "14-15": 5.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5.7,
+        "13-14": 0,
+        "14-15": 12.7,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -225,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Jessica Seay",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 26,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -266,28 +332,6 @@
         "16-18": 0
       },
       "tpv": 9.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sharone Adoni",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10.9,
-        "12-13": 0,
-        "13-14": 8.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.5,
       "qaApproved": true
     },
     {
@@ -335,28 +379,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Jessica Seay",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 9.3,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.3,
-      "qaApproved": true
-    },
-    {
       "agentName": "Angela Brady",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -398,28 +420,6 @@
         "16-18": 0
       },
       "tpv": 6.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Leonora Bornn",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 5.7,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.7,
       "qaApproved": true
     }
   ]
