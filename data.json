@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-07-27T14:51:17.642Z",
-  "generatedAtEastern": "7/27/2026, 10:51:17",
+  "generatedAt": "2026-07-27T14:53:20.744Z",
+  "generatedAtEastern": "7/27/2026, 10:53:20",
   "timezone": "America/New_York",
-  "agentCount": 4,
+  "agentCount": 6,
   "agents": [
+    {
+      "agentName": "Yadi Melendez",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 26.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 26.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.1,
+      "qaApproved": true
+    },
     {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 1,
