@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-27T19:12:02.710Z",
-  "generatedAtEastern": "7/27/2026, 15:12:02",
+  "generatedAt": "2026-07-27T19:14:05.687Z",
+  "generatedAtEastern": "7/27/2026, 15:14:05",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 2,
         "13-14": 0,
-        "14-15": 1,
+        "14-15": 2,
         "15-16": 0,
         "16-18": 0
       },
@@ -19,11 +19,11 @@
         "10-12": 38.7,
         "12-13": 29.4,
         "13-14": 0,
-        "14-15": 26.8,
+        "14-15": 61.3,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 19,
+      "tpv": 21.6,
       "qaApproved": true
     },
     {
@@ -313,6 +313,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sara Jameson",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 6.9,
+        "16-18": 0
+      },
+      "tpv": 10.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 26.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sara Jameson",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.4,
       "qaApproved": true
     },
     {
