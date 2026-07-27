@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-07-27T21:17:17.968Z",
-  "generatedAtEastern": "7/27/2026, 17:17:17",
+  "generatedAt": "2026-07-27T21:19:21.003Z",
+  "generatedAtEastern": "7/27/2026, 17:19:21",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
     {
       "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 6,
+      "qualifiedXfers": 7,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 2,
         "13-14": 0,
         "14-15": 2,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 38.7,
@@ -21,21 +21,21 @@
         "13-14": 0,
         "14-15": 61.3,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 4.2
       },
-      "tpv": 21.6,
+      "tpv": 19.1,
       "qaApproved": true
     },
     {
       "agentName": "Isabel Jael",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 0,
         "13-14": 1,
         "14-15": 1,
         "15-16": 2,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 12.1,
@@ -43,9 +43,9 @@
         "13-14": 16.1,
         "14-15": 4.4,
         "15-16": 19.8,
-        "16-18": 0
+        "16-18": 7.9
       },
-      "tpv": 10.5,
+      "tpv": 10,
       "qaApproved": true
     },
     {
