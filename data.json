@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27T21:56:24.953Z",
-  "generatedAtEastern": "7/27/2026, 17:56:24",
+  "generatedAt": "2026-07-27T21:58:28.581Z",
+  "generatedAtEastern": "7/27/2026, 17:58:28",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -379,6 +379,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 6.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 9.2
+      },
+      "tpv": 7.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Arden Sotter",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -530,28 +552,6 @@
         "16-18": 0
       },
       "tpv": 6.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Carlos Sosa",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 6.1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 6.1,
       "qaApproved": true
     }
   ]
