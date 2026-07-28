@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T22:02:16.046Z",
-  "generatedAtEastern": "7/28/2026, 18:02:16",
+  "generatedAt": "2026-07-28T22:04:19.272Z",
+  "generatedAtEastern": "7/28/2026, 18:04:19",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 15.8,
+        "15-16": 0,
+        "16-18": 4.5
+      },
+      "tpv": 8.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 10.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 15.8,
-        "15-16": 0,
-        "16-18": 4.5
-      },
-      "tpv": 9.7,
       "qaApproved": true
     },
     {
