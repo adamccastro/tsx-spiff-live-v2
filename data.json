@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-28T14:38:30.517Z",
-  "generatedAtEastern": "7/28/2026, 10:38:30",
+  "generatedAt": "2026-07-28T14:40:33.719Z",
+  "generatedAtEastern": "7/28/2026, 10:40:33",
   "timezone": "America/New_York",
-  "agentCount": 2,
+  "agentCount": 3,
   "agents": [
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.8,
+      "qaApproved": true
+    },
     {
       "agentName": "Angela Brady",
       "qualifiedXfers": 1,
