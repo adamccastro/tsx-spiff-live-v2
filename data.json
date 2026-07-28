@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-28T18:32:43.798Z",
-  "generatedAtEastern": "7/28/2026, 14:32:43",
+  "generatedAt": "2026-07-28T18:34:46.874Z",
+  "generatedAtEastern": "7/28/2026, 14:34:46",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 20,
   "agents": [
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 28.2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.2,
+      "qaApproved": true
+    },
     {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 3,
@@ -93,10 +115,10 @@
       "qaApproved": true
     },
     {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 3,
+      "agentName": "Arden Sotter",
+      "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 2,
+        "10-12": 1,
         "12-13": 0,
         "13-14": 0,
         "14-15": 1,
@@ -104,14 +126,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 20.5,
+        "10-12": 14.3,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 7.7,
+        "14-15": 23.2,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 9.4,
+      "tpv": 18.8,
       "qaApproved": true
     },
     {
@@ -269,28 +291,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Arden Sotter",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.3,
-      "qaApproved": true
-    },
-    {
       "agentName": "TJ Waldron",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -394,6 +394,28 @@
         "12-13": 0,
         "13-14": 5.7,
         "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 5.7,
         "15-16": 0,
         "16-18": 0
       },
