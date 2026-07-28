@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-28T18:20:24.350Z",
-  "generatedAtEastern": "7/28/2026, 14:20:24",
+  "generatedAt": "2026-07-28T18:22:27.565Z",
+  "generatedAtEastern": "7/28/2026, 14:22:27",
   "timezone": "America/New_York",
-  "agentCount": 16,
+  "agentCount": 19,
   "agents": [
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 34.3,
+        "12-13": 4.9,
+        "13-14": 0,
+        "14-15": 13.6,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.6,
+      "qaApproved": true
+    },
     {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 3,
@@ -24,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 14.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Angela Brady",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.3,
+        "12-13": 8.3,
+        "13-14": 0,
+        "14-15": 15.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.8,
       "qaApproved": true
     },
     {
@@ -71,25 +115,47 @@
       "qaApproved": true
     },
     {
-      "agentName": "Gina Blaney",
+      "agentName": "Leonora Bornn",
       "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 1,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 34.3,
-        "12-13": 4.9,
+        "10-12": 0,
+        "12-13": 18.4,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 15.5,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 19.6,
+      "tpv": 17,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 15.8,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.3,
       "qaApproved": true
     },
     {
@@ -115,47 +181,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Angela Brady",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.3,
-        "12-13": 8.3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Leonora Bornn",
+      "agentName": "Tiffany Bays",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
+        "12-13": 0,
+        "13-14": 1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
         "10-12": 0,
-        "12-13": 18.4,
-        "13-14": 0,
+        "12-13": 0,
+        "13-14": 20.8,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 18.4,
+      "tpv": 20.8,
       "qaApproved": true
     },
     {
@@ -269,21 +313,43 @@
       "qaApproved": true
     },
     {
-      "agentName": "Paulo Silva",
+      "agentName": "Carlos Sosa",
       "qualifiedXfers": 1,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 0,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 8.8,
+        "10-12": 0,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 0,
+        "14-15": 10,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christine Stubbs",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 8.8,
         "15-16": 0,
         "16-18": 0
       },
