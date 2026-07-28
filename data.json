@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-28T15:01:05.631Z",
-  "generatedAtEastern": "7/28/2026, 11:01:05",
+  "generatedAt": "2026-07-28T15:03:08.808Z",
+  "generatedAtEastern": "7/28/2026, 11:03:08",
   "timezone": "America/New_York",
-  "agentCount": 3,
+  "agentCount": 4,
   "agents": [
+    {
+      "agentName": "Donald Braxton",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.9,
+      "qaApproved": true
+    },
     {
       "agentName": "Paulo Silva",
       "qualifiedXfers": 1,
@@ -49,7 +71,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Donald Braxton",
+      "agentName": "Stephanie Artigas",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -60,14 +82,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 6.1,
+        "10-12": 5.8,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 6.1,
+      "tpv": 5.8,
       "qaApproved": true
     }
   ]
