@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-29T15:04:18.914Z",
-  "generatedAtEastern": "7/29/2026, 11:04:18",
+  "generatedAt": "2026-07-29T15:06:22.063Z",
+  "generatedAtEastern": "7/29/2026, 11:06:22",
   "timezone": "America/New_York",
-  "agentCount": 10,
+  "agentCount": 13,
   "agents": [
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 35.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.7,
+      "qaApproved": true
+    },
     {
       "agentName": "Arden Sotter",
       "qualifiedXfers": 2,
@@ -49,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20,
+      "qaApproved": true
+    },
+    {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -68,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 15,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.4,
       "qaApproved": true
     },
     {
@@ -181,7 +247,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Isabel Jael",
+      "agentName": "TJ Waldron",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -192,14 +258,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 5.7,
+        "10-12": 5,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 5.7,
+      "tpv": 5,
       "qaApproved": true
     },
     {
