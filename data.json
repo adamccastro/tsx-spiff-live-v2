@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-07-29T14:25:17.876Z",
-  "generatedAtEastern": "7/29/2026, 10:25:17",
+  "generatedAt": "2026-07-29T14:27:21.096Z",
+  "generatedAtEastern": "7/29/2026, 10:27:21",
   "timezone": "America/New_York",
-  "agentCount": 0,
-  "agents": []
+  "agentCount": 1,
+  "agents": [
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.1,
+      "qaApproved": true
+    }
+  ]
 }
