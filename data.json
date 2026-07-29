@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T15:43:23.419Z",
-  "generatedAtEastern": "7/29/2026, 11:43:23",
+  "generatedAt": "2026-07-29T15:45:26.503Z",
+  "generatedAtEastern": "7/29/2026, 11:45:26",
   "timezone": "America/New_York",
   "agentCount": 18,
   "agents": [
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 12.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Arden Sotter",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.8,
       "qaApproved": true
     },
     {
@@ -112,28 +134,6 @@
         "16-18": 0
       },
       "tpv": 13.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Arden Sotter",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.4,
       "qaApproved": true
     },
     {
