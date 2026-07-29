@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T20:24:42.779Z",
-  "generatedAtEastern": "7/29/2026, 16:24:42",
+  "generatedAt": "2026-07-29T20:26:45.876Z",
+  "generatedAtEastern": "7/29/2026, 16:26:45",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20,
+        "12-13": 0,
+        "13-14": 60.4,
+        "14-15": 0,
+        "15-16": 23.3,
+        "16-18": 18.7
+      },
+      "tpv": 24.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Devon Halbert",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -112,28 +134,6 @@
         "16-18": 4.9
       },
       "tpv": 9.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Carlos Sosa",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 20,
-        "12-13": 0,
-        "13-14": 60.4,
-        "14-15": 0,
-        "15-16": 23.3,
-        "16-18": 0
-      },
-      "tpv": 25.9,
       "qaApproved": true
     },
     {
