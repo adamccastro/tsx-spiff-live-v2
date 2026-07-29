@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-29T17:17:53.085Z",
-  "generatedAtEastern": "7/29/2026, 13:17:53",
+  "generatedAt": "2026-07-29T17:19:56.207Z",
+  "generatedAtEastern": "7/29/2026, 13:19:56",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 45.6,
+        "12-13": 0,
+        "13-14": 8.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 18,
+      "qaApproved": true
+    },
     {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 3,
@@ -112,28 +134,6 @@
         "16-18": 0
       },
       "tpv": 7.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Eustace Berreta",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 45.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 22.8,
       "qaApproved": true
     },
     {
