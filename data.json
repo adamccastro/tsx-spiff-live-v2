@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T21:52:56.917Z",
-  "generatedAtEastern": "7/29/2026, 17:52:56",
+  "generatedAt": "2026-07-29T21:54:59.991Z",
+  "generatedAtEastern": "7/29/2026, 17:54:59",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 3,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 29.7,
+        "16-18": 5.7
+      },
+      "tpv": 9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -269,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 18.9,
+        "16-18": 23.3
+      },
+      "tpv": 12.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -288,28 +332,6 @@
         "16-18": 5.4
       },
       "tpv": 11.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sharone Adoni",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 3,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 29.7,
-        "16-18": 0
-      },
-      "tpv": 9.9,
       "qaApproved": true
     },
     {
@@ -376,28 +398,6 @@
         "16-18": 0
       },
       "tpv": 15.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 18.9,
-        "16-18": 12
-      },
-      "tpv": 12.6,
       "qaApproved": true
     },
     {
