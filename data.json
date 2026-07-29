@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T15:49:32.810Z",
-  "generatedAtEastern": "7/29/2026, 11:49:32",
+  "generatedAt": "2026-07-29T15:51:36.093Z",
+  "generatedAtEastern": "7/29/2026, 11:51:36",
   "timezone": "America/New_York",
   "agentCount": 18,
   "agents": [
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 17.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 33,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.5,
       "qaApproved": true
     },
     {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 8.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tonya Giordano",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8,
       "qaApproved": true
     },
     {
