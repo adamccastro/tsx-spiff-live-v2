@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T20:49:19.475Z",
-  "generatedAtEastern": "7/29/2026, 16:49:19",
+  "generatedAt": "2026-07-29T20:51:22.630Z",
+  "generatedAtEastern": "7/29/2026, 16:51:22",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 35.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 5.9,
+        "16-18": 5.4
+      },
+      "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sharone Adoni",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -332,28 +354,6 @@
         "16-18": 0
       },
       "tpv": 15.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Isabel Jael",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 35.4,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 5.9,
-        "16-18": 0
-      },
-      "tpv": 13.8,
       "qaApproved": true
     },
     {
