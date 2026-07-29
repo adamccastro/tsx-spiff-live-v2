@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T20:55:28.926Z",
-  "generatedAtEastern": "7/29/2026, 16:55:28",
+  "generatedAt": "2026-07-29T20:57:32.211Z",
+  "generatedAtEastern": "7/29/2026, 16:57:32",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -357,6 +357,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 18.9,
+        "16-18": 12
+      },
+      "tpv": 12.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Arden Sotter",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -398,28 +420,6 @@
         "16-18": 0
       },
       "tpv": 31.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 18.9,
-        "16-18": 0
-      },
-      "tpv": 13,
       "qaApproved": true
     },
     {
