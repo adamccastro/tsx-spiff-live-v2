@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-29T18:23:33.460Z",
-  "generatedAtEastern": "7/29/2026, 14:23:33",
+  "generatedAt": "2026-07-29T18:25:36.818Z",
+  "generatedAtEastern": "7/29/2026, 14:25:36",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -247,6 +247,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Angela Brady",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 27,
+        "12-13": 0,
+        "13-14": 35.9,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 31.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 6.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Angela Brady",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 27,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 27,
       "qaApproved": true
     },
     {
