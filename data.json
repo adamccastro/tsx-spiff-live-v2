@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T21:19:37.801Z",
-  "generatedAtEastern": "7/30/2026, 17:19:37",
+  "generatedAt": "2026-07-30T21:21:41.115Z",
+  "generatedAtEastern": "7/30/2026, 17:21:41",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
@@ -467,6 +467,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 14.6
+      },
+      "tpv": 11.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Stephanie Artigas",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -508,28 +530,6 @@
         "16-18": 0
       },
       "tpv": 21.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sharone Adoni",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 7.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.7,
       "qaApproved": true
     },
     {
