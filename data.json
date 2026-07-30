@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-30T15:44:30.090Z",
-  "generatedAtEastern": "7/30/2026, 11:44:30",
+  "generatedAt": "2026-07-30T15:46:33.240Z",
+  "generatedAtEastern": "7/30/2026, 11:46:33",
   "timezone": "America/New_York",
-  "agentCount": 12,
+  "agentCount": 13,
   "agents": [
     {
       "agentName": "Kenneth Martin",
@@ -68,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 15,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.7,
       "qaApproved": true
     },
     {
