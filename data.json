@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-30T18:22:52.339Z",
-  "generatedAtEastern": "7/30/2026, 14:22:52",
+  "generatedAt": "2026-07-30T18:24:55.325Z",
+  "generatedAtEastern": "7/30/2026, 14:24:55",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
+    {
+      "agentName": "Tiffany Bays",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.6,
+        "12-13": 0,
+        "13-14": 38.4,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15,
+      "qaApproved": true
+    },
     {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 3,
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 11.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tiffany Bays",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6.6,
-        "12-13": 0,
-        "13-14": 6.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 6.4,
       "qaApproved": true
     },
     {
