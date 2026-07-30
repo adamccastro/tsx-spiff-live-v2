@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-30T22:33:37.226Z",
-  "generatedAtEastern": "7/30/2026, 18:33:37",
+  "generatedAt": "2026-07-30T22:35:40.172Z",
+  "generatedAtEastern": "7/30/2026, 18:35:40",
   "timezone": "America/New_York",
   "agentCount": 27,
   "agents": [
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 7,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.6,
+        "12-13": 0,
+        "13-14": 21,
+        "14-15": 5.5,
+        "15-16": 30.8,
+        "16-18": 9.2
+      },
+      "tpv": 13.6,
+      "qaApproved": true
+    },
     {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 6,
@@ -24,28 +46,6 @@
         "16-18": 55
       },
       "tpv": 16.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 6,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 21.6,
-        "12-13": 0,
-        "13-14": 21,
-        "14-15": 5.5,
-        "15-16": 30.8,
-        "16-18": 9.2
-      },
-      "tpv": 14.7,
       "qaApproved": true
     },
     {
@@ -401,6 +401,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 4.1,
+        "15-16": 0,
+        "16-18": 11.1
+      },
+      "tpv": 9.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Anthony Canales",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -486,28 +508,6 @@
         "16-18": 4.1
       },
       "tpv": 15.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Paulo Silva",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 4.1,
-        "15-16": 0,
-        "16-18": 11.1
-      },
-      "tpv": 7.6,
       "qaApproved": true
     },
     {
