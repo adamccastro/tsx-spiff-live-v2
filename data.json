@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-30T19:26:32.249Z",
-  "generatedAtEastern": "7/30/2026, 15:26:32",
+  "generatedAt": "2026-07-30T19:28:35.495Z",
+  "generatedAtEastern": "7/30/2026, 15:28:35",
   "timezone": "America/New_York",
-  "agentCount": 24,
+  "agentCount": 25,
   "agents": [
     {
       "agentName": "Andrew Brett",
@@ -376,6 +376,28 @@
         "16-18": 0
       },
       "tpv": 5.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 35.7,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 35.7,
       "qaApproved": true
     },
     {
