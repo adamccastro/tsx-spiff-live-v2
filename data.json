@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T18:14:39.570Z",
-  "generatedAtEastern": "7/30/2026, 14:14:39",
+  "generatedAt": "2026-07-30T18:16:42.854Z",
+  "generatedAtEastern": "7/30/2026, 14:16:42",
   "timezone": "America/New_York",
   "agentCount": 20,
   "agents": [
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 9.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Jeff Octave",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.3,
+        "12-13": 10.4,
+        "13-14": 0,
+        "14-15": 4.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.5,
       "qaApproved": true
     },
     {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 11.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Jeff Octave",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.3,
-        "12-13": 10.4,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.4,
       "qaApproved": true
     },
     {
