@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-07-30T18:55:43.915Z",
-  "generatedAtEastern": "7/30/2026, 14:55:43",
+  "generatedAt": "2026-07-30T18:57:46.900Z",
+  "generatedAtEastern": "7/30/2026, 14:57:46",
   "timezone": "America/New_York",
-  "agentCount": 21,
+  "agentCount": 23,
   "agents": [
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 64.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tiffany Bays",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.6,
+        "12-13": 0,
+        "13-14": 38.4,
+        "14-15": 11.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.1,
+      "qaApproved": true
+    },
     {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 4,
@@ -27,47 +71,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Andrew Brett",
+      "agentName": "Gina Blaney",
       "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 0,
-        "13-14": 0,
-        "14-15": 2,
+        "13-14": 1,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 7.1,
+        "10-12": 4.2,
         "12-13": 0,
-        "13-14": 0,
-        "14-15": 48.2,
+        "13-14": 28.1,
+        "14-15": 11.7,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 18.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tiffany Bays",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 2,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 6.6,
-        "12-13": 0,
-        "13-14": 38.4,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15,
+      "tpv": 14.7,
       "qaApproved": true
     },
     {
@@ -178,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 16.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.2,
-        "12-13": 0,
-        "13-14": 28.1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16.2,
       "qaApproved": true
     },
     {
@@ -357,6 +357,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 21.4,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 21.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christine Stubbs",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -446,6 +468,28 @@
     },
     {
       "agentName": "Paulo Silva",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 4.1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 0,
