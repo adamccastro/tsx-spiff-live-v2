@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T18:04:20.648Z",
-  "generatedAtEastern": "7/30/2026, 14:04:20",
+  "generatedAt": "2026-07-30T18:06:25.293Z",
+  "generatedAtEastern": "7/30/2026, 14:06:25",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 12.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tara Schumacker",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10,
+        "12-13": 0,
+        "13-14": 13.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.9,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 13.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tara Schumacker",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 10,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 10,
       "qaApproved": true
     },
     {
