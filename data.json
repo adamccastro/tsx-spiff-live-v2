@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-30T14:51:03.658Z",
-  "generatedAtEastern": "7/30/2026, 10:51:03",
+  "generatedAt": "2026-07-30T14:53:07.709Z",
+  "generatedAtEastern": "7/30/2026, 10:53:07",
   "timezone": "America/New_York",
-  "agentCount": 4,
+  "agentCount": 6,
   "agents": [
     {
       "agentName": "Kenneth Martin",
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 15,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15,
+      "qaApproved": true
+    },
+    {
       "agentName": "Devon Halbert",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -90,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 7.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.2,
       "qaApproved": true
     }
   ]
