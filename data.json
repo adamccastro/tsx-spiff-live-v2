@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T15:50:32.847Z",
-  "generatedAtEastern": "7/31/2026, 11:50:32",
+  "generatedAt": "2026-07-31T15:52:36.423Z",
+  "generatedAtEastern": "7/31/2026, 11:52:36",
   "timezone": "America/New_York",
-  "agentCount": 14,
+  "agentCount": 16,
   "agents": [
     {
       "agentName": "Gina Blaney",
@@ -310,6 +310,50 @@
         "16-18": 0
       },
       "tpv": 6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.6,
       "qaApproved": true
     }
   ]
