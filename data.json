@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T15:23:44.105Z",
-  "generatedAtEastern": "7/31/2026, 11:23:44",
+  "generatedAt": "2026-07-31T15:25:47.471Z",
+  "generatedAtEastern": "7/31/2026, 11:25:47",
   "timezone": "America/New_York",
-  "agentCount": 7,
+  "agentCount": 8,
   "agents": [
     {
       "agentName": "Stephanie Artigas",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 5.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 22.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 22.6,
       "qaApproved": true
     },
     {
