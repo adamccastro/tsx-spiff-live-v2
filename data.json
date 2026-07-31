@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-07-31T16:05:01.979Z",
-  "generatedAtEastern": "7/31/2026, 12:05:01",
+  "generatedAt": "2026-07-31T16:07:05.348Z",
+  "generatedAtEastern": "7/31/2026, 12:07:05",
   "timezone": "America/New_York",
   "agentCount": 16,
   "agents": [
     {
       "agentName": "Gina Blaney",
-      "qualifiedXfers": 2,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
-        "10-12": 2,
+        "10-12": 3,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
@@ -16,14 +16,36 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 33.8,
+        "10-12": 40.5,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 16.9,
+      "tpv": 13.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 15.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.3,
       "qaApproved": true
     },
     {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 5.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Leonora Bornn",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 4.5,
       "qaApproved": true
     },
     {
