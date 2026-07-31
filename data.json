@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-31T19:24:55.808Z",
-  "generatedAtEastern": "7/31/2026, 15:24:55",
+  "generatedAt": "2026-07-31T19:26:59.743Z",
+  "generatedAtEastern": "7/31/2026, 15:26:59",
   "timezone": "America/New_York",
-  "agentCount": 22,
+  "agentCount": 23,
   "agents": [
     {
       "agentName": "Leonora Bornn",
@@ -269,6 +269,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 9,
+        "15-16": 12,
+        "16-18": 0
+      },
+      "tpv": 10.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -445,6 +467,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 11,
+        "16-18": 0
+      },
+      "tpv": 11,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Stengel",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -464,28 +508,6 @@
         "16-18": 0
       },
       "tpv": 10.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Mitchell",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 9,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9,
       "qaApproved": true
     }
   ]
