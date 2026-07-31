@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-07-31T14:42:34.861Z",
-  "generatedAtEastern": "7/31/2026, 10:42:34",
+  "generatedAt": "2026-07-31T14:44:38.054Z",
+  "generatedAtEastern": "7/31/2026, 10:44:38",
   "timezone": "America/New_York",
-  "agentCount": 2,
+  "agentCount": 4,
   "agents": [
+    {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 15.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.4,
+      "qaApproved": true
+    },
     {
       "agentName": "Christine Stubbs",
       "qualifiedXfers": 1,
