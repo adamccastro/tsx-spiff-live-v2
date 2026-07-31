@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-07-31T18:00:27.463Z",
-  "generatedAtEastern": "7/31/2026, 14:00:27",
+  "generatedAt": "2026-07-31T18:02:30.774Z",
+  "generatedAtEastern": "7/31/2026, 14:02:30",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
     {
       "agentName": "Leonora Bornn",
-      "qualifiedXfers": 4,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 4,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 2,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
@@ -18,12 +18,34 @@
       "hourlyTpvTotal": {
         "10-12": 49.4,
         "12-13": 0,
-        "13-14": 0,
+        "13-14": 32.1,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 12.4,
+      "tpv": 13.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 2,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 22.6,
+        "12-13": 0,
+        "13-14": 39.8,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.8,
       "qaApproved": true
     },
     {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 49,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Carlos Sosa",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 22.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 22.6,
       "qaApproved": true
     },
     {
