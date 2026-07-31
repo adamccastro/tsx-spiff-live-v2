@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-07-31T15:42:17.741Z",
-  "generatedAtEastern": "7/31/2026, 11:42:17",
+  "generatedAt": "2026-07-31T15:44:21.416Z",
+  "generatedAtEastern": "7/31/2026, 11:44:21",
   "timezone": "America/New_York",
-  "agentCount": 10,
+  "agentCount": 13,
   "agents": [
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 25.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.7,
+      "qaApproved": true
+    },
     {
       "agentName": "David Parker",
       "qualifiedXfers": 2,
@@ -49,6 +71,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 28.9,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 28.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Carlos Sosa",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -68,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 22.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tonya Giordano",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 20.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.2,
       "qaApproved": true
     },
     {
@@ -115,7 +181,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Paulo Silva",
+      "agentName": "Sara Jameson",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -126,14 +192,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 11.4,
+        "10-12": 12.7,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 11.4,
+      "tpv": 12.7,
       "qaApproved": true
     },
     {
