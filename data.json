@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T16:48:18.950Z",
-  "generatedAtEastern": "7/31/2026, 12:48:18",
+  "generatedAt": "2026-07-31T16:50:24.990Z",
+  "generatedAtEastern": "7/31/2026, 12:50:24",
   "timezone": "America/New_York",
   "agentCount": 17,
   "agents": [
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 12.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.9,
       "qaApproved": true
     },
     {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 10.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 5,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5,
       "qaApproved": true
     }
   ]
