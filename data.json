@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-31T17:23:24.160Z",
-  "generatedAtEastern": "7/31/2026, 13:23:24",
+  "generatedAt": "2026-07-31T17:25:27.241Z",
+  "generatedAtEastern": "7/31/2026, 13:25:27",
   "timezone": "America/New_York",
   "agentCount": 17,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 12.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.8,
+        "12-13": 28.8,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15.5,
       "qaApproved": true
     },
     {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 11.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sharone Adoni",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 17.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.9,
       "qaApproved": true
     },
     {
