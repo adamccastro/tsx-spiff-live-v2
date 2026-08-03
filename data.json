@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-03T20:17:59.009Z",
-  "generatedAtEastern": "8/3/2026, 16:17:59",
+  "generatedAt": "2026-08-03T20:20:02.413Z",
+  "generatedAtEastern": "8/3/2026, 16:20:02",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
     {
       "agentName": "Nick Marino",
-      "qualifiedXfers": 6,
+      "qualifiedXfers": 7,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 1,
         "13-14": 1,
         "14-15": 2,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 1
       },
       "hourlyTpvTotal": {
         "10-12": 23.8,
@@ -21,9 +21,9 @@
         "13-14": 6.9,
         "14-15": 49.2,
         "15-16": 0,
-        "16-18": 0
+        "16-18": 8.1
       },
-      "tpv": 14.2,
+      "tpv": 13.4,
       "qaApproved": true
     },
     {
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.7,
+        "12-13": 59.4,
+        "13-14": 55.2,
+        "14-15": 0,
+        "15-16": 6.3,
+        "16-18": 6.2
+      },
+      "tpv": 27.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Donald Braxton",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -68,28 +90,6 @@
         "16-18": 0
       },
       "tpv": 15.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 9.7,
-        "12-13": 59.4,
-        "13-14": 55.2,
-        "14-15": 0,
-        "15-16": 6.3,
-        "16-18": 0
-      },
-      "tpv": 32.7,
       "qaApproved": true
     },
     {
