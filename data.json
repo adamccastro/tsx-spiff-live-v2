@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T20:03:33.786Z",
-  "generatedAtEastern": "8/3/2026, 16:03:33",
+  "generatedAt": "2026-08-03T20:05:37.412Z",
+  "generatedAtEastern": "8/3/2026, 16:05:37",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.6,
+        "12-13": 21.3,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 6.8,
+        "16-18": 0
+      },
+      "tpv": 14.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sam Hill",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 35.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 16.6,
-        "12-13": 21.3,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 19,
       "qaApproved": true
     },
     {
