@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T18:26:47.814Z",
-  "generatedAtEastern": "8/3/2026, 14:26:47",
+  "generatedAt": "2026-08-03T18:28:51.150Z",
+  "generatedAtEastern": "8/3/2026, 14:28:51",
   "timezone": "America/New_York",
   "agentCount": 21,
   "agents": [
@@ -27,6 +27,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.8,
+        "12-13": 5.5,
+        "13-14": 6.9,
+        "14-15": 12.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -49,25 +71,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 4,
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 3,
       "hourlyXfers": {
-        "10-12": 2,
+        "10-12": 1,
         "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
+        "13-14": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 23.8,
-        "12-13": 5.5,
-        "13-14": 6.9,
-        "14-15": 0,
+        "10-12": 70,
+        "12-13": 11.8,
+        "13-14": 0,
+        "14-15": 4.1,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 9.1,
+      "tpv": 28.6,
       "qaApproved": true
     },
     {
@@ -159,28 +181,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Gina Blaney",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 70,
-        "12-13": 11.8,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 40.9,
-      "qaApproved": true
-    },
-    {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -200,6 +200,28 @@
         "16-18": 0
       },
       "tpv": 34.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Stephanie Artigas",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 32.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 8.3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 20.5,
       "qaApproved": true
     },
     {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 6.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Stephanie Artigas",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 32.7,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 32.7,
       "qaApproved": true
     },
     {
