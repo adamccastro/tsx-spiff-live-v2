@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T21:07:29.638Z",
-  "generatedAtEastern": "8/3/2026, 17:07:29",
+  "generatedAt": "2026-08-03T21:09:32.856Z",
+  "generatedAtEastern": "8/3/2026, 17:09:32",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -90,6 +90,28 @@
         "16-18": 0
       },
       "tpv": 15.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.1,
+        "12-13": 9.2,
+        "13-14": 10.2,
+        "14-15": 5.8,
+        "15-16": 0,
+        "16-18": 8.6
+      },
+      "tpv": 7.6,
       "qaApproved": true
     },
     {
@@ -203,28 +225,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "David Parker",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 4.1,
-        "12-13": 9.2,
-        "13-14": 10.2,
-        "14-15": 5.8,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.3,
-      "qaApproved": true
-    },
-    {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -291,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 25.6
+      },
+      "tpv": 13.2,
+      "qaApproved": true
+    },
+    {
       "agentName": "Fred Massaro",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 14
       },
       "tpv": 16.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 14.9
-      },
-      "tpv": 14.5,
       "qaApproved": true
     },
     {
