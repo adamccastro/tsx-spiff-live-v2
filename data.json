@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-03T21:48:39.005Z",
-  "generatedAtEastern": "8/3/2026, 17:48:39",
+  "generatedAt": "2026-08-03T21:50:42.273Z",
+  "generatedAtEastern": "8/3/2026, 17:50:42",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
     {
       "agentName": "Nick Marino",
-      "qualifiedXfers": 9,
+      "qualifiedXfers": 10,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 1,
         "13-14": 1,
         "14-15": 2,
         "15-16": 1,
-        "16-18": 2
+        "16-18": 3
       },
       "hourlyTpvTotal": {
         "10-12": 23.8,
@@ -21,9 +21,9 @@
         "13-14": 6.9,
         "14-15": 49.2,
         "15-16": 38.8,
-        "16-18": 21.6
+        "16-18": 37
       },
-      "tpv": 16.2,
+      "tpv": 16.1,
       "qaApproved": true
     },
     {
@@ -137,6 +137,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sam Hill",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.4,
+        "12-13": 8,
+        "13-14": 0,
+        "14-15": 14.5,
+        "15-16": 0,
+        "16-18": 23.1
+      },
+      "tpv": 11.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -178,28 +200,6 @@
         "16-18": 0
       },
       "tpv": 22,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sam Hill",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 12.4,
-        "12-13": 8,
-        "13-14": 0,
-        "14-15": 14.5,
-        "15-16": 0,
-        "16-18": 12.6
-      },
-      "tpv": 11.9,
       "qaApproved": true
     },
     {
