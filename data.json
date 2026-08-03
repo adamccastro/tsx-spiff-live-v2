@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T20:51:00.526Z",
-  "generatedAtEastern": "8/3/2026, 16:51:00",
+  "generatedAt": "2026-08-03T20:53:04.408Z",
+  "generatedAtEastern": "8/3/2026, 16:53:04",
   "timezone": "America/New_York",
-  "agentCount": 24,
+  "agentCount": 25,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -335,6 +335,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 19.2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 14
+      },
+      "tpv": 16.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 14.9
+      },
+      "tpv": 14.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Leonora Bornn",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -401,28 +445,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Sharone Adoni",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 19.2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 19.2,
-      "qaApproved": true
-    },
-    {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -442,28 +464,6 @@
         "16-18": 0
       },
       "tpv": 18.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14,
       "qaApproved": true
     },
     {
@@ -530,6 +530,28 @@
         "16-18": 0
       },
       "tpv": 5.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Bethany Jones",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 4.1
+      },
+      "tpv": 4.1,
       "qaApproved": true
     }
   ]
