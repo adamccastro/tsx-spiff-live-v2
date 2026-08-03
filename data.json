@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03T17:24:56.016Z",
-  "generatedAtEastern": "8/3/2026, 13:24:56",
+  "generatedAt": "2026-08-03T17:26:59.249Z",
+  "generatedAtEastern": "8/3/2026, 13:26:59",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 13.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Donald Braxton",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 25.5,
+        "12-13": 8.6,
+        "13-14": 10,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.7,
       "qaApproved": true
     },
     {
@@ -156,28 +178,6 @@
         "16-18": 0
       },
       "tpv": 19,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Donald Braxton",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 25.5,
-        "12-13": 8.6,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17.1,
       "qaApproved": true
     },
     {
