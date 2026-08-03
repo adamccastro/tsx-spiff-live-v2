@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T15:17:05.174Z",
-  "generatedAtEastern": "8/3/2026, 11:17:05",
+  "generatedAt": "2026-08-03T15:19:08.635Z",
+  "generatedAtEastern": "8/3/2026, 11:19:08",
   "timezone": "America/New_York",
-  "agentCount": 5,
+  "agentCount": 6,
   "agents": [
     {
       "agentName": "Donald Braxton",
@@ -24,6 +24,28 @@
         "16-18": 0
       },
       "tpv": 25.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 18.5,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 18.5,
       "qaApproved": true
     },
     {
