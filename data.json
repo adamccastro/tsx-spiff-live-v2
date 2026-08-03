@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T15:23:15.471Z",
-  "generatedAtEastern": "8/3/2026, 11:23:15",
+  "generatedAt": "2026-08-03T15:25:18.806Z",
+  "generatedAtEastern": "8/3/2026, 11:25:18",
   "timezone": "America/New_York",
-  "agentCount": 7,
+  "agentCount": 9,
   "agents": [
     {
       "agentName": "Donald Braxton",
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 18.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 17.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 17.1,
       "qaApproved": true
     },
     {
@@ -112,6 +134,28 @@
         "16-18": 0
       },
       "tpv": 10.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 9.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 9.7,
       "qaApproved": true
     },
     {
