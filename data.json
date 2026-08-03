@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-03T21:46:35.561Z",
-  "generatedAtEastern": "8/3/2026, 17:46:35",
+  "generatedAt": "2026-08-03T21:48:39.005Z",
+  "generatedAtEastern": "8/3/2026, 17:48:39",
   "timezone": "America/New_York",
-  "agentCount": 25,
+  "agentCount": 26,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -486,6 +486,28 @@
         "16-18": 0
       },
       "tpv": 18.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Angela Brady",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 15.4
+      },
+      "tpv": 15.4,
       "qaApproved": true
     },
     {
