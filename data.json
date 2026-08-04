@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-08-04T14:25:12.539Z",
-  "generatedAtEastern": "8/4/2026, 10:25:12",
+  "generatedAt": "2026-08-04T14:27:15.801Z",
+  "generatedAtEastern": "8/4/2026, 10:27:15",
   "timezone": "America/New_York",
-  "agentCount": 0,
-  "agents": []
+  "agentCount": 1,
+  "agents": [
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.3,
+      "qaApproved": true
+    }
+  ]
 }
