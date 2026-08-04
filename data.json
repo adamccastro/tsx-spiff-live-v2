@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-08-04T19:04:56.355Z",
-  "generatedAtEastern": "8/4/2026, 15:04:56",
+  "generatedAt": "2026-08-04T19:06:59.467Z",
+  "generatedAtEastern": "8/4/2026, 15:06:59",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
+    {
+      "agentName": "Nick Marino",
+      "qualifiedXfers": 6,
+      "hourlyXfers": {
+        "10-12": 4,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 74.4,
+        "12-13": 0,
+        "13-14": 5.6,
+        "14-15": 20.3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.7,
+      "qaApproved": true
+    },
     {
       "agentName": "Eustace Berreta",
       "qualifiedXfers": 5,
@@ -24,28 +46,6 @@
         "16-18": 0
       },
       "tpv": 19.8,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Nick Marino",
-      "qualifiedXfers": 5,
-      "hourlyXfers": {
-        "10-12": 4,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 74.4,
-        "12-13": 0,
-        "13-14": 5.6,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 16,
       "qaApproved": true
     },
     {
