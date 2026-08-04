@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-04T15:47:29.286Z",
-  "generatedAtEastern": "8/4/2026, 11:47:29",
+  "generatedAt": "2026-08-04T15:49:32.501Z",
+  "generatedAtEastern": "8/4/2026, 11:49:32",
   "timezone": "America/New_York",
-  "agentCount": 10,
+  "agentCount": 11,
   "agents": [
     {
       "agentName": "Nick Marino",
@@ -72,6 +72,28 @@
     },
     {
       "agentName": "Tonya Giordano",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 26.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -82,14 +104,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 17.3,
+        "10-12": 15.9,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 17.3,
+      "tpv": 15.9,
       "qaApproved": true
     },
     {
