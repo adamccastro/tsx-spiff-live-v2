@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T19:37:50.974Z",
-  "generatedAtEastern": "8/4/2026, 15:37:50",
+  "generatedAt": "2026-08-04T19:39:53.949Z",
+  "generatedAtEastern": "8/4/2026, 15:39:53",
   "timezone": "America/New_York",
   "agentCount": 24,
   "agents": [
@@ -50,13 +50,13 @@
     },
     {
       "agentName": "Carlos Sosa",
-      "qualifiedXfers": 4,
+      "qualifiedXfers": 5,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 1,
         "13-14": 2,
         "14-15": 0,
-        "15-16": 0,
+        "15-16": 1,
         "16-18": 0
       },
       "hourlyTpvTotal": {
@@ -64,10 +64,10 @@
         "12-13": 17.3,
         "13-14": 39.3,
         "14-15": 0,
-        "15-16": 0,
+        "15-16": 5.3,
         "16-18": 0
       },
-      "tpv": 21,
+      "tpv": 17.8,
       "qaApproved": true
     },
     {
