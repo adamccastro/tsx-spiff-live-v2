@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T21:59:46.015Z",
-  "generatedAtEastern": "8/4/2026, 17:59:46",
+  "generatedAt": "2026-08-04T22:00:07.934Z",
+  "generatedAtEastern": "8/4/2026, 18:00:07",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.3,
+        "12-13": 15.8,
+        "13-14": 0,
+        "14-15": 23.6,
+        "15-16": 0,
+        "16-18": 38.8
+      },
+      "tpv": 18.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 5,
       "hourlyXfers": {
@@ -156,28 +178,6 @@
         "16-18": 8.3
       },
       "tpv": 10.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Oreste Bacigalupo",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 12.3,
-        "12-13": 15.8,
-        "13-14": 0,
-        "14-15": 23.6,
-        "15-16": 0,
-        "16-18": 21.2
-      },
-      "tpv": 18.2,
       "qaApproved": true
     },
     {
