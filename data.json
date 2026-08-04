@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04T18:48:27.797Z",
-  "generatedAtEastern": "8/4/2026, 14:48:27",
+  "generatedAt": "2026-08-04T18:50:30.975Z",
+  "generatedAtEastern": "8/4/2026, 14:50:30",
   "timezone": "America/New_York",
   "agentCount": 22,
   "agents": [
@@ -291,6 +291,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 17,
+        "13-14": 0,
+        "14-15": 15.1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -354,28 +376,6 @@
         "16-18": 0
       },
       "tpv": 27.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Christopher Westbrook",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 17,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17,
       "qaApproved": true
     },
     {
