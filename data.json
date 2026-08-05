@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-05T14:41:25.888Z",
-  "generatedAtEastern": "8/5/2026, 10:41:25",
+  "generatedAt": "2026-08-05T14:43:29.134Z",
+  "generatedAtEastern": "8/5/2026, 10:43:29",
   "timezone": "America/New_York",
-  "agentCount": 2,
+  "agentCount": 3,
   "agents": [
     {
       "agentName": "Tiffany Bays",
-      "qualifiedXfers": 1,
+      "qualifiedXfers": 2,
       "hourlyXfers": {
-        "10-12": 1,
+        "10-12": 2,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
@@ -16,14 +16,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 15.8,
+        "10-12": 21.9,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 15.8,
+      "tpv": 11,
       "qaApproved": true
     },
     {
@@ -46,6 +46,28 @@
         "16-18": 0
       },
       "tpv": 10.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Parker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 6.7,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.7,
       "qaApproved": true
     }
   ]
