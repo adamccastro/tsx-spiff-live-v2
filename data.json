@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T22:01:42.464Z",
-  "generatedAtEastern": "8/5/2026, 18:01:42",
+  "generatedAt": "2026-08-05T22:03:45.596Z",
+  "generatedAtEastern": "8/5/2026, 18:03:45",
   "timezone": "America/New_York",
-  "agentCount": 25,
+  "agentCount": 26,
   "agents": [
     {
       "agentName": "Anthony Canales",
@@ -464,6 +464,28 @@
         "16-18": 0
       },
       "tpv": 17.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 12.6
+      },
+      "tpv": 12.6,
       "qaApproved": true
     },
     {
