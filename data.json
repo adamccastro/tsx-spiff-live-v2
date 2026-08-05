@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T15:12:25.536Z",
-  "generatedAtEastern": "8/5/2026, 11:12:25",
+  "generatedAt": "2026-08-05T15:14:28.691Z",
+  "generatedAtEastern": "8/5/2026, 11:14:28",
   "timezone": "America/New_York",
-  "agentCount": 7,
+  "agentCount": 9,
   "agents": [
     {
       "agentName": "Tiffany Bays",
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 7.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 7.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -138,6 +160,28 @@
     },
     {
       "agentName": "Nick Marino",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 4.6,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 4.6,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tonya Giordano",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
