@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T16:14:10.680Z",
-  "generatedAtEastern": "8/5/2026, 12:14:10",
+  "generatedAt": "2026-08-05T16:16:14.253Z",
+  "generatedAtEastern": "8/5/2026, 12:16:14",
   "timezone": "America/New_York",
-  "agentCount": 16,
+  "agentCount": 17,
   "agents": [
     {
       "agentName": "Anthony Canales",
@@ -200,6 +200,28 @@
         "16-18": 0
       },
       "tpv": 16.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 12.8,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.8,
       "qaApproved": true
     },
     {
