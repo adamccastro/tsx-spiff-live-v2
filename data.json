@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T20:12:46.535Z",
-  "generatedAtEastern": "8/5/2026, 16:12:46",
+  "generatedAt": "2026-08-05T20:14:50.905Z",
+  "generatedAtEastern": "8/5/2026, 16:14:50",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 24,
   "agents": [
     {
       "agentName": "Anthony Canales",
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 10.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Eustace Berreta",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 12.8,
+        "13-14": 17.8,
+        "14-15": 0,
+        "15-16": 23.8,
+        "16-18": 0
+      },
+      "tpv": 18.1,
       "qaApproved": true
     },
     {
@@ -291,28 +313,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Eustace Berreta",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 12.8,
-        "13-14": 17.8,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 15.3,
-      "qaApproved": true
-    },
-    {
       "agentName": "Michelle Adika",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -486,6 +486,28 @@
         "16-18": 0
       },
       "tpv": 10.2,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 9.6
+      },
+      "tpv": 9.6,
       "qaApproved": true
     },
     {
