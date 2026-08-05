@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T19:48:08.612Z",
-  "generatedAtEastern": "8/5/2026, 15:48:08",
+  "generatedAt": "2026-08-05T19:50:11.635Z",
+  "generatedAtEastern": "8/5/2026, 15:50:11",
   "timezone": "America/New_York",
   "agentCount": 23,
   "agents": [
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tiffany Bays",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.9,
+        "12-13": 0,
+        "13-14": 33.6,
+        "14-15": 0,
+        "15-16": 7.5,
+        "16-18": 0
+      },
+      "tpv": 15.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Nick Marino",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -90,28 +112,6 @@
         "16-18": 0
       },
       "tpv": 10.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tiffany Bays",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 21.9,
-        "12-13": 0,
-        "13-14": 33.6,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.5,
       "qaApproved": true
     },
     {
@@ -178,6 +178,28 @@
         "16-18": 0
       },
       "tpv": 10.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Carlos Sosa",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 2,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 16.1,
+        "14-15": 0,
+        "15-16": 14.3,
+        "16-18": 0
+      },
+      "tpv": 10.1,
       "qaApproved": true
     },
     {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 15.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Carlos Sosa",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 16.1,
-        "14-15": 0,
-        "15-16": 5.9,
-        "16-18": 0
-      },
-      "tpv": 11,
       "qaApproved": true
     },
     {
