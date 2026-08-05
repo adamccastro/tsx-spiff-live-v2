@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T16:26:31.536Z",
-  "generatedAtEastern": "8/5/2026, 12:26:31",
+  "generatedAt": "2026-08-05T16:28:35.627Z",
+  "generatedAtEastern": "8/5/2026, 12:28:35",
   "timezone": "America/New_York",
-  "agentCount": 17,
+  "agentCount": 18,
   "agents": [
     {
       "agentName": "Anthony Canales",
@@ -112,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 38.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Leonora Bornn",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 35.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 35.3,
       "qaApproved": true
     },
     {
