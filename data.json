@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-05T16:03:50.883Z",
-  "generatedAtEastern": "8/5/2026, 12:03:50",
+  "generatedAt": "2026-08-05T16:05:53.983Z",
+  "generatedAtEastern": "8/5/2026, 12:05:53",
   "timezone": "America/New_York",
-  "agentCount": 15,
+  "agentCount": 16,
   "agents": [
     {
       "agentName": "Anthony Canales",
@@ -226,6 +226,28 @@
     },
     {
       "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 10.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.4,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sara Jameson",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
