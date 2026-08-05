@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05T21:30:54.248Z",
-  "generatedAtEastern": "8/5/2026, 17:30:54",
+  "generatedAt": "2026-08-05T21:32:57.284Z",
+  "generatedAtEastern": "8/5/2026, 17:32:57",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -28,14 +28,14 @@
     },
     {
       "agentName": "Nick Marino",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 2,
         "12-13": 0,
         "13-14": 1,
         "14-15": 1,
         "15-16": 0,
-        "16-18": 1
+        "16-18": 2
       },
       "hourlyTpvTotal": {
         "10-12": 20.7,
@@ -43,9 +43,9 @@
         "13-14": 10.2,
         "14-15": 18.3,
         "15-16": 0,
-        "16-18": 8.1
+        "16-18": 34.6
       },
-      "tpv": 11.5,
+      "tpv": 14,
       "qaApproved": true
     },
     {
