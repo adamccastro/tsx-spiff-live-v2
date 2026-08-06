@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T21:10:21.024Z",
-  "generatedAtEastern": "8/6/2026, 17:10:21",
+  "generatedAt": "2026-08-06T21:12:24.050Z",
+  "generatedAtEastern": "8/6/2026, 17:12:24",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -225,6 +225,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.3,
+        "12-13": 6.1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 4.7
+      },
+      "tpv": 7.7,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -288,6 +310,28 @@
         "16-18": 0
       },
       "tpv": 13,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tiffany Bays",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 21.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 4.7
+      },
+      "tpv": 12.9,
       "qaApproved": true
     },
     {
@@ -379,28 +423,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 12.3,
-        "12-13": 6.1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 9.2,
-      "qaApproved": true
-    },
-    {
       "agentName": "Donald Braxton",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -464,28 +486,6 @@
         "16-18": 0
       },
       "tpv": 27.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tiffany Bays",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 21.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 21.1,
       "qaApproved": true
     },
     {
