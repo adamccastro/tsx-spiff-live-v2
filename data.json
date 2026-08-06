@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T21:24:42.212Z",
-  "generatedAtEastern": "8/6/2026, 17:24:42",
+  "generatedAt": "2026-08-06T21:26:45.281Z",
+  "generatedAtEastern": "8/6/2026, 17:26:45",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -28,14 +28,14 @@
     },
     {
       "agentName": "Sharone Adoni",
-      "qualifiedXfers": 5,
+      "qualifiedXfers": 6,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 0,
         "13-14": 1,
         "14-15": 1,
         "15-16": 1,
-        "16-18": 1
+        "16-18": 2
       },
       "hourlyTpvTotal": {
         "10-12": 42.6,
@@ -43,9 +43,31 @@
         "13-14": 13.5,
         "14-15": 4.2,
         "15-16": 13.9,
-        "16-18": 11.9
+        "16-18": 20.9
       },
-      "tpv": 17.2,
+      "tpv": 15.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 7.9,
+        "13-14": 0,
+        "14-15": 9.8,
+        "15-16": 14,
+        "16-18": 24.4
+      },
+      "tpv": 11.2,
       "qaApproved": true
     },
     {
@@ -115,25 +137,25 @@
       "qaApproved": true
     },
     {
-      "agentName": "Tameeka Joseph",
+      "agentName": "David Parker",
       "qualifiedXfers": 4,
       "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
+        "10-12": 1,
+        "12-13": 0,
         "13-14": 0,
         "14-15": 1,
-        "15-16": 1,
-        "16-18": 1
+        "15-16": 0,
+        "16-18": 2
       },
       "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 7.9,
+        "10-12": 14.3,
+        "12-13": 0,
         "13-14": 0,
-        "14-15": 9.8,
-        "15-16": 14,
-        "16-18": 20.1
+        "14-15": 15.3,
+        "15-16": 0,
+        "16-18": 18.7
       },
-      "tpv": 13,
+      "tpv": 12.1,
       "qaApproved": true
     },
     {
@@ -222,28 +244,6 @@
         "16-18": 0
       },
       "tpv": 14.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Parker",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 15.3,
-        "15-16": 0,
-        "16-18": 11.1
-      },
-      "tpv": 13.6,
       "qaApproved": true
     },
     {
