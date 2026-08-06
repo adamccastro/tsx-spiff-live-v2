@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T18:57:05.103Z",
-  "generatedAtEastern": "8/6/2026, 14:57:05",
+  "generatedAt": "2026-08-06T18:59:08.114Z",
+  "generatedAtEastern": "8/6/2026, 14:59:08",
   "timezone": "America/New_York",
-  "agentCount": 23,
+  "agentCount": 24,
   "agents": [
     {
       "agentName": "Anthony Canales",
@@ -50,12 +50,12 @@
     },
     {
       "agentName": "Sharone Adoni",
-      "qualifiedXfers": 2,
+      "qualifiedXfers": 3,
       "hourlyXfers": {
         "10-12": 1,
         "12-13": 0,
         "13-14": 1,
-        "14-15": 0,
+        "14-15": 1,
         "15-16": 0,
         "16-18": 0
       },
@@ -63,11 +63,11 @@
         "10-12": 42.6,
         "12-13": 0,
         "13-14": 13.5,
-        "14-15": 0,
+        "14-15": 4.2,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 28.1,
+      "tpv": 20.1,
       "qaApproved": true
     },
     {
@@ -115,6 +115,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 31.8,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 15.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "David Parker",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -134,6 +156,28 @@
         "16-18": 0
       },
       "tpv": 14.8,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Angela Brady",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 26.3,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13.2,
       "qaApproved": true
     },
     {
@@ -379,7 +423,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Michelle Adika",
+      "agentName": "Donald Braxton",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 0,
@@ -393,11 +437,11 @@
         "10-12": 0,
         "12-13": 0,
         "13-14": 0,
-        "14-15": 8.5,
+        "14-15": 9.9,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 8.5,
+      "tpv": 9.9,
       "qaApproved": true
     },
     {
@@ -464,28 +508,6 @@
         "16-18": 0
       },
       "tpv": 7.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Angela Brady",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 5.5,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 5.5,
       "qaApproved": true
     },
     {
