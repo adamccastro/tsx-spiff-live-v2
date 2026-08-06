@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T18:16:02.958Z",
-  "generatedAtEastern": "8/6/2026, 14:16:02",
+  "generatedAt": "2026-08-06T18:18:05.986Z",
+  "generatedAtEastern": "8/6/2026, 14:18:05",
   "timezone": "America/New_York",
-  "agentCount": 19,
+  "agentCount": 20,
   "agents": [
     {
       "agentName": "Anthony Canales",
@@ -398,6 +398,28 @@
         "16-18": 0
       },
       "tpv": 7.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Angela Brady",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 5.5,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.5,
       "qaApproved": true
     },
     {
