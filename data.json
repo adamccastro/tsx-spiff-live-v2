@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-08-06T21:55:28.816Z",
-  "generatedAtEastern": "8/6/2026, 17:55:28",
+  "generatedAt": "2026-08-06T21:57:31.744Z",
+  "generatedAtEastern": "8/6/2026, 17:57:31",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
+    {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 7,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 3
+      },
+      "hourlyTpvTotal": {
+        "10-12": 42.6,
+        "12-13": 0,
+        "13-14": 13.5,
+        "14-15": 4.2,
+        "15-16": 13.9,
+        "16-18": 38.2
+      },
+      "tpv": 16.1,
+      "qaApproved": true
+    },
     {
       "agentName": "Gina Blaney",
       "qualifiedXfers": 7,
@@ -24,28 +46,6 @@
         "16-18": 4.7
       },
       "tpv": 10.5,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sharone Adoni",
-      "qualifiedXfers": 6,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 2
-      },
-      "hourlyTpvTotal": {
-        "10-12": 42.6,
-        "12-13": 0,
-        "13-14": 13.5,
-        "14-15": 4.2,
-        "15-16": 13.9,
-        "16-18": 20.9
-      },
-      "tpv": 15.9,
       "qaApproved": true
     },
     {
