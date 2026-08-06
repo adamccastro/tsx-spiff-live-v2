@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T21:39:03.193Z",
-  "generatedAtEastern": "8/6/2026, 17:39:03",
+  "generatedAt": "2026-08-06T21:41:07.399Z",
+  "generatedAtEastern": "8/6/2026, 17:41:07",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -203,6 +203,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 18.3,
+        "12-13": 0,
+        "13-14": 7.7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 20.2
+      },
+      "tpv": 15.4,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -332,28 +354,6 @@
         "16-18": 23.4
       },
       "tpv": 14.4,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Andrew Brett",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18.3,
-        "12-13": 0,
-        "13-14": 7.7,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 13,
       "qaApproved": true
     },
     {
