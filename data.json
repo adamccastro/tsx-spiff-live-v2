@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T17:32:56.417Z",
-  "generatedAtEastern": "8/6/2026, 13:32:56",
+  "generatedAt": "2026-08-06T17:34:59.707Z",
+  "generatedAtEastern": "8/6/2026, 13:34:59",
   "timezone": "America/New_York",
-  "agentCount": 18,
+  "agentCount": 19,
   "agents": [
     {
       "agentName": "Sara Jameson",
@@ -200,6 +200,28 @@
         "16-18": 0
       },
       "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Paulo Silva",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 11.1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.1,
       "qaApproved": true
     },
     {
