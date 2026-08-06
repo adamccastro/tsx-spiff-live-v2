@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T18:03:44.013Z",
-  "generatedAtEastern": "8/6/2026, 14:03:44",
+  "generatedAt": "2026-08-06T18:05:47.085Z",
+  "generatedAtEastern": "8/6/2026, 14:05:47",
   "timezone": "America/New_York",
   "agentCount": 19,
   "agents": [
@@ -49,6 +49,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 42.6,
+        "12-13": 0,
+        "13-14": 13.5,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 28.1,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -90,6 +112,28 @@
         "16-18": 0
       },
       "tpv": 17.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 18.3,
+        "12-13": 0,
+        "13-14": 7.7,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 13,
       "qaApproved": true
     },
     {
@@ -159,28 +203,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Sharone Adoni",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 42.6,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 42.6,
-      "qaApproved": true
-    },
-    {
       "agentName": "Tiffany Bays",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -200,28 +222,6 @@
         "16-18": 0
       },
       "tpv": 21.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Andrew Brett",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18.3,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 18.3,
       "qaApproved": true
     },
     {
