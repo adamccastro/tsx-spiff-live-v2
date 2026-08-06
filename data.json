@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T19:25:46.441Z",
-  "generatedAtEastern": "8/6/2026, 15:25:46",
+  "generatedAt": "2026-08-06T19:27:49.516Z",
+  "generatedAtEastern": "8/6/2026, 15:27:49",
   "timezone": "America/New_York",
-  "agentCount": 25,
+  "agentCount": 26,
   "agents": [
     {
       "agentName": "Gina Blaney",
@@ -464,6 +464,28 @@
         "16-18": 0
       },
       "tpv": 9.9,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Nick Mitchell",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 8.6,
+        "16-18": 0
+      },
+      "tpv": 8.6,
       "qaApproved": true
     },
     {
