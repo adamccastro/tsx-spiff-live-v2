@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06T20:06:47.378Z",
-  "generatedAtEastern": "8/6/2026, 16:06:47",
+  "generatedAt": "2026-08-06T20:08:50.455Z",
+  "generatedAtEastern": "8/6/2026, 16:08:50",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
@@ -71,6 +71,50 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 1,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 8.2,
+        "12-13": 0,
+        "13-14": 26.8,
+        "14-15": 0,
+        "15-16": 8.6,
+        "16-18": 0
+      },
+      "tpv": 14.5,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 7.9,
+        "13-14": 0,
+        "14-15": 9.8,
+        "15-16": 14,
+        "16-18": 0
+      },
+      "tpv": 10.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Isabel Jael",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -112,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 20.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 1,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 8.2,
-        "12-13": 0,
-        "13-14": 26.8,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17.5,
       "qaApproved": true
     },
     {
@@ -266,28 +288,6 @@
         "16-18": 0
       },
       "tpv": 9.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 7.9,
-        "13-14": 0,
-        "14-15": 9.8,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 8.9,
       "qaApproved": true
     },
     {
