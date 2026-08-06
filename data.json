@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T16:56:00.567Z",
-  "generatedAtEastern": "8/6/2026, 12:56:00",
+  "generatedAt": "2026-08-06T16:58:03.526Z",
+  "generatedAtEastern": "8/6/2026, 12:58:03",
   "timezone": "America/New_York",
-  "agentCount": 16,
+  "agentCount": 17,
   "agents": [
     {
       "agentName": "TJ Waldron",
@@ -332,6 +332,28 @@
         "16-18": 0
       },
       "tpv": 7.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Isabel Jael",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 5.9,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.9,
       "qaApproved": true
     },
     {
