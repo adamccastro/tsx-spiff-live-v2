@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T18:18:05.986Z",
-  "generatedAtEastern": "8/6/2026, 14:18:05",
+  "generatedAt": "2026-08-06T18:20:09.031Z",
+  "generatedAtEastern": "8/6/2026, 14:20:09",
   "timezone": "America/New_York",
-  "agentCount": 20,
+  "agentCount": 21,
   "agents": [
     {
       "agentName": "Anthony Canales",
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Tameeka Joseph",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 7.9,
+        "13-14": 0,
+        "14-15": 9.8,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 8.9,
+      "qaApproved": true
+    },
+    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -244,6 +266,28 @@
         "16-18": 0
       },
       "tpv": 14.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Devon Halbert",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 12.9,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 12.9,
       "qaApproved": true
     },
     {
@@ -348,28 +392,6 @@
       "hourlyTpvTotal": {
         "10-12": 7.9,
         "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 7.9,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Tameeka Joseph",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 7.9,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
