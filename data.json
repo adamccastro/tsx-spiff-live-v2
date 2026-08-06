@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-06T14:46:39.886Z",
-  "generatedAtEastern": "8/6/2026, 10:46:39",
+  "generatedAt": "2026-08-06T14:48:43.016Z",
+  "generatedAtEastern": "8/6/2026, 10:48:43",
   "timezone": "America/New_York",
-  "agentCount": 2,
+  "agentCount": 4,
   "agents": [
     {
       "agentName": "Andrew Brett",
@@ -27,6 +27,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Parker",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 14.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 14.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Christopher Westbrook",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -46,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 11.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 5.3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 5.3,
       "qaApproved": true
     }
   ]
