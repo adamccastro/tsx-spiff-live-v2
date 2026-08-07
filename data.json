@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T20:19:28.196Z",
-  "generatedAtEastern": "8/7/2026, 16:19:28",
+  "generatedAt": "2026-08-07T20:21:31.499Z",
+  "generatedAtEastern": "8/7/2026, 16:21:31",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -181,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 5.3
+      },
+      "tpv": 9.5,
+      "qaApproved": true
+    },
+    {
       "agentName": "Kenneth Martin",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -288,28 +310,6 @@
         "16-18": 0
       },
       "tpv": 15.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 23.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 11.6,
       "qaApproved": true
     },
     {
