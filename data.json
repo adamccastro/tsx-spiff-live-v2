@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-07T20:44:08.604Z",
-  "generatedAtEastern": "8/7/2026, 16:44:08",
+  "generatedAt": "2026-08-07T20:46:12.039Z",
+  "generatedAtEastern": "8/7/2026, 16:46:12",
   "timezone": "America/New_York",
-  "agentCount": 25,
+  "agentCount": 26,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
@@ -486,6 +486,28 @@
         "16-18": 0
       },
       "tpv": 13.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Gina Blaney",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 10.2
+      },
+      "tpv": 10.2,
       "qaApproved": true
     },
     {
