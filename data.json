@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T20:37:58.369Z",
-  "generatedAtEastern": "8/7/2026, 16:37:58",
+  "generatedAt": "2026-08-07T20:40:01.424Z",
+  "generatedAtEastern": "8/7/2026, 16:40:01",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -27,6 +27,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 84,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 42.5,
+        "15-16": 6.1,
+        "16-18": 4.7
+      },
+      "tpv": 34.3,
+      "qaApproved": true
+    },
+    {
       "agentName": "Angela Brady",
       "qualifiedXfers": 4,
       "hourlyXfers": {
@@ -46,28 +68,6 @@
         "16-18": 0
       },
       "tpv": 8.6,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 84,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 42.5,
-        "15-16": 6.1,
-        "16-18": 0
-      },
-      "tpv": 44.2,
       "qaApproved": true
     },
     {
