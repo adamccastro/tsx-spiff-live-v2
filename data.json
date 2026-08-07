@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-08-07T14:54:12.979Z",
-  "generatedAtEastern": "8/7/2026, 10:54:12",
+  "generatedAt": "2026-08-07T14:56:16.165Z",
+  "generatedAtEastern": "8/7/2026, 10:56:16",
   "timezone": "America/New_York",
-  "agentCount": 8,
+  "agentCount": 11,
   "agents": [
+    {
+      "agentName": "Kenneth Martin",
+      "qualifiedXfers": 2,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.4,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 6.2,
+      "qaApproved": true
+    },
     {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 1,
@@ -46,6 +68,28 @@
         "16-18": 0
       },
       "tpv": 18,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Christopher Westbrook",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.1,
       "qaApproved": true
     },
     {
@@ -137,6 +181,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Andrew Brett",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 11.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 11.8,
+      "qaApproved": true
+    },
+    {
       "agentName": "Sara Jameson",
       "qualifiedXfers": 1,
       "hourlyXfers": {
@@ -159,7 +225,7 @@
       "qaApproved": true
     },
     {
-      "agentName": "Kenneth Martin",
+      "agentName": "Isabel Jael",
       "qualifiedXfers": 1,
       "hourlyXfers": {
         "10-12": 1,
@@ -170,14 +236,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 5.2,
+        "10-12": 6.8,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 5.2,
+      "tpv": 6.8,
       "qaApproved": true
     }
   ]
