@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-07T20:07:08.108Z",
-  "generatedAtEastern": "8/7/2026, 16:07:08",
+  "generatedAt": "2026-08-07T20:09:11.325Z",
+  "generatedAtEastern": "8/7/2026, 16:09:11",
   "timezone": "America/New_York",
   "agentCount": 25,
   "agents": [
@@ -93,6 +93,28 @@
       "qaApproved": true
     },
     {
+      "agentName": "Anthony Canales",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 1,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 1,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 12.5,
+        "12-13": 21.6,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 27.8,
+        "16-18": 0
+      },
+      "tpv": 20.6,
+      "qaApproved": true
+    },
+    {
       "agentName": "Tonya Giordano",
       "qualifiedXfers": 3,
       "hourlyXfers": {
@@ -112,6 +134,28 @@
         "16-18": 0
       },
       "tpv": 19,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Michelle Adika",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 0,
+        "16-18": 1
+      },
+      "hourlyTpvTotal": {
+        "10-12": 18,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 24.6,
+        "15-16": 0,
+        "16-18": 10.3
+      },
+      "tpv": 17.6,
       "qaApproved": true
     },
     {
@@ -181,28 +225,6 @@
       "qaApproved": true
     },
     {
-      "agentName": "Michelle Adika",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 18,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 24.6,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 21.3,
-      "qaApproved": true
-    },
-    {
       "agentName": "Jeff Octave",
       "qualifiedXfers": 2,
       "hourlyXfers": {
@@ -244,28 +266,6 @@
         "16-18": 0
       },
       "tpv": 17.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Anthony Canales",
-      "qualifiedXfers": 2,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 1,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 12.5,
-        "12-13": 21.6,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 17.1,
       "qaApproved": true
     },
     {
