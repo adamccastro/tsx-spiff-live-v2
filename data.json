@@ -1,9 +1,53 @@
 {
-  "generatedAt": "2026-08-07T22:06:19.029Z",
-  "generatedAtEastern": "8/7/2026, 18:06:19",
+  "generatedAt": "2026-08-07T22:08:22.220Z",
+  "generatedAtEastern": "8/7/2026, 18:08:22",
   "timezone": "America/New_York",
   "agentCount": 26,
   "agents": [
+    {
+      "agentName": "TJ Waldron",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 1,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 84,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 42.5,
+        "15-16": 6.1,
+        "16-18": 15.8
+      },
+      "tpv": 29.7,
+      "qaApproved": true
+    },
+    {
+      "agentName": "Sharone Adoni",
+      "qualifiedXfers": 5,
+      "hourlyXfers": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 2,
+        "15-16": 1,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 0,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 69.7,
+        "15-16": 8.7,
+        "16-18": 33.7
+      },
+      "tpv": 22.4,
+      "qaApproved": true
+    },
     {
       "agentName": "Oreste Bacigalupo",
       "qualifiedXfers": 5,
@@ -46,50 +90,6 @@
         "16-18": 7
       },
       "tpv": 8.2,
-      "qaApproved": true
-    },
-    {
-      "agentName": "TJ Waldron",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 1,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 84,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 42.5,
-        "15-16": 6.1,
-        "16-18": 4.7
-      },
-      "tpv": 34.3,
-      "qaApproved": true
-    },
-    {
-      "agentName": "Sharone Adoni",
-      "qualifiedXfers": 4,
-      "hourlyXfers": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 2,
-        "15-16": 1,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 0,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 69.7,
-        "15-16": 8.7,
-        "16-18": 25.3
-      },
-      "tpv": 25.9,
       "qaApproved": true
     },
     {
@@ -156,6 +156,28 @@
         "16-18": 21.9
       },
       "tpv": 14.1,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Stengel",
+      "qualifiedXfers": 4,
+      "hourlyXfers": {
+        "10-12": 2,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 2
+      },
+      "hourlyTpvTotal": {
+        "10-12": 23.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 17.9
+      },
+      "tpv": 10.3,
       "qaApproved": true
     },
     {
@@ -288,28 +310,6 @@
         "16-18": 29.1
       },
       "tpv": 9.7,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 3,
-      "hourlyXfers": {
-        "10-12": 2,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 1
-      },
-      "hourlyTpvTotal": {
-        "10-12": 23.1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 5.3
-      },
-      "tpv": 9.5,
       "qaApproved": true
     },
     {
