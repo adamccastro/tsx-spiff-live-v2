@@ -1,11 +1,33 @@
 {
-  "generatedAt": "2026-08-07T15:41:37.193Z",
-  "generatedAtEastern": "8/7/2026, 11:41:37",
+  "generatedAt": "2026-08-07T15:43:40.645Z",
+  "generatedAtEastern": "8/7/2026, 11:43:40",
   "timezone": "America/New_York",
   "agentCount": 15,
   "agents": [
     {
       "agentName": "Oreste Bacigalupo",
+      "qualifiedXfers": 3,
+      "hourlyXfers": {
+        "10-12": 3,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 30.8,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 10.3,
+      "qaApproved": true
+    },
+    {
+      "agentName": "David Stengel",
       "qualifiedXfers": 2,
       "hourlyXfers": {
         "10-12": 2,
@@ -16,14 +38,14 @@
         "16-18": 0
       },
       "hourlyTpvTotal": {
-        "10-12": 25.7,
+        "10-12": 23.1,
         "12-13": 0,
         "13-14": 0,
         "14-15": 0,
         "15-16": 0,
         "16-18": 0
       },
-      "tpv": 12.9,
+      "tpv": 11.6,
       "qaApproved": true
     },
     {
@@ -134,28 +156,6 @@
         "16-18": 0
       },
       "tpv": 16.1,
-      "qaApproved": true
-    },
-    {
-      "agentName": "David Stengel",
-      "qualifiedXfers": 1,
-      "hourlyXfers": {
-        "10-12": 1,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "hourlyTpvTotal": {
-        "10-12": 14.8,
-        "12-13": 0,
-        "13-14": 0,
-        "14-15": 0,
-        "15-16": 0,
-        "16-18": 0
-      },
-      "tpv": 14.8,
       "qaApproved": true
     },
     {
