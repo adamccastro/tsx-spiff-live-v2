@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-08-08T15:50:22.270Z",
-  "generatedAtEastern": "8/8/2026, 11:50:22",
+  "generatedAt": "2026-08-08T15:52:25.467Z",
+  "generatedAtEastern": "8/8/2026, 11:52:25",
   "timezone": "America/New_York",
-  "agentCount": 0,
-  "agents": []
+  "agentCount": 1,
+  "agents": [
+    {
+      "agentName": "Donald Braxton",
+      "qualifiedXfers": 1,
+      "hourlyXfers": {
+        "10-12": 1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "hourlyTpvTotal": {
+        "10-12": 16.1,
+        "12-13": 0,
+        "13-14": 0,
+        "14-15": 0,
+        "15-16": 0,
+        "16-18": 0
+      },
+      "tpv": 16.1,
+      "qaApproved": true
+    }
+  ]
 }
